@@ -45,7 +45,7 @@
 			using (var outputCrossPlayFile = new StreamWriter("..\\..\\CategoryTxtOuput\\3XE12014-CrossPlay.txt"))
 			{
 				var allTeams = teams.Select(t => t.Key).ToArray();
-				outputCrossPlayFile.WriteLine(string.Join("\t", allTeams));
+				outputCrossPlayFile.WriteLine("\t{0}",string.Join("\t", allTeams));
 
 				foreach (var t1 in allTeams)
 				{
@@ -63,11 +63,6 @@
 					}
 					outputCrossPlayFile.WriteLine();
 				}
-			}
-
-			foreach (var team in teams.Values)
-			{
-				Console.WriteLine("{0} {1}", team.Name, string.Join(";", team.GetRivals().Select(t => string.Format("{0} - {1}", t.Key, t.Value))));
 			}
 		}
 	}
