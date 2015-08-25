@@ -1,0 +1,29 @@
+FBC Kladno bílí	TJ Sokol Královské Vinohrady	FBK Fat Pipe Vosy Praha	Tatran Střešovice Red	FBC Start98 Kunratice	BLACK ANGELS 2004	Florbalová akademie MB	Sokol Rudná	AC Sparta Praha RED	AC Sparta Praha BLUE	Technology Florbal MB	Viking group TJ Sokol Kobylisy	FBC Start98 Kunratice B	FBK CONEP Vosy Praha	BLACK ANGELS 2005	DDM Horní Počernice ORKA B	FbC Panthers	TEMPISH Orka Čelákovice	AC Sparta Praha YELLOW	T.B.C. Králův Dvůr	AC Sparta Praha BLACK	TEMPISH Orka Čelákovice C	Tatran Střešovice Black	Athletics Praha Černý Most	FBC Kutná Hora	Athletics Praha Prosek	Viking TJ Sokol Kobylisy B	FbŠ Bohemians
+FBC Kladno bílí	0	2	2	4	6	3	1	0	6	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+TJ Sokol Královské Vinohrady	2	0	2	4	2	1	5	1	1	1	2	1	0	0	3	0	0	2	0	0	0	0	0	0	0	0	0	0
+FBK Fat Pipe Vosy Praha	2	2	0	2	1	4	2	0	4	1	1	1	0	0	1	1	4	1	0	0	0	0	0	0	0	0	0	0
+Tatran Střešovice Red	4	4	2	0	4	3	0	0	0	1	4	0	0	0	1	0	3	1	0	0	0	0	0	0	0	0	0	0
+FBC Start98 Kunratice	6	2	1	4	0	2	0	0	4	0	4	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0
+BLACK ANGELS 2004	3	1	4	3	2	0	1	0	0	2	0	2	2	1	2	0	1	1	0	0	0	0	1	0	0	0	0	1
+Florbalová akademie MB	1	5	2	0	0	1	0	1	1	2	3	3	1	0	0	3	2	2	0	0	0	0	0	0	0	0	0	0
+Sokol Rudná	0	1	0	0	0	0	1	0	0	0	1	1	1	1	0	1	1	1	2	4	1	1	1	3	1	2	2	1
+AC Sparta Praha RED	6	1	4	0	4	0	1	0	0	1	4	1	1	0	1	1	0	2	0	0	0	0	0	0	0	0	0	0
+AC Sparta Praha BLUE	0	1	1	1	0	2	2	0	1	0	0	5	1	2	3	2	1	3	0	0	0	0	0	1	0	0	0	1
+Technology Florbal MB	1	2	1	4	4	0	3	1	4	0	0	1	0	0	2	1	2	1	0	0	0	0	0	0	0	0	0	0
+Viking group TJ Sokol Kobylisy	1	1	1	0	0	2	3	1	1	5	1	0	2	0	0	3	1	0	0	0	0	0	3	1	0	0	0	1
+FBC Start98 Kunratice B	0	0	0	0	0	2	1	1	1	1	0	2	0	3	1	3	1	2	1	3	0	0	1	1	0	0	1	2
+FBK CONEP Vosy Praha	0	0	0	0	0	1	0	1	0	2	0	0	3	0	1	1	1	0	1	2	4	0	3	3	0	0	0	4
+BLACK ANGELS 2005	0	3	1	1	0	2	0	0	1	3	2	0	1	1	0	4	1	2	0	0	0	0	3	0	0	0	0	2
+DDM Horní Počernice ORKA B	0	0	1	0	0	0	3	1	1	2	1	3	3	1	4	0	2	3	0	0	0	0	2	0	0	0	0	0
+FbC Panthers	1	0	4	3	3	1	2	1	0	1	2	1	1	1	1	2	0	2	0	0	0	0	0	1	0	0	0	0
+TEMPISH Orka Čelákovice	0	2	1	1	1	1	2	1	2	3	1	0	2	0	2	3	2	0	0	1	0	0	1	1	0	0	0	0
+AC Sparta Praha YELLOW	0	0	0	0	0	0	0	2	0	0	0	0	1	1	0	0	0	0	0	5	5	3	2	3	2	1	1	1
+T.B.C. Králův Dvůr	0	0	0	0	0	0	0	4	0	0	0	0	3	2	0	0	0	1	5	0	2	0	4	2	0	2	0	2
+AC Sparta Praha BLACK	0	0	0	0	0	0	0	1	0	0	0	0	0	4	0	0	0	0	5	2	0	4	1	1	3	2	2	2
+TEMPISH Orka Čelákovice C	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	0	4	0	0	1	8	5	5	0
+Tatran Střešovice Black	0	0	0	0	0	1	0	1	0	0	0	3	1	3	3	2	0	1	2	4	1	0	0	3	0	0	0	2
+Athletics Praha Černý Most	0	0	0	0	0	0	0	3	0	1	0	1	1	3	0	0	1	1	3	2	1	1	3	0	0	3	1	2
+FBC Kutná Hora	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	3	8	0	0	0	6	6	1
+Athletics Praha Prosek	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	1	2	2	5	0	3	6	0	5	1
+Viking TJ Sokol Kobylisy B	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	1	0	2	5	0	1	6	5	0	4
+FbŠ Bohemians	0	0	0	0	0	1	0	1	0	1	0	1	2	4	2	0	0	0	1	2	2	0	2	2	1	1	4	0

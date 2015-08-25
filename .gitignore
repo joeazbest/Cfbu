@@ -1,0 +1,7 @@
+TestResults/*
+*/*/Debug/*
+
+*.user
+*.suo
+StyleCop.Cache
+*.DotSettings
