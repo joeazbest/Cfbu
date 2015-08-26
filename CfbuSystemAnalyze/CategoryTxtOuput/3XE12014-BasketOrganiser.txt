@@ -1,0 +1,28 @@
+FBC Kladno bílí	1	1	1(1)	1	1	1(1)	2	1	1
+TJ Sokol Královské Vinohrady	1	2	2	2	1(1)	2	1(1)	2	2
+FBC Start98 Kunratice	1(1)	1	1	1(1)	1	1	1	1	1
+FBK Fat Pipe Vosy Praha	1	1	1	1	2	2	2	2	1(1)
+Tatran Střešovice Red	1	1(1)	2	1	1	1	1	1	2
+BLACK ANGELS 2004	1	1	1	1	2	3	3	1(1)	3
+Florbalová akademie MB	2	2	2	2	2(2)	2	2	2(2)	2
+Sokol Rudná	2	3	4	5	4	2(2)	4	4	4
+Technology Florbal MB	2(2)	2	2	2	1	1	1	1	1
+AC Sparta Praha RED	2	1	1	2(2)	1	1	2(2)	2	1
+AC Sparta Praha BLUE	2	2	3	3	2	3	3	3	2(2)
+Viking group TJ Sokol Kobylisy	2	2(2)	2(2)	3	3	3	2	3	3
+FBC Start98 Kunratice B	3	3	4	3	3	4	3	2	3(3)
+FBK CONEP Vosy Praha	3	4	3	4	4	4	3	3(3)	4
+TEMPISH Orka Čelákovice	3(3)	3	3	3(3)	2	1	1	2	2
+BLACK ANGELS 2005	3	2	1	2	3	3(3)	3(3)	3	2
+DDM Horní Počernice ORKA B	3	3	3(3)	2	3(3)	2	2	3	3
+FbC Panthers	3	3(3)	2	1	2	2	1	1	1
+AC Sparta Praha YELLOW	4	4	4	4	4	4(4)	5	5	4(4)
+T.B.C. Králův Dvůr	4	4	4(4)	3	4	4	4	4(4)	4
+Tatran Střešovice Black	4(4)	4	3	3	3	3	4(4)	3	3
+AC Sparta Praha BLACK	4	4(4)	5	4	5	4	4	5	4
+TEMPISH Orka Čelákovice C	4	5(5)	5	5	5	5	5	5(5)	5
+Athletics Praha Černý Most	4	3	3	4(4)	4(4)	3	4	4	4
+FBC Kutná Hora	5	5	5(5)	5	5(5)	5(5)	5	5	5
+Athletics Praha Prosek	5	5	5	5(5)	4	5	4	4	5(5)
+Viking TJ Sokol Kobylisy B	5(5)	5	4	4	5	5	5(5)	4	5
+FbŠ Bohemians	5	4	4	4	3	4	3	4	3

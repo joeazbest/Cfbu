@@ -1,0 +1,60 @@
+	FbŠ Bohemians DDM Praha 7	BLACK ANGELS	TJ JM FAT PIPE Chodov	FBK Fat Pipe Vosy Praha	Tatran Střešovice Red	AC Sparta Praha	AC Sparta Praha B	Viking group TJ Sokol Kobylisy	FBC Kladno	FC Bučis Team 	DDM Horní Počernice ORKA	FbC Panthers	SK Florbal Benešov 	T.B.C. Králův Dvůr	TJ JM FAT PIPE Chodov B	Technology Florbal MB	Wizards DDM Praha 10 	Athletics Praha	Florbalová akademie MB	TEMPISH Orka Čelákovice B	Lhokamo Praha	Floorball Club Falcon	FBC Start98 Kunratice	AC Sparta Praha C	FbŠ Bohemians Praha 4 zelení C	Technology Florbal MB B	FBC Kutná Hora 	Tatran Střešovice B-Black	FBC Kralupy n/V	TJ Sokol Královské Vinohrady	Sokol Rudná	TJ JM FAT PIPE Chodov C	FC Bučis Team B	AC Sparta Praha D	FBC Kladno B	FBK CONEP Vosy Praha B	BLACK ANGELS B	T.J. Sokol na Mělníce	FBC Říčany	SK Florbal Benešov B	Athletics Praha B	FBK Davle	FBC Kladno C	FbC Panthers B	DDM Horní Počernice ORKA C	Floorball Club Falcon C	FbŠ Bohemians Letňany D	FBC Pitbulláci Kolín	FBC UNHOŠŤ	Red Dragons Hořovice	FbŠ Bohemians Praha 4 bílí B	Floorball Club Falcon B	FbC Barracudas Slaný	Florbal Neratovice	FBC Vlci Tatran Kostelec	TJ Sokol Mukařov	Flobo Praha	SK Alien Nation	SOKOL Hanspaulka
+FbŠ Bohemians DDM Praha 7	0	7	8	5	5	5	4	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BLACK ANGELS	7	0	9	4	5	5	2	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TJ JM FAT PIPE Chodov	8	9	0	3	4	2	4	3	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FBK Fat Pipe Vosy Praha	5	4	3	0	3	5	1	5	2	2	1	1	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tatran Střešovice Red	5	5	4	3	0	1	3	2	2	1	3	1	1	1	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AC Sparta Praha	5	5	2	5	1	0	4	1	2	3	1	1	1	3	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AC Sparta Praha B	4	2	4	1	3	4	0	1	1	2	1	0	1	1	1	1	1	2	3	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viking group TJ Sokol Kobylisy	1	2	3	5	2	1	1	0	2	2	4	1	2	1	1	1	1	2	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FBC Kladno	0	1	1	2	2	2	1	2	0	3	5	2	3	2	2	2	1	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FC Bučis Team 	0	0	1	2	1	3	2	2	3	0	0	4	4	1	3	1	4	0	1	0	0	1	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DDM Horní Počernice ORKA	0	0	0	1	3	1	1	4	5	0	0	3	2	1	2	2	0	2	3	3	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FbC Panthers	1	0	0	1	1	1	0	1	2	4	3	0	1	5	2	4	3	3	0	1	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SK Florbal Benešov 	0	1	1	0	1	1	1	2	3	4	2	1	0	2	4	3	0	3	2	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T.B.C. Králův Dvůr	0	0	0	0	1	3	1	1	2	1	1	5	2	0	3	2	3	2	0	3	0	3	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TJ JM FAT PIPE Chodov B	0	0	0	3	2	0	1	1	2	3	2	2	4	3	0	1	1	1	1	0	2	2	2	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Technology Florbal MB	0	0	0	0	0	0	1	1	2	1	2	4	3	2	1	0	3	2	0	3	2	3	1	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wizards DDM Praha 10 	0	0	0	1	0	1	1	1	1	4	0	3	0	3	1	3	0	0	3	3	2	1	2	3	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Athletics Praha	0	0	0	0	1	0	2	2	4	0	2	3	3	2	1	2	0	0	3	1	2	2	0	0	1	0	2	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Florbalová akademie MB	0	0	0	0	1	1	3	1	0	1	3	0	2	0	1	0	3	3	0	1	3	3	3	1	2	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TEMPISH Orka Čelákovice B	0	0	0	0	0	0	0	1	0	0	3	1	0	3	0	3	3	1	1	0	3	1	2	2	3	2	3	2	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lhokamo Praha	0	0	0	0	0	0	1	1	0	0	1	0	0	0	2	2	2	2	3	3	0	1	4	3	0	2	3	1	1	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Floorball Club Falcon	0	0	0	0	0	0	0	0	1	1	0	2	1	3	2	3	1	2	3	1	1	0	1	5	0	0	2	3	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FBC Start98 Kunratice	0	0	0	0	0	0	1	1	0	0	1	0	0	0	2	1	2	0	3	2	4	1	0	1	5	2	4	1	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AC Sparta Praha C	0	0	0	0	0	0	0	0	0	2	0	1	1	2	1	1	3	0	1	2	3	5	1	0	0	2	1	1	1	1	1	0	0	0	1	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FbŠ Bohemians Praha 4 zelení C	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	2	0	1	2	3	0	0	5	0	0	2	2	2	5	3	1	2	0	0	0	0	0	0	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Technology Florbal MB B	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	2	1	0	1	2	2	0	2	2	2	0	2	2	3	2	4	2	1	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+FBC Kutná Hora 	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	2	2	1	3	3	2	4	1	2	2	0	3	2	0	0	3	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Tatran Střešovice B-Black	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	1	3	1	1	2	2	3	0	3	2	2	2	2	2	1	0	1	0	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+FBC Kralupy n/V	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	5	3	2	3	0	0	0	3	2	1	1	2	1	1	2	2	0	1	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+TJ Sokol Královské Vinohrady	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	3	2	0	2	0	0	1	4	3	3	0	3	2	2	2	0	2	0	0	0	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0
+Sokol Rudná	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	2	0	1	1	1	4	0	2	0	1	0	1	1	0	2	4	1	2	2	0	1	1	2	1	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0
+TJ JM FAT PIPE Chodov C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	2	2	3	2	3	4	1	0	0	4	1	0	1	1	1	2	0	0	0	0	1	1	0	0	1	0	1	0	0	0	1	0	1	0	0
+FC Bučis Team B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	2	2	3	1	0	0	1	6	5	3	2	1	1	2	0	2	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+AC Sparta Praha D	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	3	0	4	1	0	0	2	2	7	3	2	3	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FBC Kladno B	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	1	0	1	0	1	0	1	1	0	2	1	6	0	0	3	2	2	2	2	0	1	4	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+FBK CONEP Vosy Praha B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	1	0	0	2	3	4	0	5	2	3	0	2	2	1	0	2	1	1	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0
+BLACK ANGELS B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	1	2	1	1	3	2	2	2	0	3	2	3	1	2	2	0	3	0	0	2	1	0	0	0	0	0	0	0	0	0	0
+T.J. Sokol na Mělníce	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	1	2	7	2	2	3	0	4	2	2	2	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+FBC Říčany	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	2	2	2	1	1	3	2	1	2	4	0	1	2	2	4	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+SK Florbal Benešov B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	2	2	0	0	2	1	2	2	0	3	2	1	0	2	1	3	2	2	1	1	0	0	1	1	0	0	0	0	1	0	1	1
+Athletics Praha B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	1	0	2	3	0	2	1	2	2	2	0	0	3	1	3	1	0	0	1	2	0	1	0	0	0	2	1	2	2
+FBK Davle	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	2	1	1	2	2	2	1	0	0	1	4	2	4	1	1	3	4	0	1	1	0	0	1	0	0	0
+FBC Kladno C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	4	1	2	1	4	3	3	1	0	2	2	1	0	0	1	2	1	1	0	1	2	0	0	0	0
+FbC Panthers B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	2	1	4	2	0	1	5	1	3	2	1	2	2	2	0	1	1	0	0	0
+DDM Horní Počernice ORKA C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	3	0	1	3	0	1	2	3	2	2	1	0	2	0	1	0	4	1	1	1	1	1	1	1	0	0
+Floorball Club Falcon C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	4	1	5	2	0	0	2	6	2	2	3	5	0	0	0	0	0	0
+FbŠ Bohemians Letňany D	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	1	1	0	1	0	1	0	0	0	1	1	0	1	0	1	0	0	0	4	2	0	1	2	3	2	1	0	3	5	5
+FBC Pitbulláci Kolín	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	2	1	1	0	0	1	0	3	1	2	4	0	2	1	4	0	1	2	2	2	2	2	2
+FBC UNHOŠŤ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	3	1	2	0	6	2	2	0	1	4	1	1	3	1	1	3	2	2
+Red Dragons Hořovice	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	2	4	2	1	4	2	0	1	1	0	1	4	2	2	3	2	2	0	0
+FbŠ Bohemians Praha 4 bílí B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	2	1	2	1	4	4	1	0	4	2	4	5	1	2	0	0
+Floorball Club Falcon B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	2	1	3	2	0	1	4	4	0	4	2	1	3	3	2	2
+FbC Barracudas Slaný	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	2	1	5	3	1	1	2	2	4	0	5	1	2	1	4	4
+Florbal Neratovice	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	1	0	2	2	3	2	4	2	5	0	4	3	1	3	3
+FBC Vlci Tatran Kostelec	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	1	1	0	1	2	1	3	5	1	1	4	0	5	5	3	3
+TJ Sokol Mukařov	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	1	1	0	0	2	1	2	1	3	2	3	5	0	5	6	6
+Flobo Praha	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	3	2	3	2	2	3	1	1	5	5	0	6	6
+SK Alien Nation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	5	2	2	0	0	2	4	3	3	6	6	0	12
+SOKOL Hanspaulka	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	5	2	2	0	0	2	4	3	3	6	6	12	0

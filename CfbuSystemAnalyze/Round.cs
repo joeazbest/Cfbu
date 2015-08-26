@@ -1,14 +1,15 @@
 ﻿namespace CfbuSystemAnalyze
 {
 	using System.Collections.Generic;
+	using System.Linq;
 
 	internal class Round
 	{
-		public string Basket { get; private set; }
+		public int Basket { get; private set; }
 		public List<string> Rivals { get; private set; }
 
 		public Round(
-			string basket
+			int basket
 		)
 		{
 			this.Basket = basket;

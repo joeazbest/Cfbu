@@ -1,7 +1,6 @@
 ﻿namespace CfbuSystemAnalyze
 {
 	using System;
-	using System.Globalization;
 
 	internal class TeamInputData
 	{
@@ -30,11 +29,11 @@
 			this.Organiser = splitInputLine[6];
 		}
 
-		public string Basket
+		public int Basket
 		{
 			get
 			{
-				return this.leagueCode[17].ToString(CultureInfo.InvariantCulture);
+				return this.leagueCode[17] - 64;
 			}
 		}
 	}
