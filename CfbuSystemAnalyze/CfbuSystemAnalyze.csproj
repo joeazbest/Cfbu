@@ -54,8 +54,8 @@
     <EmbeddedResource Include="CategoryTxtData\3XE12014.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CategoryTxtData\3XS12014.txt" />
-    <Content Include="CategoryTxtData\3XZ12014.txt" />
+    <EmbeddedResource Include="CategoryTxtData\3XS12014.txt" />
+    <EmbeddedResource Include="CategoryTxtData\3XZ12014.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
