@@ -8,6 +8,7 @@
 		public string Name { get; private set; }
 		public Dictionary<int, Round> Rounds { get; private set; }		// int poradi kol
 		public Dictionary<int, int> Organiser { get; private set; }		// kolo, ktery kos
+		public Dictionary<int, List<Match>> Matches { get; private set; }	// kolo, seznam zapasu	// TODO
 
 		internal Team(string name)
 		{

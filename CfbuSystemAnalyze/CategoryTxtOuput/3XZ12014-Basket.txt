@@ -1,50 +1,50 @@
 BLACK ANGELS	1	1	1	1	1	1	1	2	1
 AC Sparta Praha RED	1	1	2	3	4	4	4	4	3
-FBC Kutná Hora 	4	4	5	4	5	6	7	6	4
-T.B.C. Králův Dvůr	4	4	4	4	4	4	4	5	5
-Wizards DDM Praha 10	4	5	4	4	5	4	3	3	4
-FBK Fat Pipe Vosy Praha	3	3	3	3	2	3	2	3	2
-DDM Horní Počernice ORKA	3	4	4	5	3	5	4	5	5
-FbC Panthers	3	3	3	2	3	2	2	2	3
+SK Florbal Benešov I.	1	1	1	1	1	1	2	1	1
+Viking group TJ Sokol Kobylisy	1	2	2	1	2	1	2	1	3
+FbŠ Bohemians DDM Praha 7	1	1	1	1	2	1	1	1	1
+Tatran Střešovice Red	1	1	1	1	1	2	3	2	1
 AC Sparta Praha BLUE	2	3	2	4	4	5	5	4	5
 TJ JM FAT PIPE Chodov blue	2	2	2	2	3	2	2	2	1
 TJ JM FAT PIPE Chodov white	2	1	1	1	1	1	1	1	1
-SK Florbal Benešov I.	1	1	1	1	1	1	2	1	1
-Viking group TJ Sokol Kobylisy	1	2	2	1	2	1	2	1	3
-Sokol Rudná	4	4	4	3	4	3	3	4	4
-TJ Sokol Královské Vinohrady	4	3	3	3	3	4	3	3	2
-Athletics Praha Černý Most	3	3	4	3	4	3	3	4	3
 FC Bučis Team	2	2	1	2	3	3	3	2	3
 Floorball Club Falcon	2	2	3	4	2	4	4	4	4
-FbŠ Bohemians DDM Praha 7	1	1	1	1	2	1	1	1	1
-BLACK ANGELS B	4	4	4	5	5	5	5	4	6
-FBC Kladno bílí	3	3	3	2	1	2	2	3	2
-Tatran Střešovice Red	1	1	1	1	1	2	3	2	1
-Florbalová akademie MB	3	2	2	3	2	2	1	1	3
 FBC Start98 Kunratice	2	2	2	2	1	1	1	1	2
-FC Bučis Team B	6	5	6	6	6	6	5	5	4
-TEMPISH Orka Čelákovice B	6	6	7	8	6	8	8	8	6
-SK Florbal Benešov II.	6	6	7	8	9	9	8	6	7
-Wizards DDM Praha 10 B	9	9	9	8	7	8	9	7	7
-FBC Příbram	9	9	9	9	9	9	9	9	9
-SK Dvojka Praha	9	8	7	6	9	6	6	7	8
-AC Sparta Praha YELLOW	7	8	8	9	8	8	7	8	7
-FBC Kralupy n/V	7	7	6	7	7	6	5	6	6
-Florbal Neratovice	7	7	8	9	8	7	6	7	7
-TJ JM FAT PIPE Chodov black	8	8	7	7	8	7	8	7	8
-TJ Sokol Královské Vinohrady B	8	7	8	7	6	6	6	8	7
-FBC Start98 Kunratice B	6	6	6	6	7	6	5	6	6
-FbŠ Bohemians Praha 4	6	6	5	4	3	3	6	3	2
-FbK Olymp Praha	9	9	8	7	7	9	7	7	9
-FBC Říčany	7	6	6	5	6	7	7	7	6
-ELITE PRAHA team DDM P6	7	7	7	7	7	7	7	8	8
-Floorball Club Falcon B	8	9	9	8	9	8	9	9	9
-FBC UNHOŠŤ	8	8	9	9	8	9	9	9	9
-FbC Panthers B	7	7	7	6	5	5	7	6	7
-AC Sparta Praha BLACK	6	7	6	7	7	7	8	9	8
+FBK Fat Pipe Vosy Praha	3	3	3	3	2	3	2	3	2
+DDM Horní Počernice ORKA	3	4	4	5	3	5	4	5	5
+FbC Panthers	3	3	3	2	3	2	2	2	3
+Athletics Praha Černý Most	3	3	4	3	4	3	3	4	3
+FBC Kladno bílí	3	3	3	2	1	2	2	3	2
+Florbalová akademie MB	3	2	2	3	2	2	1	1	3
+FBC Kutná Hora 	4	4	5	4	5	6	7	6	4
+T.B.C. Králův Dvůr	4	4	4	4	4	4	4	5	5
+Wizards DDM Praha 10	4	5	4	4	5	4	3	3	4
+Sokol Rudná	4	4	4	3	4	3	3	4	4
+TJ Sokol Královské Vinohrady	4	3	3	3	3	4	3	3	2
+BLACK ANGELS B	4	4	4	5	5	5	5	4	6
 Athletics Praha Prosek	5	5	5	6	5	7	6	5	6
 FBK Davle	5	5	5	5	5	4	5	5	5
 Technology Florbal MB	5	4	3	2	2	2	1	2	2
 Tatran Střešovice Black	5	5	5	5	6	5	4	5	4
 FBK CONEP Vosy Praha	5	6	6	6	6	5	6	6	5
 FBC Kladno modří	5	5	5	5	4	3	4	3	5
+FC Bučis Team B	6	5	6	6	6	6	5	5	4
+TEMPISH Orka Čelákovice B	6	6	7	8	6	8	8	8	6
+SK Florbal Benešov II.	6	6	7	8	9	9	8	6	7
+FBC Start98 Kunratice B	6	6	6	6	7	6	5	6	6
+FbŠ Bohemians Praha 4	6	6	5	4	3	3	6	3	2
+AC Sparta Praha BLACK	6	7	6	7	7	7	8	9	8
+AC Sparta Praha YELLOW	7	8	8	9	8	8	7	8	7
+FBC Kralupy n/V	7	7	6	7	7	6	5	6	6
+Florbal Neratovice	7	7	8	9	8	7	6	7	7
+FBC Říčany	7	6	6	5	6	7	7	7	6
+ELITE PRAHA team DDM P6	7	7	7	7	7	7	7	8	8
+FbC Panthers B	7	7	7	6	5	5	7	6	7
+TJ JM FAT PIPE Chodov black	8	8	7	7	8	7	8	7	8
+TJ Sokol Královské Vinohrady B	8	7	8	7	6	6	6	8	7
+Floorball Club Falcon B	8	9	9	8	9	8	9	9	9
+FBC UNHOŠŤ	8	8	9	9	8	9	9	9	9
+Wizards DDM Praha 10 B	9	9	9	8	7	8	9	7	7
+FBC Příbram	9	9	9	9	9	9	9	9	9
+SK Dvojka Praha	9	8	7	6	9	6	6	7	8
+FbK Olymp Praha	9	9	8	7	7	9	7	7	9

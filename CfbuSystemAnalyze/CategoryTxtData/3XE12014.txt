@@ -1,378 +1,378 @@
-3XE12014/2015-A01A01	1	11.10.2014	9:00:00	FBC Kladno bílí	TJ Sokol Královské Vinohrady	FBC Start98 Kunratice
-3XE12014/2015-A01A02	1	11.10.2014	9:40:00	FBK Fat Pipe Vosy Praha	Tatran Střešovice Red	FBC Start98 Kunratice
-3XE12014/2015-A01A03	1	11.10.2014	10:20:00	FBC Start98 Kunratice	FBC Kladno bílí	FBC Start98 Kunratice
-3XE12014/2015-A01A04	1	11.10.2014	11:00:00	BLACK ANGELS 2004	FBK Fat Pipe Vosy Praha	FBC Start98 Kunratice
-3XE12014/2015-A01A05	1	11.10.2014	11:40:00	TJ Sokol Královské Vinohrady	FBC Start98 Kunratice	FBC Start98 Kunratice
-3XE12014/2015-A01A06	1	11.10.2014	12:20:00	Tatran Střešovice Red	BLACK ANGELS 2004	FBC Start98 Kunratice
-3XE12014/2015-A01A07	1	11.10.2014	13:00:00	FBC Kladno bílí	FBK Fat Pipe Vosy Praha	FBC Start98 Kunratice
-3XE12014/2015-A01A08	1	11.10.2014	13:40:00	FBC Start98 Kunratice	Tatran Střešovice Red	FBC Start98 Kunratice
-3XE12014/2015-A01A09	1	11.10.2014	14:20:00	TJ Sokol Královské Vinohrady	BLACK ANGELS 2004	FBC Start98 Kunratice
-3XE12014/2015-A01B01	1	11.10.2014	9:00:00	Florbalová akademie MB	Sokol Rudná	Technology Florbal MB
-3XE12014/2015-A01B02	1	11.10.2014	9:40:00	AC Sparta Praha RED	AC Sparta Praha BLUE	Technology Florbal MB
-3XE12014/2015-A01B03	1	11.10.2014	10:20:00	Technology Florbal MB	Florbalová akademie MB	Technology Florbal MB
-3XE12014/2015-A01B04	1	11.10.2014	11:00:00	Viking group TJ Sokol Kobylisy	AC Sparta Praha RED	Technology Florbal MB
-3XE12014/2015-A01B05	1	11.10.2014	11:40:00	Sokol Rudná	Technology Florbal MB	Technology Florbal MB
-3XE12014/2015-A01B06	1	11.10.2014	12:20:00	AC Sparta Praha BLUE	Viking group TJ Sokol Kobylisy	Technology Florbal MB
-3XE12014/2015-A01B07	1	11.10.2014	13:00:00	Technology Florbal MB	AC Sparta Praha RED	Technology Florbal MB
-3XE12014/2015-A01B08	1	11.10.2014	13:40:00	Florbalová akademie MB	AC Sparta Praha BLUE	Technology Florbal MB
-3XE12014/2015-A01B09	1	11.10.2014	14:20:00	Sokol Rudná	Viking group TJ Sokol Kobylisy	Technology Florbal MB
-3XE12014/2015-A01C01	1	11.10.2014	9:00:00	FBC Start98 Kunratice B	FBK CONEP Vosy Praha	TEMPISH Orka Čelákovice
-3XE12014/2015-A01C02	1	11.10.2014	9:40:00	BLACK ANGELS 2005	DDM Horní Počernice ORKA B	TEMPISH Orka Čelákovice
-3XE12014/2015-A01C03	1	11.10.2014	10:20:00	FbC Panthers	FBC Start98 Kunratice B	TEMPISH Orka Čelákovice
-3XE12014/2015-A01C04	1	11.10.2014	11:00:00	TEMPISH Orka Čelákovice	BLACK ANGELS 2005	TEMPISH Orka Čelákovice
-3XE12014/2015-A01C05	1	11.10.2014	11:40:00	FBK CONEP Vosy Praha	FbC Panthers	TEMPISH Orka Čelákovice
-3XE12014/2015-A01C06	1	11.10.2014	12:20:00	DDM Horní Počernice ORKA B	TEMPISH Orka Čelákovice	TEMPISH Orka Čelákovice
-3XE12014/2015-A01C07	1	11.10.2014	13:00:00	FbC Panthers	BLACK ANGELS 2005	TEMPISH Orka Čelákovice
-3XE12014/2015-A01C08	1	11.10.2014	13:40:00	FBC Start98 Kunratice B	TEMPISH Orka Čelákovice	TEMPISH Orka Čelákovice
-3XE12014/2015-A01C09	1	11.10.2014	14:20:00	FBK CONEP Vosy Praha	DDM Horní Počernice ORKA B	TEMPISH Orka Čelákovice
-3XE12014/2015-A01D01	1	12.10.2014	9:00:00	AC Sparta Praha YELLOW	T.B.C. Králův Dvůr	Tatran Střešovice Black
-3XE12014/2015-A01D02	1	12.10.2014	9:40:00	AC Sparta Praha BLACK	TEMPISH Orka Čelákovice C	Tatran Střešovice Black
-3XE12014/2015-A01D03	1	12.10.2014	10:20:00	Tatran Střešovice Black	AC Sparta Praha YELLOW	Tatran Střešovice Black
-3XE12014/2015-A01D04	1	12.10.2014	11:00:00	Athletics Praha Černý Most	AC Sparta Praha BLACK	Tatran Střešovice Black
-3XE12014/2015-A01D05	1	12.10.2014	11:40:00	T.B.C. Králův Dvůr	Tatran Střešovice Black	Tatran Střešovice Black
-3XE12014/2015-A01D06	1	12.10.2014	12:20:00	TEMPISH Orka Čelákovice C	Athletics Praha Černý Most	Tatran Střešovice Black
-3XE12014/2015-A01D07	1	12.10.2014	13:00:00	Tatran Střešovice Black	Athletics Praha Černý Most	Tatran Střešovice Black
-3XE12014/2015-A01D08	1	12.10.2014	13:40:00	T.B.C. Králův Dvůr	AC Sparta Praha BLACK	Tatran Střešovice Black
-3XE12014/2015-A01D09	1	12.10.2014	14:20:00	AC Sparta Praha YELLOW	TEMPISH Orka Čelákovice C	Tatran Střešovice Black
-3XE12014/2015-A01E01	1	12.10.2014	9:00:00	FBC Kutná Hora	Athletics Praha Prosek	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A01E02	1	12.10.2014	9:40:00	Viking TJ Sokol Kobylisy B	FbŠ Bohemians	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A01E03	1	12.10.2014	10:20:00	FBC Kutná Hora	FbŠ Bohemians	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A01E04	1	12.10.2014	11:00:00	Viking TJ Sokol Kobylisy B	Athletics Praha Prosek	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A01E05	1	12.10.2014	11:40:00	Viking TJ Sokol Kobylisy B	FBC Kutná Hora	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A01E06	1	12.10.2014	12:20:00	FbŠ Bohemians	Athletics Praha Prosek	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A02A01	2	25.10.2014	9:00:00	FBC Start98 Kunratice	AC Sparta Praha RED	Tatran Střešovice Red
-3XE12014/2015-A02A02	2	25.10.2014	9:40:00	BLACK ANGELS 2004	Tatran Střešovice Red	Tatran Střešovice Red
-3XE12014/2015-A02A03	2	25.10.2014	10:20:00	FBC Kladno bílí	FBC Start98 Kunratice	Tatran Střešovice Red
-3XE12014/2015-A02A04	2	25.10.2014	11:00:00	FBK Fat Pipe Vosy Praha	BLACK ANGELS 2004	Tatran Střešovice Red
-3XE12014/2015-A02A05	2	25.10.2014	11:40:00	AC Sparta Praha RED	FBC Kladno bílí	Tatran Střešovice Red
-3XE12014/2015-A02A06	2	25.10.2014	12:20:00	Tatran Střešovice Red	FBK Fat Pipe Vosy Praha	Tatran Střešovice Red
-3XE12014/2015-A02A07	2	25.10.2014	13:00:00	FBC Kladno bílí	BLACK ANGELS 2004	Tatran Střešovice Red
-3XE12014/2015-A02A08	2	25.10.2014	13:40:00	AC Sparta Praha RED	FBK Fat Pipe Vosy Praha	Tatran Střešovice Red
-3XE12014/2015-A02A09	2	25.10.2014	14:20:00	Tatran Střešovice Red	FBC Start98 Kunratice	Tatran Střešovice Red
-3XE12014/2015-A02B01	2	25.10.2014	9:00:00	AC Sparta Praha BLUE	BLACK ANGELS 2005	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02B02	2	25.10.2014	9:40:00	Florbalová akademie MB	Viking group TJ Sokol Kobylisy	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02B03	2	25.10.2014	10:20:00	TJ Sokol Královské Vinohrady	AC Sparta Praha BLUE	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02B04	2	25.10.2014	11:00:00	Technology Florbal MB	Florbalová akademie MB	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02B05	2	25.10.2014	11:40:00	BLACK ANGELS 2005	TJ Sokol Královské Vinohrady	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02B06	2	25.10.2014	12:20:00	Viking group TJ Sokol Kobylisy	Technology Florbal MB	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02B07	2	25.10.2014	13:00:00	BLACK ANGELS 2005	Technology Florbal MB	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02B08	2	25.10.2014	13:40:00	TJ Sokol Královské Vinohrady	Florbalová akademie MB	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02B09	2	25.10.2014	14:20:00	AC Sparta Praha BLUE	Viking group TJ Sokol Kobylisy	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A02C01	2	25.10.2014	9:00:00	FBC Start98 Kunratice B	Athletics Praha Černý Most	FbC Panthers
-3XE12014/2015-A02C02	2	25.10.2014	9:40:00	DDM Horní Počernice ORKA B	FbC Panthers	FbC Panthers
-3XE12014/2015-A02C03	2	25.10.2014	10:20:00	Sokol Rudná	FBC Start98 Kunratice B	FbC Panthers
-3XE12014/2015-A02C04	2	25.10.2014	11:00:00	TEMPISH Orka Čelákovice	DDM Horní Počernice ORKA B	FbC Panthers
-3XE12014/2015-A02C05	2	25.10.2014	11:40:00	Athletics Praha Černý Most	Sokol Rudná	FbC Panthers
-3XE12014/2015-A02C06	2	25.10.2014	12:20:00	FbC Panthers	TEMPISH Orka Čelákovice	FbC Panthers
-3XE12014/2015-A02C07	2	25.10.2014	13:00:00	Athletics Praha Černý Most	FbC Panthers	FbC Panthers
-3XE12014/2015-A02C08	2	25.10.2014	13:40:00	Sokol Rudná	TEMPISH Orka Čelákovice	FbC Panthers
-3XE12014/2015-A02C09	2	25.10.2014	14:20:00	FBC Start98 Kunratice B	DDM Horní Počernice ORKA B	FbC Panthers
-3XE12014/2015-A02D01	2	26.10.2014	9:00:00	AC Sparta Praha BLACK	FbŠ Bohemians	AC Sparta Praha BLACK
-3XE12014/2015-A02D02	2	26.10.2014	9:40:00	AC Sparta Praha YELLOW	Tatran Střešovice Black	AC Sparta Praha BLACK
-3XE12014/2015-A02D03	2	26.10.2014	10:20:00	FBK CONEP Vosy Praha	AC Sparta Praha BLACK	AC Sparta Praha BLACK
-3XE12014/2015-A02D04	2	26.10.2014	11:00:00	T.B.C. Králův Dvůr	AC Sparta Praha YELLOW	AC Sparta Praha BLACK
-3XE12014/2015-A02D05	2	26.10.2014	11:40:00	FbŠ Bohemians	FBK CONEP Vosy Praha	AC Sparta Praha BLACK
-3XE12014/2015-A02D06	2	26.10.2014	12:20:00	Tatran Střešovice Black	T.B.C. Králův Dvůr	AC Sparta Praha BLACK
-3XE12014/2015-A02D07	2	26.10.2014	13:00:00	FBK CONEP Vosy Praha	Tatran Střešovice Black	AC Sparta Praha BLACK
-3XE12014/2015-A02D08	2	26.10.2014	13:40:00	FbŠ Bohemians	T.B.C. Králův Dvůr	AC Sparta Praha BLACK
-3XE12014/2015-A02D09	2	26.10.2014	14:20:00	AC Sparta Praha BLACK	AC Sparta Praha YELLOW	AC Sparta Praha BLACK
-3XE12014/2015-A02E01	2	26.10.2014	9:00:00	FBC Kutná Hora	TEMPISH Orka Čelákovice C	TEMPISH Orka Čelákovice C
-3XE12014/2015-A02E02	2	26.10.2014	9:40:00	Athletics Praha Prosek	Viking TJ Sokol Kobylisy B	TEMPISH Orka Čelákovice C
-3XE12014/2015-A02E03	2	26.10.2014	10:20:00	FBC Kutná Hora	Viking TJ Sokol Kobylisy B	TEMPISH Orka Čelákovice C
-3XE12014/2015-A02E04	2	26.10.2014	11:00:00	Athletics Praha Prosek	TEMPISH Orka Čelákovice C	TEMPISH Orka Čelákovice C
-3XE12014/2015-A02E05	2	26.10.2014	11:40:00	Athletics Praha Prosek	FBC Kutná Hora	TEMPISH Orka Čelákovice C
-3XE12014/2015-A02E06	2	26.10.2014	12:20:00	Viking TJ Sokol Kobylisy B	TEMPISH Orka Čelákovice C	TEMPISH Orka Čelákovice C
-3XE12014/2015-A03A01	3	8.11.2014	9:00:00	FBK Fat Pipe Vosy Praha	BLACK ANGELS 2005	FBC Kladno bílí
-3XE12014/2015-A03A02	3	8.11.2014	9:40:00	FBC Start98 Kunratice	FBC Kladno bílí	FBC Kladno bílí
-3XE12014/2015-A03A03	3	8.11.2014	10:20:00	BLACK ANGELS 2004	FBK Fat Pipe Vosy Praha	FBC Kladno bílí
-3XE12014/2015-A03A04	3	8.11.2014	11:00:00	AC Sparta Praha RED	FBC Start98 Kunratice	FBC Kladno bílí
-3XE12014/2015-A03A05	3	8.11.2014	11:40:00	BLACK ANGELS 2005	BLACK ANGELS 2004	FBC Kladno bílí
-3XE12014/2015-A03A06	3	8.11.2014	12:20:00	FBC Kladno bílí	AC Sparta Praha RED	FBC Kladno bílí
-3XE12014/2015-A03A07	3	8.11.2014	13:00:00	FBK Fat Pipe Vosy Praha	FBC Kladno bílí	FBC Kladno bílí
-3XE12014/2015-A03A08	3	8.11.2014	13:40:00	BLACK ANGELS 2004	FBC Start98 Kunratice	FBC Kladno bílí
-3XE12014/2015-A03A09	3	8.11.2014	14:20:00	BLACK ANGELS 2005	AC Sparta Praha RED	FBC Kladno bílí
-3XE12014/2015-A03B01	3	8.11.2014	9:00:00	Technology Florbal MB	TJ Sokol Královské Vinohrady	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03B02	3	8.11.2014	9:40:00	Florbalová akademie MB	Viking group TJ Sokol Kobylisy	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03B03	3	8.11.2014	10:20:00	Tatran Střešovice Red	Technology Florbal MB	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03B04	3	8.11.2014	11:00:00	FbC Panthers	Florbalová akademie MB	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03B05	3	8.11.2014	11:40:00	TJ Sokol Královské Vinohrady	Tatran Střešovice Red	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03B06	3	8.11.2014	12:20:00	Viking group TJ Sokol Kobylisy	FbC Panthers	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03B07	3	8.11.2014	13:00:00	Tatran Střešovice Red	FbC Panthers	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03B08	3	8.11.2014	13:40:00	Technology Florbal MB	Florbalová akademie MB	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03B09	3	8.11.2014	14:20:00	TJ Sokol Královské Vinohrady	Viking group TJ Sokol Kobylisy	Viking group TJ Sokol Kobylisy
-3XE12014/2015-A03C01	3	8.11.2014	9:00:00	Athletics Praha Černý Most	FBK CONEP Vosy Praha	DDM Horní Počernice ORKA B
-3XE12014/2015-A03C02	3	8.11.2014	9:40:00	TEMPISH Orka Čelákovice	DDM Horní Počernice ORKA B	DDM Horní Počernice ORKA B
-3XE12014/2015-A03C03	3	8.11.2014	10:20:00	Tatran Střešovice Black	Athletics Praha Černý Most	DDM Horní Počernice ORKA B
-3XE12014/2015-A03C04	3	8.11.2014	11:00:00	AC Sparta Praha BLUE	TEMPISH Orka Čelákovice	DDM Horní Počernice ORKA B
-3XE12014/2015-A03C05	3	8.11.2014	11:40:00	FBK CONEP Vosy Praha	Tatran Střešovice Black	DDM Horní Počernice ORKA B
-3XE12014/2015-A03C06	3	8.11.2014	12:20:00	DDM Horní Počernice ORKA B	AC Sparta Praha BLUE	DDM Horní Počernice ORKA B
-3XE12014/2015-A03C07	3	8.11.2014	13:00:00	Athletics Praha Černý Most	TEMPISH Orka Čelákovice	DDM Horní Počernice ORKA B
-3XE12014/2015-A03C08	3	8.11.2014	13:40:00	Tatran Střešovice Black	DDM Horní Počernice ORKA B	DDM Horní Počernice ORKA B
-3XE12014/2015-A03C09	3	8.11.2014	14:20:00	FBK CONEP Vosy Praha	AC Sparta Praha BLUE	DDM Horní Počernice ORKA B
-3XE12014/2015-A03D01	3	9.11.2014	9:00:00	FbŠ Bohemians	Viking TJ Sokol Kobylisy B	T.B.C. Králův Dvůr
-3XE12014/2015-A03D02	3	9.11.2014	9:40:00	AC Sparta Praha YELLOW	T.B.C. Králův Dvůr	T.B.C. Králův Dvůr
-3XE12014/2015-A03D03	3	9.11.2014	10:20:00	FBC Start98 Kunratice B	FbŠ Bohemians	T.B.C. Králův Dvůr
-3XE12014/2015-A03D04	3	9.11.2014	11:00:00	Sokol Rudná	AC Sparta Praha YELLOW	T.B.C. Králův Dvůr
-3XE12014/2015-A03D05	3	9.11.2014	11:40:00	Viking TJ Sokol Kobylisy B	FBC Start98 Kunratice B	T.B.C. Králův Dvůr
-3XE12014/2015-A03D06	3	9.11.2014	12:20:00	T.B.C. Králův Dvůr	Sokol Rudná	T.B.C. Králův Dvůr
-3XE12014/2015-A03D07	3	9.11.2014	13:00:00	FBC Start98 Kunratice B	T.B.C. Králův Dvůr	T.B.C. Králův Dvůr
-3XE12014/2015-A03D08	3	9.11.2014	13:40:00	FbŠ Bohemians	AC Sparta Praha YELLOW	T.B.C. Králův Dvůr
-3XE12014/2015-A03D09	3	9.11.2014	14:20:00	Viking TJ Sokol Kobylisy B	Sokol Rudná	T.B.C. Králův Dvůr
-3XE12014/2015-A03E01	3	9.11.2014	9:00:00	TEMPISH Orka Čelákovice C	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A03E02	3	9.11.2014	9:40:00	AC Sparta Praha BLACK	Athletics Praha Prosek	FBC Kutná Hora
-3XE12014/2015-A03E03	3	9.11.2014	10:20:00	TEMPISH Orka Čelákovice C	Athletics Praha Prosek	FBC Kutná Hora
-3XE12014/2015-A03E04	3	9.11.2014	11:00:00	AC Sparta Praha BLACK	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A03E05	3	9.11.2014	11:40:00	AC Sparta Praha BLACK	TEMPISH Orka Čelákovice C	FBC Kutná Hora
-3XE12014/2015-A03E06	3	9.11.2014	12:20:00	Athletics Praha Prosek	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A04A01	4	22.11.2014	9:00:00	BLACK ANGELS 2004	Tatran Střešovice Red	FBC Start98 Kunratice
-3XE12014/2015-A04A02	4	22.11.2014	9:40:00	FbC Panthers	FBC Start98 Kunratice	FBC Start98 Kunratice
-3XE12014/2015-A04A03	4	22.11.2014	10:20:00	FBC Kladno bílí	BLACK ANGELS 2004	FBC Start98 Kunratice
-3XE12014/2015-A04A04	4	22.11.2014	11:00:00	FBK Fat Pipe Vosy Praha	FbC Panthers	FBC Start98 Kunratice
-3XE12014/2015-A04A05	4	22.11.2014	11:40:00	Tatran Střešovice Red	FBC Kladno bílí	FBC Start98 Kunratice
-3XE12014/2015-A04A06	4	22.11.2014	12:20:00	FBC Start98 Kunratice	FBK Fat Pipe Vosy Praha	FBC Start98 Kunratice
-3XE12014/2015-A04A07	4	22.11.2014	13:00:00	FBC Kladno bílí	FBC Start98 Kunratice	FBC Start98 Kunratice
-3XE12014/2015-A04A08	4	22.11.2014	13:40:00	Tatran Střešovice Red	FbC Panthers	FBC Start98 Kunratice
-3XE12014/2015-A04A09	4	22.11.2014	14:20:00	BLACK ANGELS 2004	FBK Fat Pipe Vosy Praha	FBC Start98 Kunratice
-3XE12014/2015-A04B01	4	23.11.2014	8:00:00	Technology Florbal MB	DDM Horní Počernice ORKA B	AC Sparta Praha RED
-3XE12014/2015-A04B02	4	23.11.2014	8:40:00	TJ Sokol Královské Vinohrady	AC Sparta Praha RED	AC Sparta Praha RED
-3XE12014/2015-A04B03	4	23.11.2014	9:20:00	BLACK ANGELS 2005	Technology Florbal MB	AC Sparta Praha RED
-3XE12014/2015-A04B04	4	23.11.2014	10:00:00	Florbalová akademie MB	TJ Sokol Královské Vinohrady	AC Sparta Praha RED
-3XE12014/2015-A04B05	4	23.11.2014	10:40:00	DDM Horní Počernice ORKA B	BLACK ANGELS 2005	AC Sparta Praha RED
-3XE12014/2015-A04B06	4	23.11.2014	11:20:00	AC Sparta Praha RED	Florbalová akademie MB	AC Sparta Praha RED
-3XE12014/2015-A04B07	4	23.11.2014	12:00:00	AC Sparta Praha RED	Technology Florbal MB	AC Sparta Praha RED
-3XE12014/2015-A04B08	4	23.11.2014	12:40:00	DDM Horní Počernice ORKA B	Florbalová akademie MB	AC Sparta Praha RED
-3XE12014/2015-A04B09	4	23.11.2014	13:20:00	BLACK ANGELS 2005	TJ Sokol Královské Vinohrady	AC Sparta Praha RED
-3XE12014/2015-A04C01	4	22.11.2014	12:30:00	AC Sparta Praha BLUE	FBC Start98 Kunratice B	TEMPISH Orka Čelákovice
-3XE12014/2015-A04C02	4	22.11.2014	13:10:00	T.B.C. Králův Dvůr	TEMPISH Orka Čelákovice	TEMPISH Orka Čelákovice
-3XE12014/2015-A04C03	4	22.11.2014	13:50:00	Viking group TJ Sokol Kobylisy	AC Sparta Praha BLUE	TEMPISH Orka Čelákovice
-3XE12014/2015-A04C04	4	22.11.2014	14:30:00	Tatran Střešovice Black	T.B.C. Králův Dvůr	TEMPISH Orka Čelákovice
-3XE12014/2015-A04C05	4	22.11.2014	15:10:00	FBC Start98 Kunratice B	Viking group TJ Sokol Kobylisy	TEMPISH Orka Čelákovice
-3XE12014/2015-A04C06	4	22.11.2014	15:50:00	TEMPISH Orka Čelákovice	Tatran Střešovice Black	TEMPISH Orka Čelákovice
-3XE12014/2015-A04C07	4	22.11.2014	16:30:00	TEMPISH Orka Čelákovice	AC Sparta Praha BLUE	TEMPISH Orka Čelákovice
-3XE12014/2015-A04C08	4	22.11.2014	17:10:00	Tatran Střešovice Black	Viking group TJ Sokol Kobylisy	TEMPISH Orka Čelákovice
-3XE12014/2015-A04C09	4	22.11.2014	17:50:00	T.B.C. Králův Dvůr	FBC Start98 Kunratice B	TEMPISH Orka Čelákovice
-3XE12014/2015-A04D01	4	23.11.2014	9:00:00	AC Sparta Praha YELLOW	AC Sparta Praha BLACK	Athletics Praha Černý Most
-3XE12014/2015-A04D02	4	23.11.2014	9:40:00	Viking TJ Sokol Kobylisy B	Athletics Praha Černý Most	Athletics Praha Černý Most
-3XE12014/2015-A04D03	4	23.11.2014	10:20:00	FBK CONEP Vosy Praha	AC Sparta Praha YELLOW	Athletics Praha Černý Most
-3XE12014/2015-A04D04	4	23.11.2014	11:00:00	FbŠ Bohemians	Viking TJ Sokol Kobylisy B	Athletics Praha Černý Most
-3XE12014/2015-A04D05	4	23.11.2014	11:40:00	AC Sparta Praha BLACK	FBK CONEP Vosy Praha	Athletics Praha Černý Most
-3XE12014/2015-A04D06	4	23.11.2014	12:20:00	Athletics Praha Černý Most	FbŠ Bohemians	Athletics Praha Černý Most
-3XE12014/2015-A04D07	4	23.11.2014	13:00:00	FBK CONEP Vosy Praha	FbŠ Bohemians	Athletics Praha Černý Most
-3XE12014/2015-A04D08	4	23.11.2014	13:40:00	AC Sparta Praha YELLOW	Athletics Praha Černý Most	Athletics Praha Černý Most
-3XE12014/2015-A04D09	4	23.11.2014	14:20:00	AC Sparta Praha BLACK	Viking TJ Sokol Kobylisy B	Athletics Praha Černý Most
-3XE12014/2015-A04E01	4	23.11.2014	15:00:00	FBC Kutná Hora	Athletics Praha Prosek	Athletics Praha Prosek
-3XE12014/2015-A04E02	4	23.11.2014	15:40:00	Sokol Rudná	TEMPISH Orka Čelákovice C	Athletics Praha Prosek
-3XE12014/2015-A04E03	4	23.11.2014	16:20:00	FBC Kutná Hora	TEMPISH Orka Čelákovice C	Athletics Praha Prosek
-3XE12014/2015-A04E04	4	23.11.2014	17:00:00	Sokol Rudná	Athletics Praha Prosek	Athletics Praha Prosek
-3XE12014/2015-A04E05	4	23.11.2014	17:40:00	Sokol Rudná	FBC Kutná Hora	Athletics Praha Prosek
-3XE12014/2015-A04E06	4	23.11.2014	18:20:00	TEMPISH Orka Čelákovice C	Athletics Praha Prosek	Athletics Praha Prosek
-3XE12014/2015-A05A01	5	6.12.2014	9:00:00	FBC Start98 Kunratice	Technology Florbal MB	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05A02	5	6.12.2014	9:40:00	Tatran Střešovice Red	TJ Sokol Královské Vinohrady	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05A03	5	6.12.2014	10:20:00	AC Sparta Praha RED	FBC Start98 Kunratice	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05A04	5	6.12.2014	11:00:00	FBC Kladno bílí	Tatran Střešovice Red	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05A05	5	6.12.2014	11:40:00	Technology Florbal MB	AC Sparta Praha RED	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05A06	5	6.12.2014	12:20:00	TJ Sokol Královské Vinohrady	FBC Kladno bílí	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05A07	5	6.12.2014	13:00:00	FBC Kladno bílí	AC Sparta Praha RED	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05A08	5	6.12.2014	13:40:00	Tatran Střešovice Red	Technology Florbal MB	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05A09	5	6.12.2014	14:20:00	TJ Sokol Královské Vinohrady	FBC Start98 Kunratice	TJ Sokol Královské Vinohrady
-3XE12014/2015-A05B01	5	6.12.2014	9:00:00	FbC Panthers	AC Sparta Praha BLUE	Florbalová akademie MB
-3XE12014/2015-A05B02	5	6.12.2014	9:40:00	BLACK ANGELS 2004	Florbalová akademie MB	Florbalová akademie MB
-3XE12014/2015-A05B03	5	6.12.2014	10:20:00	FBK Fat Pipe Vosy Praha	FbC Panthers	Florbalová akademie MB
-3XE12014/2015-A05B04	5	6.12.2014	11:00:00	TEMPISH Orka Čelákovice	BLACK ANGELS 2004	Florbalová akademie MB
-3XE12014/2015-A05B05	5	6.12.2014	11:40:00	AC Sparta Praha BLUE	FBK Fat Pipe Vosy Praha	Florbalová akademie MB
-3XE12014/2015-A05B06	5	6.12.2014	12:20:00	Florbalová akademie MB	TEMPISH Orka Čelákovice	Florbalová akademie MB
-3XE12014/2015-A05B07	5	6.12.2014	13:00:00	FBK Fat Pipe Vosy Praha	TEMPISH Orka Čelákovice	Florbalová akademie MB
-3XE12014/2015-A05B08	5	6.12.2014	13:40:00	FbC Panthers	Florbalová akademie MB	Florbalová akademie MB
-3XE12014/2015-A05B09	5	6.12.2014	14:20:00	AC Sparta Praha BLUE	BLACK ANGELS 2004	Florbalová akademie MB
-3XE12014/2015-A05C01	5	6.12.2014	12:30:00	Tatran Střešovice Black	FbŠ Bohemians	DDM Horní Počernice ORKA B
-3XE12014/2015-A05C02	5	6.12.2014	13:10:00	FBC Start98 Kunratice B	DDM Horní Počernice ORKA B	DDM Horní Počernice ORKA B
-3XE12014/2015-A05C03	5	6.12.2014	13:50:00	BLACK ANGELS 2005	Tatran Střešovice Black	DDM Horní Počernice ORKA B
-3XE12014/2015-A05C04	5	6.12.2014	14:30:00	Viking group TJ Sokol Kobylisy	FBC Start98 Kunratice B	DDM Horní Počernice ORKA B
-3XE12014/2015-A05C05	5	6.12.2014	15:10:00	FbŠ Bohemians	BLACK ANGELS 2005	DDM Horní Počernice ORKA B
-3XE12014/2015-A05C06	5	6.12.2014	15:50:00	DDM Horní Počernice ORKA B	Viking group TJ Sokol Kobylisy	DDM Horní Počernice ORKA B
-3XE12014/2015-A05C07	5	6.12.2014	16:30:00	BLACK ANGELS 2005	DDM Horní Počernice ORKA B	DDM Horní Počernice ORKA B
-3XE12014/2015-A05C08	5	6.12.2014	17:10:00	Tatran Střešovice Black	Viking group TJ Sokol Kobylisy	DDM Horní Počernice ORKA B
-3XE12014/2015-A05C09	5	6.12.2014	17:50:00	FbŠ Bohemians	FBC Start98 Kunratice B	DDM Horní Počernice ORKA B
-3XE12014/2015-A05D01	5	7.12.2014	9:00:00	FBK CONEP Vosy Praha	Sokol Rudná	Athletics Praha Černý Most
-3XE12014/2015-A05D02	5	7.12.2014	9:40:00	AC Sparta Praha YELLOW	Athletics Praha Černý Most	Athletics Praha Černý Most
-3XE12014/2015-A05D03	5	7.12.2014	10:20:00	T.B.C. Králův Dvůr	FBK CONEP Vosy Praha	Athletics Praha Černý Most
-3XE12014/2015-A05D04	5	7.12.2014	11:00:00	Athletics Praha Prosek	AC Sparta Praha YELLOW	Athletics Praha Černý Most
-3XE12014/2015-A05D05	5	7.12.2014	11:40:00	Sokol Rudná	T.B.C. Králův Dvůr	Athletics Praha Černý Most
-3XE12014/2015-A05D06	5	7.12.2014	12:20:00	Athletics Praha Černý Most	Athletics Praha Prosek	Athletics Praha Černý Most
-3XE12014/2015-A05D07	5	7.12.2014	13:00:00	FBK CONEP Vosy Praha	Athletics Praha Černý Most	Athletics Praha Černý Most
-3XE12014/2015-A05D08	5	7.12.2014	13:40:00	T.B.C. Králův Dvůr	AC Sparta Praha YELLOW	Athletics Praha Černý Most
-3XE12014/2015-A05D09	5	7.12.2014	14:20:00	Sokol Rudná	Athletics Praha Prosek	Athletics Praha Černý Most
-3XE12014/2015-A05E01	5	7.12.2014	9:00:00	TEMPISH Orka Čelákovice C	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A05E02	5	7.12.2014	9:40:00	Viking TJ Sokol Kobylisy B	AC Sparta Praha BLACK	FBC Kutná Hora
-3XE12014/2015-A05E03	5	7.12.2014	10:40:00	TEMPISH Orka Čelákovice C	AC Sparta Praha BLACK	FBC Kutná Hora
-3XE12014/2015-A05E04	5	7.12.2014	11:20:00	Viking TJ Sokol Kobylisy B	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A05E05	5	7.12.2014	12:20:00	Viking TJ Sokol Kobylisy B	TEMPISH Orka Čelákovice C	FBC Kutná Hora
-3XE12014/2015-A05E06	5	7.12.2014	13:00:00	AC Sparta Praha BLACK	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A06A01	6	17.1.2015	9:00:00	Technology Florbal MB	TEMPISH Orka Čelákovice	FBC Kladno bílí
-3XE12014/2015-A06A02	6	17.1.2015	9:40:00	FBC Start98 Kunratice	FBC Kladno bílí	FBC Kladno bílí
-3XE12014/2015-A06A03	6	17.1.2015	10:20:00	AC Sparta Praha RED	Technology Florbal MB	FBC Kladno bílí
-3XE12014/2015-A06A04	6	17.1.2015	11:00:00	Tatran Střešovice Red	FBC Start98 Kunratice	FBC Kladno bílí
-3XE12014/2015-A06A05	6	17.1.2015	11:40:00	TEMPISH Orka Čelákovice	AC Sparta Praha RED	FBC Kladno bílí
-3XE12014/2015-A06A06	6	17.1.2015	12:20:00	FBC Kladno bílí	Tatran Střešovice Red	FBC Kladno bílí
-3XE12014/2015-A06A07	6	17.1.2015	13:00:00	Technology Florbal MB	Tatran Střešovice Red	FBC Kladno bílí
-3XE12014/2015-A06A08	6	17.1.2015	13:40:00	TEMPISH Orka Čelákovice	FBC Start98 Kunratice	FBC Kladno bílí
-3XE12014/2015-A06A09	6	17.1.2015	14:20:00	AC Sparta Praha RED	FBC Kladno bílí	FBC Kladno bílí
-3XE12014/2015-A06B01	6	17.1.2015	9:00:00	FBK Fat Pipe Vosy Praha	Florbalová akademie MB	Sokol Rudná
-3XE12014/2015-A06B02	6	17.1.2015	9:40:00	FbC Panthers	Sokol Rudná	Sokol Rudná
-3XE12014/2015-A06B03	6	17.1.2015	10:20:00	TJ Sokol Královské Vinohrady	FBK Fat Pipe Vosy Praha	Sokol Rudná
-3XE12014/2015-A06B04	6	17.1.2015	11:00:00	DDM Horní Počernice ORKA B	FbC Panthers	Sokol Rudná
-3XE12014/2015-A06B05	6	17.1.2015	11:40:00	Florbalová akademie MB	TJ Sokol Královské Vinohrady	Sokol Rudná
-3XE12014/2015-A06B06	6	17.1.2015	12:20:00	Sokol Rudná	DDM Horní Počernice ORKA B	Sokol Rudná
-3XE12014/2015-A06B07	6	17.1.2015	13:00:00	FBK Fat Pipe Vosy Praha	FbC Panthers	Sokol Rudná
-3XE12014/2015-A06B08	6	17.1.2015	13:40:00	Florbalová akademie MB	DDM Horní Počernice ORKA B	Sokol Rudná
-3XE12014/2015-A06B09	6	17.1.2015	14:20:00	TJ Sokol Královské Vinohrady	Sokol Rudná	Sokol Rudná
-3XE12014/2015-A06C01	6	17.1.2015	9:00:00	Viking group TJ Sokol Kobylisy	Athletics Praha Černý Most	BLACK ANGELS 2005
-3XE12014/2015-A06C02	6	17.1.2015	9:40:00	Tatran Střešovice Black	BLACK ANGELS 2005	BLACK ANGELS 2005
-3XE12014/2015-A06C03	6	17.1.2015	10:20:00	AC Sparta Praha BLUE	Viking group TJ Sokol Kobylisy	BLACK ANGELS 2005
-3XE12014/2015-A06C04	6	17.1.2015	11:00:00	BLACK ANGELS 2004	Tatran Střešovice Black	BLACK ANGELS 2005
-3XE12014/2015-A06C05	6	17.1.2015	11:40:00	Athletics Praha Černý Most	AC Sparta Praha BLUE	BLACK ANGELS 2005
-3XE12014/2015-A06C06	6	17.1.2015	12:20:00	BLACK ANGELS 2005	BLACK ANGELS 2004	BLACK ANGELS 2005
-3XE12014/2015-A06C07	6	17.1.2015	13:00:00	Viking group TJ Sokol Kobylisy	BLACK ANGELS 2004	BLACK ANGELS 2005
-3XE12014/2015-A06C08	6	17.1.2015	13:40:00	AC Sparta Praha BLUE	BLACK ANGELS 2005	BLACK ANGELS 2005
-3XE12014/2015-A06C09	6	17.1.2015	14:20:00	Athletics Praha Černý Most	Tatran Střešovice Black	BLACK ANGELS 2005
-3XE12014/2015-A06D01	6	18.1.2015	9:00:00	FBK CONEP Vosy Praha	AC Sparta Praha BLACK	AC Sparta Praha YELLOW
-3XE12014/2015-A06D02	6	18.1.2015	9:40:00	T.B.C. Králův Dvůr	AC Sparta Praha YELLOW	AC Sparta Praha YELLOW
-3XE12014/2015-A06D03	6	18.1.2015	10:20:00	FbŠ Bohemians	FBK CONEP Vosy Praha	AC Sparta Praha YELLOW
-3XE12014/2015-A06D04	6	18.1.2015	11:00:00	FBC Start98 Kunratice B	T.B.C. Králův Dvůr	AC Sparta Praha YELLOW
-3XE12014/2015-A06D05	6	18.1.2015	11:40:00	AC Sparta Praha BLACK	FbŠ Bohemians	AC Sparta Praha YELLOW
-3XE12014/2015-A06D06	6	18.1.2015	12:20:00	AC Sparta Praha YELLOW	FBC Start98 Kunratice B	AC Sparta Praha YELLOW
-3XE12014/2015-A06D07	6	18.1.2015	13:00:00	FBK CONEP Vosy Praha	FBC Start98 Kunratice B	AC Sparta Praha YELLOW
-3XE12014/2015-A06D08	6	18.1.2015	13:40:00	FbŠ Bohemians	T.B.C. Králův Dvůr	AC Sparta Praha YELLOW
-3XE12014/2015-A06D09	6	18.1.2015	14:20:00	AC Sparta Praha BLACK	AC Sparta Praha YELLOW	AC Sparta Praha YELLOW
-3XE12014/2015-A06E01	6	18.1.2015	9:00:00	TEMPISH Orka Čelákovice C	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A06E02	6	18.1.2015	9:40:00	Athletics Praha Prosek	Viking TJ Sokol Kobylisy B	FBC Kutná Hora
-3XE12014/2015-A06E03	6	18.1.2015	10:40:00	TEMPISH Orka Čelákovice C	Viking TJ Sokol Kobylisy B	FBC Kutná Hora
-3XE12014/2015-A06E04	6	18.1.2015	11:20:00	Athletics Praha Prosek	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A06E05	6	18.1.2015	12:20:00	Athletics Praha Prosek	TEMPISH Orka Čelákovice C	FBC Kutná Hora
-3XE12014/2015-A06E06	6	18.1.2015	13:00:00	Viking TJ Sokol Kobylisy B	FBC Kutná Hora	FBC Kutná Hora
-3XE12014/2015-A07A01	7	21.3.2015	9:00:00	FBC Start98 Kunratice	FbC Panthers	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07A02	7	21.3.2015	9:40:00	TEMPISH Orka Čelákovice	TJ Sokol Královské Vinohrady	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07A03	7	21.3.2015	10:20:00	Technology Florbal MB	FBC Start98 Kunratice	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07A04	7	21.3.2015	11:00:00	Tatran Střešovice Red	TEMPISH Orka Čelákovice	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07A05	7	21.3.2015	11:40:00	FbC Panthers	Technology Florbal MB	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07A06	7	21.3.2015	12:20:00	TJ Sokol Královské Vinohrady	Tatran Střešovice Red	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07A07	7	21.3.2015	13:00:00	Technology Florbal MB	TJ Sokol Královské Vinohrady	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07A08	7	21.3.2015	13:40:00	FBC Start98 Kunratice	Tatran Střešovice Red	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07A09	7	21.3.2015	14:20:00	FbC Panthers	TEMPISH Orka Čelákovice	TJ Sokol Královské Vinohrady
-3XE12014/2015-A07B01	7	21.3.2015	9:00:00	Florbalová akademie MB	Viking group TJ Sokol Kobylisy	AC Sparta Praha RED
-3XE12014/2015-A07B02	7	21.3.2015	9:40:00	DDM Horní Počernice ORKA B	AC Sparta Praha RED	AC Sparta Praha RED
-3XE12014/2015-A07B03	7	21.3.2015	10:20:00	FBC Kladno bílí	Florbalová akademie MB	AC Sparta Praha RED
-3XE12014/2015-A07B04	7	21.3.2015	11:00:00	FBK Fat Pipe Vosy Praha	DDM Horní Počernice ORKA B	AC Sparta Praha RED
-3XE12014/2015-A07B05	7	21.3.2015	11:40:00	Viking group TJ Sokol Kobylisy	FBC Kladno bílí	AC Sparta Praha RED
-3XE12014/2015-A07B06	7	21.3.2015	12:20:00	AC Sparta Praha RED	FBK Fat Pipe Vosy Praha	AC Sparta Praha RED
-3XE12014/2015-A07B07	7	21.3.2015	13:00:00	FBC Kladno bílí	AC Sparta Praha RED	AC Sparta Praha RED
-3XE12014/2015-A07B08	7	21.3.2015	13:40:00	Viking group TJ Sokol Kobylisy	FBK Fat Pipe Vosy Praha	AC Sparta Praha RED
-3XE12014/2015-A07B09	7	21.3.2015	14:20:00	Florbalová akademie MB	DDM Horní Počernice ORKA B	AC Sparta Praha RED
-3XE12014/2015-A07C01	7	21.3.2015	9:00:00	FBK CONEP Vosy Praha	FBC Start98 Kunratice B	BLACK ANGELS 2005
-3XE12014/2015-A07C02	7	21.3.2015	9:40:00	FbŠ Bohemians	BLACK ANGELS 2005	BLACK ANGELS 2005
-3XE12014/2015-A07C03	7	21.3.2015	10:20:00	BLACK ANGELS 2004	FBK CONEP Vosy Praha	BLACK ANGELS 2005
-3XE12014/2015-A07C04	7	21.3.2015	11:00:00	AC Sparta Praha BLUE	FbŠ Bohemians	BLACK ANGELS 2005
-3XE12014/2015-A07C05	7	21.3.2015	11:40:00	FBC Start98 Kunratice B	BLACK ANGELS 2004	BLACK ANGELS 2005
-3XE12014/2015-A07C06	7	21.3.2015	12:20:00	BLACK ANGELS 2005	AC Sparta Praha BLUE	BLACK ANGELS 2005
-3XE12014/2015-A07C07	7	21.3.2015	13:00:00	FBC Start98 Kunratice B	BLACK ANGELS 2005	BLACK ANGELS 2005
-3XE12014/2015-A07C08	7	21.3.2015	13:40:00	BLACK ANGELS 2004	AC Sparta Praha BLUE	BLACK ANGELS 2005
-3XE12014/2015-A07C09	7	21.3.2015	14:20:00	FBK CONEP Vosy Praha	FbŠ Bohemians	BLACK ANGELS 2005
-3XE12014/2015-A07D01	7	22.3.2015	9:00:00	T.B.C. Králův Dvůr	Athletics Praha Prosek	Tatran Střešovice Black
-3XE12014/2015-A07D02	7	22.3.2015	9:40:00	AC Sparta Praha BLACK	Tatran Střešovice Black	Tatran Střešovice Black
-3XE12014/2015-A07D03	7	22.3.2015	10:20:00	Athletics Praha Černý Most	T.B.C. Králův Dvůr	Tatran Střešovice Black
-3XE12014/2015-A07D04	7	22.3.2015	11:00:00	Sokol Rudná	AC Sparta Praha BLACK	Tatran Střešovice Black
-3XE12014/2015-A07D05	7	22.3.2015	11:40:00	Athletics Praha Prosek	Athletics Praha Černý Most	Tatran Střešovice Black
-3XE12014/2015-A07D06	7	22.3.2015	12:20:00	Tatran Střešovice Black	Sokol Rudná	Tatran Střešovice Black
-3XE12014/2015-A07D07	7	22.3.2015	13:00:00	T.B.C. Králův Dvůr	Tatran Střešovice Black	Tatran Střešovice Black
-3XE12014/2015-A07D08	7	22.3.2015	13:40:00	Athletics Praha Černý Most	Sokol Rudná	Tatran Střešovice Black
-3XE12014/2015-A07D09	7	22.3.2015	14:20:00	Athletics Praha Prosek	AC Sparta Praha BLACK	Tatran Střešovice Black
-3XE12014/2015-A07E01	7	22.3.2015	9:00:00	TEMPISH Orka Čelákovice C	Viking TJ Sokol Kobylisy B	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A07E02	7	22.3.2015	9:40:00	AC Sparta Praha YELLOW	FBC Kutná Hora	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A07E03	7	22.3.2015	10:35:00	TEMPISH Orka Čelákovice C	FBC Kutná Hora	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A07E04	7	22.3.2015	11:15:00	AC Sparta Praha YELLOW	Viking TJ Sokol Kobylisy B	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A07E05	7	22.3.2015	12:10:00	AC Sparta Praha YELLOW	TEMPISH Orka Čelákovice C	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A07E06	7	22.3.2015	12:50:00	FBC Kutná Hora	Viking TJ Sokol Kobylisy B	Viking TJ Sokol Kobylisy B
-3XE12014/2015-A08A01	8	11.4.2015	9:00:00	Tatran Střešovice Red	FBC Kladno bílí	BLACK ANGELS 2004
-3XE12014/2015-A08A02	8	11.4.2015	9:40:00	FbC Panthers	BLACK ANGELS 2004	BLACK ANGELS 2004
-3XE12014/2015-A08A03	8	11.4.2015	10:20:00	Technology Florbal MB	Tatran Střešovice Red	BLACK ANGELS 2004
-3XE12014/2015-A08A04	8	11.4.2015	11:00:00	FBC Start98 Kunratice	FbC Panthers	BLACK ANGELS 2004
-3XE12014/2015-A08A05	8	11.4.2015	11:40:00	FBC Kladno bílí	Technology Florbal MB	BLACK ANGELS 2004
-3XE12014/2015-A08A06	8	11.4.2015	12:20:00	BLACK ANGELS 2004	FBC Start98 Kunratice	BLACK ANGELS 2004
-3XE12014/2015-A08A07	8	11.4.2015	13:00:00	FBC Kladno bílí	BLACK ANGELS 2004	BLACK ANGELS 2004
-3XE12014/2015-A08A08	8	11.4.2015	13:40:00	Technology Florbal MB	FBC Start98 Kunratice	BLACK ANGELS 2004
-3XE12014/2015-A08A09	8	11.4.2015	14:20:00	Tatran Střešovice Red	FbC Panthers	BLACK ANGELS 2004
-3XE12014/2015-A08B01	8	11.4.2015	9:00:00	AC Sparta Praha RED	FBC Start98 Kunratice B	Florbalová akademie MB
-3XE12014/2015-A08B02	8	11.4.2015	9:40:00	FBK Fat Pipe Vosy Praha	Florbalová akademie MB	Florbalová akademie MB
-3XE12014/2015-A08B03	8	11.4.2015	10:20:00	TEMPISH Orka Čelákovice	AC Sparta Praha RED	Florbalová akademie MB
-3XE12014/2015-A08B04	8	11.4.2015	11:00:00	TJ Sokol Královské Vinohrady	FBK Fat Pipe Vosy Praha	Florbalová akademie MB
-3XE12014/2015-A08B05	8	11.4.2015	11:40:00	FBC Start98 Kunratice B	TEMPISH Orka Čelákovice	Florbalová akademie MB
-3XE12014/2015-A08B06	8	11.4.2015	12:20:00	Florbalová akademie MB	TJ Sokol Královské Vinohrady	Florbalová akademie MB
-3XE12014/2015-A08B07	8	11.4.2015	13:00:00	AC Sparta Praha RED	FBK Fat Pipe Vosy Praha	Florbalová akademie MB
-3XE12014/2015-A08B08	8	11.4.2015	13:40:00	TEMPISH Orka Čelákovice	TJ Sokol Královské Vinohrady	Florbalová akademie MB
-3XE12014/2015-A08B09	8	11.4.2015	14:20:00	FBC Start98 Kunratice B	Florbalová akademie MB	Florbalová akademie MB
-3XE12014/2015-A08C01	8	11.4.2015	9:00:00	Viking group TJ Sokol Kobylisy	AC Sparta Praha BLUE	FBK CONEP Vosy Praha
-3XE12014/2015-A08C02	8	11.4.2015	9:40:00	BLACK ANGELS 2005	FBK CONEP Vosy Praha	FBK CONEP Vosy Praha
-3XE12014/2015-A08C03	8	11.4.2015	10:20:00	DDM Horní Počernice ORKA B	Viking group TJ Sokol Kobylisy	FBK CONEP Vosy Praha
-3XE12014/2015-A08C04	8	11.4.2015	11:00:00	Tatran Střešovice Black	BLACK ANGELS 2005	FBK CONEP Vosy Praha
-3XE12014/2015-A08C05	8	11.4.2015	11:40:00	AC Sparta Praha BLUE	DDM Horní Počernice ORKA B	FBK CONEP Vosy Praha
-3XE12014/2015-A08C06	8	11.4.2015	12:20:00	FBK CONEP Vosy Praha	Tatran Střešovice Black	FBK CONEP Vosy Praha
-3XE12014/2015-A08C07	8	11.4.2015	13:00:00	DDM Horní Počernice ORKA B	BLACK ANGELS 2005	FBK CONEP Vosy Praha
-3XE12014/2015-A08C08	8	11.4.2015	13:40:00	Viking group TJ Sokol Kobylisy	Tatran Střešovice Black	FBK CONEP Vosy Praha
-3XE12014/2015-A08C09	8	11.4.2015	14:20:00	AC Sparta Praha BLUE	FBK CONEP Vosy Praha	FBK CONEP Vosy Praha
-3XE12014/2015-A08D01	8	12.4.2015	9:00:00	Sokol Rudná	Viking TJ Sokol Kobylisy B	T.B.C. Králův Dvůr
-3XE12014/2015-A08D02	8	12.4.2015	9:40:00	Athletics Praha Prosek	T.B.C. Králův Dvůr	T.B.C. Králův Dvůr
-3XE12014/2015-A08D03	8	12.4.2015	10:20:00	FbŠ Bohemians	Sokol Rudná	T.B.C. Králův Dvůr
-3XE12014/2015-A08D04	8	12.4.2015	11:00:00	Athletics Praha Černý Most	Athletics Praha Prosek	T.B.C. Králův Dvůr
-3XE12014/2015-A08D05	8	12.4.2015	11:40:00	Viking TJ Sokol Kobylisy B	FbŠ Bohemians	T.B.C. Králův Dvůr
-3XE12014/2015-A08D06	8	12.4.2015	12:20:00	T.B.C. Králův Dvůr	Athletics Praha Černý Most	T.B.C. Králův Dvůr
-3XE12014/2015-A08D07	8	12.4.2015	13:00:00	FbŠ Bohemians	Athletics Praha Černý Most	T.B.C. Králův Dvůr
-3XE12014/2015-A08D08	8	12.4.2015	13:40:00	Sokol Rudná	T.B.C. Králův Dvůr	T.B.C. Králův Dvůr
-3XE12014/2015-A08D09	8	12.4.2015	14:20:00	Viking TJ Sokol Kobylisy B	Athletics Praha Prosek	T.B.C. Králův Dvůr
-3XE12014/2015-A08E01	8	12.4.2015	9:00:00	AC Sparta Praha YELLOW	TEMPISH Orka Čelákovice C	TEMPISH Orka Čelákovice C
-3XE12014/2015-A08E02	8	12.4.2015	9:40:00	AC Sparta Praha BLACK	FBC Kutná Hora	TEMPISH Orka Čelákovice C
-3XE12014/2015-A08E03	8	12.4.2015	10:40:00	AC Sparta Praha YELLOW	FBC Kutná Hora	TEMPISH Orka Čelákovice C
-3XE12014/2015-A08E04	8	12.4.2015	11:20:00	AC Sparta Praha BLACK	TEMPISH Orka Čelákovice C	TEMPISH Orka Čelákovice C
-3XE12014/2015-A08E05	8	12.4.2015	12:20:00	AC Sparta Praha BLACK	AC Sparta Praha YELLOW	TEMPISH Orka Čelákovice C
-3XE12014/2015-A08E06	8	12.4.2015	13:00:00	FBC Kutná Hora	TEMPISH Orka Čelákovice C	TEMPISH Orka Čelákovice C
-3XE12014/2015-A09A01	9	2.5.2015	9:00:00	FBC Start98 Kunratice	AC Sparta Praha RED	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09A02	9	2.5.2015	9:40:00	FbC Panthers	FBK Fat Pipe Vosy Praha	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09A03	9	2.5.2015	10:20:00	FBC Kladno bílí	FBC Start98 Kunratice	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09A04	9	2.5.2015	11:00:00	Technology Florbal MB	FbC Panthers	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09A05	9	2.5.2015	11:40:00	AC Sparta Praha RED	FBC Kladno bílí	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09A06	9	2.5.2015	12:20:00	FBK Fat Pipe Vosy Praha	Technology Florbal MB	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09A07	9	2.5.2015	13:00:00	FBC Kladno bílí	FbC Panthers	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09A08	9	2.5.2015	13:40:00	AC Sparta Praha RED	FBK Fat Pipe Vosy Praha	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09A09	9	2.5.2015	14:20:00	FBC Start98 Kunratice	Technology Florbal MB	FBK Fat Pipe Vosy Praha
-3XE12014/2015-A09B01	9	2.5.2015	9:00:00	TJ Sokol Královské Vinohrady	BLACK ANGELS 2005	AC Sparta Praha BLUE
-3XE12014/2015-A09B02	9	2.5.2015	9:40:00	Florbalová akademie MB	AC Sparta Praha BLUE	AC Sparta Praha BLUE
-3XE12014/2015-A09B03	9	2.5.2015	10:20:00	Tatran Střešovice Red	TJ Sokol Královské Vinohrady	AC Sparta Praha BLUE
-3XE12014/2015-A09B04	9	2.5.2015	11:00:00	TEMPISH Orka Čelákovice	Florbalová akademie MB	AC Sparta Praha BLUE
-3XE12014/2015-A09B05	9	2.5.2015	11:40:00	BLACK ANGELS 2005	Tatran Střešovice Red	AC Sparta Praha BLUE
-3XE12014/2015-A09B06	9	2.5.2015	12:20:00	AC Sparta Praha BLUE	TEMPISH Orka Čelákovice	AC Sparta Praha BLUE
-3XE12014/2015-A09B07	9	2.5.2015	13:00:00	BLACK ANGELS 2005	TEMPISH Orka Čelákovice	AC Sparta Praha BLUE
-3XE12014/2015-A09B08	9	2.5.2015	13:40:00	Tatran Střešovice Red	AC Sparta Praha BLUE	AC Sparta Praha BLUE
-3XE12014/2015-A09B09	9	2.5.2015	14:20:00	TJ Sokol Královské Vinohrady	Florbalová akademie MB	AC Sparta Praha BLUE
-3XE12014/2015-A09C01	9	1.5.2015	9:00:00	Viking group TJ Sokol Kobylisy	FbŠ Bohemians	FBC Start98 Kunratice B
-3XE12014/2015-A09C02	9	1.5.2015	9:40:00	Tatran Střešovice Black	FBC Start98 Kunratice B	FBC Start98 Kunratice B
-3XE12014/2015-A09C03	9	1.5.2015	10:20:00	BLACK ANGELS 2004	Viking group TJ Sokol Kobylisy	FBC Start98 Kunratice B
-3XE12014/2015-A09C04	9	1.5.2015	11:00:00	DDM Horní Počernice ORKA B	Tatran Střešovice Black	FBC Start98 Kunratice B
-3XE12014/2015-A09C05	9	1.5.2015	11:40:00	FbŠ Bohemians	BLACK ANGELS 2004	FBC Start98 Kunratice B
-3XE12014/2015-A09C06	9	1.5.2015	12:20:00	FBC Start98 Kunratice B	DDM Horní Počernice ORKA B	FBC Start98 Kunratice B
-3XE12014/2015-A09C07	9	1.5.2015	13:00:00	BLACK ANGELS 2004	FBC Start98 Kunratice B	FBC Start98 Kunratice B
-3XE12014/2015-A09C08	9	1.5.2015	13:40:00	FbŠ Bohemians	Tatran Střešovice Black	FBC Start98 Kunratice B
-3XE12014/2015-A09C09	9	1.5.2015	14:20:00	Viking group TJ Sokol Kobylisy	DDM Horní Počernice ORKA B	FBC Start98 Kunratice B
-3XE12014/2015-A09D01	9	3.5.2015	9:00:00	T.B.C. Králův Dvůr	AC Sparta Praha BLACK	AC Sparta Praha YELLOW
-3XE12014/2015-A09D02	9	3.5.2015	9:40:00	Sokol Rudná	AC Sparta Praha YELLOW	AC Sparta Praha YELLOW
-3XE12014/2015-A09D03	9	3.5.2015	10:20:00	FBK CONEP Vosy Praha	T.B.C. Králův Dvůr	AC Sparta Praha YELLOW
-3XE12014/2015-A09D04	9	3.5.2015	11:00:00	Athletics Praha Černý Most	Sokol Rudná	AC Sparta Praha YELLOW
-3XE12014/2015-A09D05	9	3.5.2015	11:40:00	AC Sparta Praha BLACK	FBK CONEP Vosy Praha	AC Sparta Praha YELLOW
-3XE12014/2015-A09D06	9	3.5.2015	12:20:00	AC Sparta Praha YELLOW	Athletics Praha Černý Most	AC Sparta Praha YELLOW
-3XE12014/2015-A09D07	9	3.5.2015	13:00:00	FBK CONEP Vosy Praha	Athletics Praha Černý Most	AC Sparta Praha YELLOW
-3XE12014/2015-A09D08	9	3.5.2015	13:40:00	T.B.C. Králův Dvůr	Sokol Rudná	AC Sparta Praha YELLOW
-3XE12014/2015-A09D09	9	3.5.2015	14:20:00	AC Sparta Praha BLACK	AC Sparta Praha YELLOW	AC Sparta Praha YELLOW
-3XE12014/2015-A09E01	9	3.5.2015	9:00:00	FBC Kutná Hora	Athletics Praha Prosek	Athletics Praha Prosek
-3XE12014/2015-A09E02	9	3.5.2015	9:40:00	Viking TJ Sokol Kobylisy B	TEMPISH Orka Čelákovice C	Athletics Praha Prosek
-3XE12014/2015-A09E03	9	3.5.2015	10:40:00	FBC Kutná Hora	TEMPISH Orka Čelákovice C	Athletics Praha Prosek
-3XE12014/2015-A09E04	9	3.5.2015	11:20:00	Viking TJ Sokol Kobylisy B	Athletics Praha Prosek	Athletics Praha Prosek
-3XE12014/2015-A09E05	9	3.5.2015	12:20:00	Viking TJ Sokol Kobylisy B	FBC Kutná Hora	Athletics Praha Prosek
-3XE12014/2015-A09E06	9	3.5.2015	13:00:00	TEMPISH Orka Čelákovice C	Athletics Praha Prosek	Athletics Praha Prosek
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A01	1	11.10.2014	9:00:00	FBC Kladno bílí	Kalla Václav		TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	FBC Start98 Kunratice	SH ZŠ Kunratice	Farář Jan	Vudarčíková Tereza		5	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A02	1	11.10.2014	9:40:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	Tatran Střešovice Red	Janda Petr	Skála Vojtěch	FBC Start98 Kunratice	SH ZŠ Kunratice	Policar Ondřej	Farář Jan		8	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A03	1	11.10.2014	10:20:00	FBC Start98 Kunratice	Szebinovský Jiří	Szebinovský Jiří	FBC Kladno bílí	Kalla Václav		FBC Start98 Kunratice	SH ZŠ Kunratice	Policar Ondřej	Vudarčíková Tereza		3	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A04	1	11.10.2014	11:00:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FBC Start98 Kunratice	SH ZŠ Kunratice	Farář Jan	Vudarčíková Tereza		3	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A05	1	11.10.2014	11:40:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	FBC Start98 Kunratice	Szebinovský Jiří	Szebinovský Jiří	FBC Start98 Kunratice	SH ZŠ Kunratice	Farář Jan	Policar Ondřej		2	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A06	1	11.10.2014	12:20:00	Tatran Střešovice Red	Janda Petr	Skála Vojtěch	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	FBC Start98 Kunratice	SH ZŠ Kunratice	Policar Ondřej	Vudarčíková Tereza		5	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A07	1	11.10.2014	13:00:00	FBC Kladno bílí	Kalla Václav		FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FBC Start98 Kunratice	SH ZŠ Kunratice	Farář Jan	Policar Ondřej		5	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A08	1	11.10.2014	13:40:00	FBC Start98 Kunratice	Szebinovský Jiří	Szebinovský Jiří	Tatran Střešovice Red	Janda Petr	Skála Vojtěch	FBC Start98 Kunratice	SH ZŠ Kunratice	Farář Jan	Vudarčíková Tereza		7	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01A09	1	11.10.2014	14:20:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	FBC Start98 Kunratice	SH ZŠ Kunratice	Policar Ondřej	Farář Jan		2	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B01	1	11.10.2014	9:00:00	Florbalová akademie MB	Žbánková Radka	Žbánková Radka	Sokol Rudná	Tuček Martin	Tuček Martin	Technology Florbal MB	ZŠ Vachkova	Kobularčik Michal	Horyna Jakub		2	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B02	1	11.10.2014	9:40:00	AC Sparta Praha RED	Svatoš Ondřej	Eisenkolb Michal	AC Sparta Praha BLUE	Kárník Miloš	Kárník Miloš	Technology Florbal MB	ZŠ Vachkova	Zavadil Václav	Horyna Jakub		6	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B03	1	11.10.2014	10:20:00	Technology Florbal MB	Tůma Aleš	Tůma Aleš	Florbalová akademie MB	Žbánková Radka	Žbánková Radka	Technology Florbal MB	ZŠ Vachkova	Kobularčik Michal	Zavadil Václav		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B04	1	11.10.2014	11:00:00	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	AC Sparta Praha RED	Svatoš Ondřej	Eisenkolb Michal	Technology Florbal MB	ZŠ Vachkova	Kobularčik Michal	Horyna Jakub		2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B05	1	11.10.2014	11:40:00	Sokol Rudná	Tuček Martin	Tuček Martin	Technology Florbal MB	Tůma Aleš	Tůma Aleš	Technology Florbal MB	ZŠ Vachkova	Zavadil Václav	Horyna Jakub		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B06	1	11.10.2014	12:20:00	AC Sparta Praha BLUE	Kárník Miloš	Kárník Miloš	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	Technology Florbal MB	ZŠ Vachkova	Kobularčik Michal	Zavadil Václav		5	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B07	1	11.10.2014	13:00:00	Technology Florbal MB	Tůma Aleš	Tůma Aleš	AC Sparta Praha RED	Svatoš Ondřej	Eisenkolb Michal	Technology Florbal MB	ZŠ Vachkova	Kobularčik Michal	Horyna Jakub		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B08	1	11.10.2014	13:40:00	Florbalová akademie MB	Žbánková Radka	Žbánková Radka	AC Sparta Praha BLUE	Kárník Miloš	Kárník Miloš	Technology Florbal MB	ZŠ Vachkova	Zavadil Václav	Horyna Jakub		2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01B09	1	11.10.2014	14:20:00	Sokol Rudná	Tuček Martin	Tuček Martin	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	Technology Florbal MB	ZŠ Vachkova	Kobularčik Michal	Zavadil Václav		6	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C01	1	11.10.2014	9:00:00	FBC Start98 Kunratice B	Pálenský Nikola		FBK CONEP Vosy Praha	Polidarová Marie	Polidarová Marie	TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Špalek Ondřej	Čáp Jakub	Šuvada Roman	10	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C02	1	11.10.2014	9:40:00	BLACK ANGELS 2005	Pošta Matěj	Pošta Matěj	DDM Horní Počernice ORKA B	Zetek Aleš	Lenner Roman	TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Braniš Matěj	Špalek Ondřej	Šuvada Roman	4	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C03	1	11.10.2014	10:20:00	FbC Panthers	Tůma Jan	Tůma Jan	FBC Start98 Kunratice B	Pálenský Nikola		TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Braniš Matěj	Čáp Jakub	Šuvada Roman	6	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C04	1	11.10.2014	11:00:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	BLACK ANGELS 2005	Pošta Matěj	Pošta Matěj	TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Čáp Jakub	Špalek Ondřej		3	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C05	1	11.10.2014	11:40:00	FBK CONEP Vosy Praha	Polidarová Marie	Polidarová Marie	FbC Panthers	Tůma Jan	Tůma Jan	TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Braniš Matěj	Špalek Ondřej		0	14	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C06	1	11.10.2014	12:20:00	DDM Horní Počernice ORKA B	Zetek Aleš	Lenner Roman	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Čáp Jakub	Braniš Matěj		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C07	1	11.10.2014	13:00:00	FbC Panthers	Tůma Jan	Tůma Jan	BLACK ANGELS 2005	Pošta Matěj	Pošta Matěj	TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Čáp Jakub	Špalek Ondřej		4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C08	1	11.10.2014	13:40:00	FBC Start98 Kunratice B	Pálenský Nikola		TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Braniš Matěj	Špalek Ondřej		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01C09	1	11.10.2014	14:20:00	FBK CONEP Vosy Praha	Polidarová Marie	Polidarová Marie	DDM Horní Počernice ORKA B	Zetek Aleš	Lenner Roman	TEMPISH Orka Čelákovice	SH U Učiliště Čelákovice	Čáp Jakub	Braniš Matěj		0	13	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D01	1	12.10.2014	9:00:00	AC Sparta Praha YELLOW	Marvánek Jan	Marvánek Jan	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	Tatran Střešovice Black	Unihoc Aréna Praha	Novotný Jakub	Gaberdén Filip		1	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D02	1	12.10.2014	9:40:00	AC Sparta Praha BLACK	Thompson Oliver James		TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Tatran Střešovice Black	Unihoc Aréna Praha	Gaberdén Filip	Hlaváček Ondřej		8	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D03	1	12.10.2014	10:20:00	Tatran Střešovice Black	Janda Petr	Skála Vojtěch	AC Sparta Praha YELLOW	Marvánek Jan	Marvánek Jan	Tatran Střešovice Black	Unihoc Aréna Praha	Novotný Jakub	Hlaváček Ondřej		7	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D04	1	12.10.2014	11:00:00	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	AC Sparta Praha BLACK	Thompson Oliver James		Tatran Střešovice Black	Unihoc Aréna Praha	Novotný Jakub	Gaberdén Filip		3	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D05	1	12.10.2014	11:40:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	Tatran Střešovice Black	Janda Petr	Skála Vojtěch	Tatran Střešovice Black	Unihoc Aréna Praha	Gaberdén Filip	Hlaváček Ondřej		3	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D06	1	12.10.2014	12:20:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	Tatran Střešovice Black	Unihoc Aréna Praha	Novotný Jakub	Hlaváček Ondřej		2	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D07	1	12.10.2014	13:00:00	Tatran Střešovice Black	Janda Petr	Skála Vojtěch	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	Tatran Střešovice Black	Unihoc Aréna Praha	Hlaváček Ondřej	Gaberdén Filip		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D08	1	12.10.2014	13:40:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	AC Sparta Praha BLACK	Thompson Oliver James		Tatran Střešovice Black	Unihoc Aréna Praha	Gaberdén Filip	Novotný Jakub		5	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01D09	1	12.10.2014	14:20:00	AC Sparta Praha YELLOW	Marvánek Jan	Marvánek Jan	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Tatran Střešovice Black	Unihoc Aréna Praha	Novotný Jakub	Hlaváček Ondřej		11	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01E01	1	12.10.2014	9:00:00	FBC Kutná Hora	Blahník Martin	Šesták Milan	Athletics Praha Prosek	Červená Nikola	Jambor Vladimír	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Šanda Filip	Tázler Jakub		1	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01E02	1	12.10.2014	9:40:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Šanda Filip	Tázler Jakub		0	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01E03	1	12.10.2014	10:20:00	FBC Kutná Hora	Blahník Martin	Šesták Milan	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Šanda Filip	Tázler Jakub		0	16	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01E04	1	12.10.2014	11:00:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Athletics Praha Prosek	Červená Nikola	Jambor Vladimír	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Šanda Filip	Tázler Jakub		2	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01E05	1	12.10.2014	11:40:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FBC Kutná Hora	Blahník Martin	Šesták Milan	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Šanda Filip	Tázler Jakub		6	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A01E06	1	12.10.2014	12:20:00	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	Athletics Praha Prosek	Červená Nikola	Jambor Vladimír	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Šanda Filip	Tázler Jakub		6	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A01	2	25.10.2014	9:00:00	FBC Start98 Kunratice	Pálenský Nikola		AC Sparta Praha RED	Svatoš Ondřej	Marvánek Jan	Tatran Střešovice Red	SH TJ Tatran Střešovice	Policar Ondřej	Trnobranský Karel		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A02	2	25.10.2014	9:40:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	Tatran Střešovice Red	Skála Vojtěch	Skála Vojtěch	Tatran Střešovice Red	SH TJ Tatran Střešovice	Hertz David	Trnobranský Karel		8	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A03	2	25.10.2014	10:20:00	FBC Kladno bílí	Kalla Václav		FBC Start98 Kunratice	Pálenský Nikola		Tatran Střešovice Red	SH TJ Tatran Střešovice	Policar Ondřej	Hertz David		4	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A04	2	25.10.2014	11:00:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	Tatran Střešovice Red	SH TJ Tatran Střešovice	Policar Ondřej	Trnobranský Karel		0	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A05	2	25.10.2014	11:40:00	AC Sparta Praha RED	Svatoš Ondřej	Marvánek Jan	FBC Kladno bílí	Kalla Václav		Tatran Střešovice Red	SH TJ Tatran Střešovice	Hertz David	Trnobranský Karel		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A06	2	25.10.2014	12:20:00	Tatran Střešovice Red	Skála Vojtěch	Skála Vojtěch	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	Tatran Střešovice Red	SH TJ Tatran Střešovice	Policar Ondřej	Hertz David		5	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A07	2	25.10.2014	13:00:00	FBC Kladno bílí	Kalla Václav		BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	Tatran Střešovice Red	SH TJ Tatran Střešovice	Policar Ondřej	Trnobranský Karel		2	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A08	2	25.10.2014	13:40:00	AC Sparta Praha RED	Svatoš Ondřej	Marvánek Jan	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	Tatran Střešovice Red	SH TJ Tatran Střešovice	Hertz David	Trnobranský Karel		5	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02A09	2	25.10.2014	14:20:00	Tatran Střešovice Red	Skála Vojtěch	Skála Vojtěch	FBC Start98 Kunratice	Pálenský Nikola		Tatran Střešovice Red	SH TJ Tatran Střešovice	Policar Ondřej	Hertz David		4	9	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B01	2	25.10.2014	9:00:00	AC Sparta Praha BLUE	Kárník Miloš	Kárník Miloš	BLACK ANGELS 2005	Pošta Matěj	Sláma Jan	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Trejbal Patrik	Recht Lukáš	Šťástka Vladimír	0	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B02	2	25.10.2014	9:40:00	Florbalová akademie MB	Pivoňka Ondřej	Pužman Jndřich	Viking group TJ Sokol Kobylisy			Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Zavadil Václav	Recht Lukáš		2	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B03	2	25.10.2014	10:20:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	AC Sparta Praha BLUE	Kárník Miloš	Kárník Miloš	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Trejbal Patrik	Zavadil Václav		3	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B04	2	25.10.2014	11:00:00	Technology Florbal MB	Tůma Aleš	Tůma Aleš	Florbalová akademie MB	Pivoňka Ondřej	Pužman Jndřich	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Trejbal Patrik	Recht Lukáš		2	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B05	2	25.10.2014	11:40:00	BLACK ANGELS 2005	Pošta Matěj	Sláma Jan	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Zavadil Václav	Recht Lukáš		4	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B06	2	25.10.2014	12:20:00	Viking group TJ Sokol Kobylisy			Technology Florbal MB	Tůma Aleš	Tůma Aleš	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Trejbal Patrik	Zavadil Václav		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B07	2	25.10.2014	13:00:00	BLACK ANGELS 2005	Pošta Matěj	Sláma Jan	Technology Florbal MB	Tůma Aleš	Tůma Aleš	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Trejbal Patrik	Recht Lukáš		5	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B08	2	25.10.2014	13:40:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	Florbalová akademie MB	Pivoňka Ondřej	Pužman Jndřich	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Zavadil Václav	Recht Lukáš		3	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02B09	2	25.10.2014	14:20:00	AC Sparta Praha BLUE	Kárník Miloš	Kárník Miloš	Viking group TJ Sokol Kobylisy			Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Trejbal Patrik	Zavadil Václav		3	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C01	2	25.10.2014	9:00:00	FBC Start98 Kunratice B	Kerzelová Jana	Kerzelová Jana	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	FbC Panthers	TJ Radlice	Verner Vojtěch	Jílek Karel		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C02	2	25.10.2014	9:40:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	FbC Panthers	Jenšík Lukáš	Tůma Jan	FbC Panthers	TJ Radlice	Nekola Adam	Verner Vojtěch		2	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C03	2	25.10.2014	10:20:00	Sokol Rudná	Blažek Martin	Blažek Martin	FBC Start98 Kunratice B	Kerzelová Jana	Kerzelová Jana	FbC Panthers	TJ Radlice	Jílek Karel	Nekola Adam		3	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C04	2	25.10.2014	11:00:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	FbC Panthers	TJ Radlice	Jílek Karel	Verner Vojtěch		2	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C05	2	25.10.2014	11:40:00	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	Sokol Rudná	Blažek Martin	Blažek Martin	FbC Panthers	TJ Radlice	Nekola Adam	Verner Vojtěch		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C06	2	25.10.2014	12:20:00	FbC Panthers	Jenšík Lukáš	Tůma Jan	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	FbC Panthers	TJ Radlice	Jílek Karel	Nekola Adam		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C07	2	25.10.2014	13:00:00	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	FbC Panthers	Jenšík Lukáš	Tůma Jan	FbC Panthers	TJ Radlice	Jílek Karel	Verner Vojtěch		0	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C08	2	25.10.2014	13:40:00	Sokol Rudná	Blažek Martin	Blažek Martin	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	FbC Panthers	TJ Radlice	Nekola Adam	Verner Vojtěch		1	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02C09	2	25.10.2014	14:20:00	FBC Start98 Kunratice B	Kerzelová Jana	Kerzelová Jana	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	FbC Panthers	TJ Radlice	Jílek Karel	Nekola Adam		1	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D01	2	26.10.2014	9:00:00	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	AC Sparta Praha BLACK	X3M Arena Barrandov	Gaberdén Filip	Novotný Jakub		2	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D02	2	26.10.2014	9:40:00	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	AC Sparta Praha BLACK	X3M Arena Barrandov	Gaberdén Filip	Novotný Jakub		0	10	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D03	2	26.10.2014	10:20:00	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	AC Sparta Praha BLACK	X3M Arena Barrandov	Bína Petr	Kopáčková Denisa	Müller Jiří	1	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D04	2	26.10.2014	11:00:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	AC Sparta Praha BLACK	X3M Arena Barrandov	Gaberdén Filip	Novotný Jakub		5	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D05	2	26.10.2014	11:40:00	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	AC Sparta Praha BLACK	X3M Arena Barrandov	Bína Petr	Kopáčková Denisa	Müller Jiří	3	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D06	2	26.10.2014	12:20:00	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	AC Sparta Praha BLACK	X3M Arena Barrandov	Gaberdén Filip	Novotný Jakub		5	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D07	2	26.10.2014	13:00:00	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	AC Sparta Praha BLACK	X3M Arena Barrandov	Bína Petr	Kopáčková Denisa		5	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D08	2	26.10.2014	13:40:00	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	AC Sparta Praha BLACK	X3M Arena Barrandov	Gaberdén Filip	Novotný Jakub		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02D09	2	26.10.2014	14:20:00	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	AC Sparta Praha BLACK	X3M Arena Barrandov	Bína Petr	Kopáčková Denisa		1	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02E01	2	26.10.2014	9:00:00	FBC Kutná Hora	Netolický Pavel	Šesták Milan	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Braniš Matěj	Verner Jaroslav		0	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02E02	2	26.10.2014	9:40:00	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Tázler Jakub	Braniš Matěj		1	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02E03	2	26.10.2014	10:20:00	FBC Kutná Hora	Netolický Pavel	Šesták Milan	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Verner Jaroslav	Tázler Jakub		2	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02E04	2	26.10.2014	11:00:00	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Verner Jaroslav	Braniš Matěj		9	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02E05	2	26.10.2014	11:40:00	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	FBC Kutná Hora	Netolický Pavel	Šesták Milan	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Tázler Jakub	Braniš Matěj		5	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A02E06	2	26.10.2014	12:20:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Verner Jaroslav	Tázler Jakub		6	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A01	3	8.11.2014	9:00:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	BLACK ANGELS 2005	Sláma Jan	Pošta Matěj	FBC Kladno bílí	Přetlaková SH Kladno	Kovář Filip	Drake Daniel		4	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A02	3	8.11.2014	9:40:00	FBC Start98 Kunratice	Pálenský Nikola		FBC Kladno bílí	Kalla Václav		FBC Kladno bílí	Přetlaková SH Kladno	Jílek Karel	Drake Daniel		1	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A03	3	8.11.2014	10:20:00	BLACK ANGELS 2004	Kocourek Jiří		FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FBC Kladno bílí	Přetlaková SH Kladno	Kovář Filip	Jílek Karel		1	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A04	3	8.11.2014	11:00:00	AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	FBC Start98 Kunratice	Pálenský Nikola		FBC Kladno bílí	Přetlaková SH Kladno	Kovář Filip	Drake Daniel		6	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A05	3	8.11.2014	11:40:00	BLACK ANGELS 2005	Sláma Jan	Pošta Matěj	BLACK ANGELS 2004	Kocourek Jiří		FBC Kladno bílí	Přetlaková SH Kladno	Jílek Karel	Drake Daniel		2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A06	3	8.11.2014	12:20:00	FBC Kladno bílí	Kalla Václav		AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	FBC Kladno bílí	Přetlaková SH Kladno	Kovář Filip	Jílek Karel		4	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A07	3	8.11.2014	13:00:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FBC Kladno bílí	Kalla Václav		FBC Kladno bílí	Přetlaková SH Kladno	Kovář Filip	Drake Daniel		2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A08	3	8.11.2014	13:40:00	BLACK ANGELS 2004	Kocourek Jiří		FBC Start98 Kunratice	Pálenský Nikola		FBC Kladno bílí	Přetlaková SH Kladno	Jílek Karel	Drake Daniel		1	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03A09	3	8.11.2014	14:20:00	BLACK ANGELS 2005	Sláma Jan	Pošta Matěj	AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	FBC Kladno bílí	Přetlaková SH Kladno	Kovář Filip	Jílek Karel		0	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B01	3	8.11.2014	9:00:00	Technology Florbal MB	Tůma Aleš	Tůma Aleš	TJ Sokol Královské Vinohrady	Šťastná Lucie	Záň Martin	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Krob Daniel	Sunkovský Kryštof		4	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B02	3	8.11.2014	9:40:00	Florbalová akademie MB		Pužman Jndřich	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Krob Daniel	Sunkovský Kryštof		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B03	3	8.11.2014	10:20:00	Tatran Střešovice Red	Janda Petr	Janda Petr	Technology Florbal MB	Tůma Aleš	Tůma Aleš	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Skála Jan	Novotný Jakub		8	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B04	3	8.11.2014	11:00:00	FbC Panthers	Tůma Jan	Tůma Jan	Florbalová akademie MB		Pužman Jndřich	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Krob Daniel	Sunkovský Kryštof		2	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B05	3	8.11.2014	11:40:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Záň Martin	Tatran Střešovice Red	Janda Petr	Janda Petr	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Skála Jan	Novotný Jakub		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B06	3	8.11.2014	12:20:00	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	FbC Panthers	Tůma Jan	Tůma Jan	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Krob Daniel	Sunkovský Kryštof		1	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B07	3	8.11.2014	13:00:00	Tatran Střešovice Red	Janda Petr	Janda Petr	FbC Panthers	Tůma Jan	Tůma Jan	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Skála Jan	Novotný Jakub		5	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B08	3	8.11.2014	13:40:00	Technology Florbal MB	Tůma Aleš	Tůma Aleš	Florbalová akademie MB		Pužman Jndřich	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Krob Daniel	Sunkovský Kryštof		2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03B09	3	8.11.2014	14:20:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Záň Martin	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	Viking group TJ Sokol Kobylisy	TJ Sokol Kobylisy	Skála Jan	Novotný Jakub		7	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C01	3	8.11.2014	9:00:00	Athletics Praha Černý Most	Čížek Adam	Novák Bohuslav	FBK CONEP Vosy Praha	Thoma Patrik	Tábořík Michal	DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Krameš Jan	Fišer Daniel		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C02	3	8.11.2014	9:40:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Zmátlo Šimon	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Nikolov Lubomír	Fišer Daniel		5	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C03	3	8.11.2014	10:20:00	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	Athletics Praha Černý Most	Čížek Adam	Novák Bohuslav	DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Krameš Jan	Nikolov Lubomír		0	11	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C04	3	8.11.2014	11:00:00	AC Sparta Praha BLUE	Thompson Oliver James		TEMPISH Orka Čelákovice	Mikšovský Martin	Zmátlo Šimon	DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Krameš Jan	Fišer Daniel		2	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C05	3	8.11.2014	11:40:00	FBK CONEP Vosy Praha	Thoma Patrik	Tábořík Michal	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Nikolov Lubomír	Fišer Daniel		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C06	3	8.11.2014	12:20:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	AC Sparta Praha BLUE	Thompson Oliver James		DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Krameš Jan	Nikolov Lubomír		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C07	3	8.11.2014	13:00:00	Athletics Praha Černý Most	Čížek Adam	Novák Bohuslav	TEMPISH Orka Čelákovice	Mikšovský Martin	Zmátlo Šimon	DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Krameš Jan	Fišer Daniel		1	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C08	3	8.11.2014	13:40:00	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Nikolov Lubomír	Fišer Daniel		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03C09	3	8.11.2014	14:20:00	FBK CONEP Vosy Praha	Thoma Patrik	Tábořík Michal	AC Sparta Praha BLUE	Thompson Oliver James		DDM Horní Počernice ORKA B	SH U Učiliště Čelákovice	Krameš Jan	Nikolov Lubomír		2	14	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D01	3	9.11.2014	9:00:00	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	T.B.C. Králův Dvůr	SH Králův Dvůr	Nikolov Lubomír	Fišer Daniel		4	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D02	3	9.11.2014	9:40:00	AC Sparta Praha YELLOW	Marvánek Jan	Marvánek Jan	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	T.B.C. Králův Dvůr	SH Králův Dvůr	Novotný Jakub	Nikolov Lubomír		2	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D03	3	9.11.2014	10:20:00	FBC Start98 Kunratice B	Pálenský Nikola		FbŠ Bohemians	Krátký Daniel	Dubský Pavel	T.B.C. Králův Dvůr	SH Králův Dvůr	Fišer Daniel	Novotný Jakub		8	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D04	3	9.11.2014	11:00:00	Sokol Rudná	Blažek Martin	Blažek Martin	AC Sparta Praha YELLOW	Marvánek Jan	Marvánek Jan	T.B.C. Králův Dvůr	SH Králův Dvůr	Fišer Daniel	Nikolov Lubomír		4	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D05	3	9.11.2014	11:40:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FBC Start98 Kunratice B	Pálenský Nikola		T.B.C. Králův Dvůr	SH Králův Dvůr	Novotný Jakub	Nikolov Lubomír		0	12	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D06	3	9.11.2014	12:20:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	Sokol Rudná	Blažek Martin	Blažek Martin	T.B.C. Králův Dvůr	SH Králův Dvůr	Fišer Daniel	Novotný Jakub		6	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D07	3	9.11.2014	13:00:00	FBC Start98 Kunratice B	Pálenský Nikola		T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	T.B.C. Králův Dvůr	SH Králův Dvůr	Fišer Daniel	Nikolov Lubomír		9	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D08	3	9.11.2014	13:40:00	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	AC Sparta Praha YELLOW	Marvánek Jan	Marvánek Jan	T.B.C. Králův Dvůr	SH Králův Dvůr	Novotný Jakub	Nikolov Lubomír		5	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03D09	3	9.11.2014	14:20:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Sokol Rudná	Blažek Martin	Blažek Martin	T.B.C. Králův Dvůr	SH Králův Dvůr	Fišer Daniel	Novotný Jakub		4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03E01	3	9.11.2014	9:00:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Bochníček Bohuslav	Bochníček Jaroslav		2	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03E02	3	9.11.2014	9:40:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	FBC Kutná Hora	SH BIOS Kutná Hora	Bochníček Bohuslav	Bochníček Jaroslav		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03E03	3	9.11.2014	10:20:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	FBC Kutná Hora	SH BIOS Kutná Hora	Bochníček Bohuslav	Bochníček Jaroslav		6	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03E04	3	9.11.2014	11:00:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Bochníček Bohuslav	Bochníček Jaroslav		2	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03E05	3	9.11.2014	11:40:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	FBC Kutná Hora	SH BIOS Kutná Hora	Bochníček Bohuslav	Bochníček Jaroslav		6	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A03E06	3	9.11.2014	12:20:00	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Bochníček Bohuslav	Bochníček Jaroslav		11	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A01	4	22.11.2014	9:00:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	Tatran Střešovice Red	Janda Petr	Janda Petr	FBC Start98 Kunratice	SH ZŠ Kunratice	Müllern Daniel	Recht Lukáš		0	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A02	4	22.11.2014	9:40:00	FbC Panthers	Rupa Michal	Rupa Michal	FBC Start98 Kunratice	Szebinovský Jiří	Malhocký Jakub Josef	FBC Start98 Kunratice	SH ZŠ Kunratice	Hrubá Michaela	Skála Jan		0	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A03	4	22.11.2014	10:20:00	FBC Kladno bílí	Kalla Václav		BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	FBC Start98 Kunratice	SH ZŠ Kunratice	Müllern Daniel	Recht Lukáš		5	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A04	4	22.11.2014	11:00:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FbC Panthers	Rupa Michal	Rupa Michal	FBC Start98 Kunratice	SH ZŠ Kunratice	Hrubá Michaela	Skála Jan		5	8	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A05	4	22.11.2014	11:40:00	Tatran Střešovice Red	Janda Petr	Janda Petr	FBC Kladno bílí	Kalla Václav		FBC Start98 Kunratice	SH ZŠ Kunratice	Müllern Daniel	Recht Lukáš		2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A06	4	22.11.2014	12:20:00	FBC Start98 Kunratice	Szebinovský Jiří	Malhocký Jakub Josef	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FBC Start98 Kunratice	SH ZŠ Kunratice	Hrubá Michaela	Skála Jan		7	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A07	4	22.11.2014	13:00:00	FBC Kladno bílí	Kalla Václav		FBC Start98 Kunratice	Szebinovský Jiří	Malhocký Jakub Josef	FBC Start98 Kunratice	SH ZŠ Kunratice	Hrubá Michaela	Skála Jan		5	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A08	4	22.11.2014	13:40:00	Tatran Střešovice Red	Janda Petr	Janda Petr	FbC Panthers	Rupa Michal	Rupa Michal	FBC Start98 Kunratice	SH ZŠ Kunratice	Müllern Daniel	Recht Lukáš		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04A09	4	22.11.2014	14:20:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FBC Start98 Kunratice	SH ZŠ Kunratice	Hrubá Michaela	Skála Jan		6	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B01	4	23.11.2014	8:00:00	Technology Florbal MB	Křenek Radim	Tůma Aleš	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	AC Sparta Praha RED	X3M Arena Barrandov	Hrubý Dominik	Šimek Tomáš		8	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B02	4	23.11.2014	8:40:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	AC Sparta Praha RED	X3M Arena Barrandov	Hrubý Dominik	Jaucová Adéla		1	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B03	4	23.11.2014	9:20:00	BLACK ANGELS 2005	Pošta Matěj	Pošta Matěj	Technology Florbal MB	Křenek Radim	Tůma Aleš	AC Sparta Praha RED	X3M Arena Barrandov	Šimek Tomáš	Jaucová Adéla		1	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B04	4	23.11.2014	10:00:00	Florbalová akademie MB		Pužman Jndřich	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	AC Sparta Praha RED	X3M Arena Barrandov	Hrubý Dominik	Šimek Tomáš		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B05	4	23.11.2014	10:40:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	BLACK ANGELS 2005	Pošta Matěj	Pošta Matěj	AC Sparta Praha RED	X3M Arena Barrandov	Jaucová Adéla	Hrubý Dominik		4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B06	4	23.11.2014	11:20:00	AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	Florbalová akademie MB		Pužman Jndřich	AC Sparta Praha RED	X3M Arena Barrandov	Šimek Tomáš	Jaucová Adéla		10	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B07	4	23.11.2014	12:00:00	AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	Technology Florbal MB	Křenek Radim	Tůma Aleš	AC Sparta Praha RED	X3M Arena Barrandov	Šimek Tomáš	Jaucová Adéla		2	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B08	4	23.11.2014	12:40:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	Florbalová akademie MB		Pužman Jndřich	AC Sparta Praha RED	X3M Arena Barrandov	Šimek Tomáš	Hrubý Dominik		5	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04B09	4	23.11.2014	13:20:00	BLACK ANGELS 2005	Pošta Matěj	Pošta Matěj	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	AC Sparta Praha RED	X3M Arena Barrandov	Jaucová Adéla	Hrubý Dominik		3	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C01	4	22.11.2014	12:30:00	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	FBC Start98 Kunratice B	Pálenský Nikola		TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Tázler Jakub	Suchý Tomáš		5	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C02	4	22.11.2014	13:10:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Suchý Tomáš	Suchý Tomáš		1	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C03	4	22.11.2014	13:50:00	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Tázler Jakub	Suchý Tomáš		3	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C04	4	22.11.2014	14:30:00	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Tázler Jakub	Suchý Tomáš		5	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C05	4	22.11.2014	15:10:00	FBC Start98 Kunratice B	Pálenský Nikola		Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Suchý Tomáš	Suchý Tomáš		3	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C06	4	22.11.2014	15:50:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Tázler Jakub	Suchý Tomáš		8	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C07	4	22.11.2014	16:30:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Tázler Jakub	Suchý Tomáš		4	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C08	4	22.11.2014	17:10:00	Tatran Střešovice Black	Skála Vojtěch	Skála Vojtěch	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Suchý Tomáš	Suchý Tomáš		3	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04C09	4	22.11.2014	17:50:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	FBC Start98 Kunratice B	Pálenský Nikola		TEMPISH Orka Čelákovice	SH BIOS Čelákovice	Tázler Jakub	Suchý Tomáš		1	11	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D01	4	23.11.2014	9:00:00	AC Sparta Praha YELLOW	Svatoš Ondřej		AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	Athletics Praha Černý Most	Sportcentrum Letňany	Drake Daniel	Kovář Filip		6	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D02	4	23.11.2014	9:40:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Athletics Praha Černý Most	Sportcentrum Letňany	Drake Daniel	Kovář Filip		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D03	4	23.11.2014	10:20:00	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	AC Sparta Praha YELLOW	Svatoš Ondřej		Athletics Praha Černý Most	Sportcentrum Letňany	Hloušek Jan	Kobularčik Michal		13	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D04	4	23.11.2014	11:00:00	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Athletics Praha Černý Most	Sportcentrum Letňany	Drake Daniel	Kovář Filip		6	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D05	4	23.11.2014	11:40:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	Athletics Praha Černý Most	Sportcentrum Letňany	Hloušek Jan	Kobularčik Michal		7	15	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D06	4	23.11.2014	12:20:00	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	Athletics Praha Černý Most	Sportcentrum Letňany	Drake Daniel	Kovář Filip		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D07	4	23.11.2014	13:00:00	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	FbŠ Bohemians	Krátký Daniel	Dubský Pavel	Athletics Praha Černý Most	Sportcentrum Letňany	Kovář Filip	Drake Daniel		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D08	4	23.11.2014	13:40:00	AC Sparta Praha YELLOW	Svatoš Ondřej		Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Athletics Praha Černý Most	Sportcentrum Letňany	Kobularčik Michal	Hloušek Jan		0	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04D09	4	23.11.2014	14:20:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Athletics Praha Černý Most	Sportcentrum Letňany	Hloušek Jan	Kobularčik Michal		6	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04E01	4	23.11.2014	15:00:00	FBC Kutná Hora	Netolický Pavel	Šesták Milan	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Athletics Praha Prosek	Sportcentrum Letňany	Recht Lukáš	Gaberdén Filip		2	10	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04E02	4	23.11.2014	15:40:00	Sokol Rudná	Blažek Martin	Blažek Martin	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Athletics Praha Prosek	Sportcentrum Letňany	Novotný Jakub	Gaberdén Filip		6	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04E03	4	23.11.2014	16:20:00	FBC Kutná Hora	Netolický Pavel	Šesták Milan	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Athletics Praha Prosek	Sportcentrum Letňany	Recht Lukáš	Novotný Jakub		1	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04E04	4	23.11.2014	17:00:00	Sokol Rudná	Blažek Martin	Blažek Martin	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Athletics Praha Prosek	Sportcentrum Letňany	Recht Lukáš	Gaberdén Filip		4	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04E05	4	23.11.2014	17:40:00	Sokol Rudná	Blažek Martin	Blažek Martin	FBC Kutná Hora	Netolický Pavel	Šesták Milan	Athletics Praha Prosek	Sportcentrum Letňany	Novotný Jakub	Gaberdén Filip		6	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A04E06	4	23.11.2014	18:20:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Athletics Praha Prosek	Sportcentrum Letňany	Recht Lukáš	Novotný Jakub		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A01	5	6.12.2014	9:00:00	FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	Technology Florbal MB	Křenek Radim	Tůma Aleš	TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Müllern Daniel	Kutnarová Anna		3	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A02	5	6.12.2014	9:40:00	Tatran Střešovice Red	Janda Petr	Janda Petr	TJ Sokol Královské Vinohrady	Záň Martin	Němeček Josef	TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Müllern Daniel	Kutnarová Anna		4	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A03	5	6.12.2014	10:20:00	AC Sparta Praha RED	Svatoš Ondřej	Eisenkolb Michal	FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Recht Lukáš	Fišer Daniel		7	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A04	5	6.12.2014	11:00:00	FBC Kladno bílí	Kalla Václav		Tatran Střešovice Red	Janda Petr	Janda Petr	TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Müllern Daniel	Kutnarová Anna		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A05	5	6.12.2014	11:40:00	Technology Florbal MB	Křenek Radim	Tůma Aleš	AC Sparta Praha RED	Svatoš Ondřej	Eisenkolb Michal	TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Recht Lukáš	Fišer Daniel		4	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A06	5	6.12.2014	12:20:00	TJ Sokol Královské Vinohrady	Záň Martin	Němeček Josef	FBC Kladno bílí	Kalla Václav		TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Müllern Daniel	Kutnarová Anna		2	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A07	5	6.12.2014	13:00:00	FBC Kladno bílí	Kalla Václav		AC Sparta Praha RED	Svatoš Ondřej	Eisenkolb Michal	TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Recht Lukáš	Fišer Daniel		4	3	p
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A08	5	6.12.2014	13:40:00	Tatran Střešovice Red	Janda Petr	Janda Petr	Technology Florbal MB	Křenek Radim	Tůma Aleš	TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Müllern Daniel	Kutnarová Anna		7	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05A09	5	6.12.2014	14:20:00	TJ Sokol Královské Vinohrady	Záň Martin	Němeček Josef	FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	TJ Sokol Královské Vinohrady	TJ Sokol Vinohrady	Recht Lukáš	Fišer Daniel		1	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B01	5	6.12.2014	9:00:00	FbC Panthers	Tůma Jan	Tůma Jan	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Eliáš Jan			5	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B02	5	6.12.2014	9:40:00	BLACK ANGELS 2004	Kocourek Jiří		Florbalová akademie MB	Hájek Vladimír	Pužman Jndřich	Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Eliáš Jan			2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B03	5	6.12.2014	10:20:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FbC Panthers	Tůma Jan	Tůma Jan	Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Hnídek Miroslav			8	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B04	5	6.12.2014	11:00:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	BLACK ANGELS 2004	Kocourek Jiří		Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Hnídek Miroslav			2	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B05	5	6.12.2014	11:40:00	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Eliáš Jan			4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B06	5	6.12.2014	12:20:00	Florbalová akademie MB	Hájek Vladimír	Pužman Jndřich	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Eliáš Jan			1	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B07	5	6.12.2014	13:00:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Hnídek Miroslav			2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B08	5	6.12.2014	13:40:00	FbC Panthers	Tůma Jan	Tůma Jan	Florbalová akademie MB	Hájek Vladimír	Pužman Jndřich	Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Hnídek Miroslav			4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05B09	5	6.12.2014	14:20:00	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	BLACK ANGELS 2004	Kocourek Jiří		Florbalová akademie MB	SH Gym. Dr. Pekaře Ml. Boleslav	Eliáš Jan			3	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C01	5	6.12.2014	12:30:00	Tatran Střešovice Black	Cepková Michaela	Cepková Michaela	FbŠ Bohemians	Falta Jiří	Krátký Daniel	DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Paleček Jan	Hejtík Filip		4	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C02	5	6.12.2014	13:10:00	FBC Start98 Kunratice B	Pálenský Nikola		DDM Horní Počernice ORKA B		Lenner Roman	DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Krupička Jan	Hejtík Filip		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C03	5	6.12.2014	13:50:00	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	Tatran Střešovice Black	Cepková Michaela	Cepková Michaela	DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Paleček Jan	Krupička Jan		8	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C04	5	6.12.2014	14:30:00	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	FBC Start98 Kunratice B	Pálenský Nikola		DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Paleček Jan	Hejtík Filip		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C05	5	6.12.2014	15:10:00	FbŠ Bohemians	Falta Jiří	Krátký Daniel	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Krupička Jan	Hejtík Filip		3	8	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C06	5	6.12.2014	15:50:00	DDM Horní Počernice ORKA B		Lenner Roman	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Paleček Jan	Krupička Jan		1	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C07	5	6.12.2014	16:30:00	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	DDM Horní Počernice ORKA B		Lenner Roman	DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Paleček Jan	Hejtík Filip		1	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C08	5	6.12.2014	17:10:00	Tatran Střešovice Black	Cepková Michaela	Cepková Michaela	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Krupička Jan	Hejtík Filip		2	11	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05C09	5	6.12.2014	17:50:00	FbŠ Bohemians	Falta Jiří	Krátký Daniel	FBC Start98 Kunratice B	Pálenský Nikola		DDM Horní Počernice ORKA B	SH BIOS Čelákovice	Paleček Jan	Krupička Jan		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D01	5	7.12.2014	9:00:00	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	Sokol Rudná	Blažek Martin	Blažek Martin	Athletics Praha Černý Most	ZŠ Zeleneč	Novotný Jakub	Fišer Daniel		6	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D02	5	7.12.2014	9:40:00	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Athletics Praha Černý Most	ZŠ Zeleneč	Casado Carolina	Fišer Daniel		3	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D03	5	7.12.2014	10:20:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	Athletics Praha Černý Most	ZŠ Zeleneč	Novotný Jakub	Casado Carolina		2	12	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D04	5	7.12.2014	11:00:00	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	Athletics Praha Černý Most	ZŠ Zeleneč	Novotný Jakub	Fišer Daniel		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D05	5	7.12.2014	11:40:00	Sokol Rudná	Blažek Martin	Blažek Martin	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	Athletics Praha Černý Most	ZŠ Zeleneč	Casado Carolina	Fišer Daniel		0	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D06	5	7.12.2014	12:20:00	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Athletics Praha Černý Most	ZŠ Zeleneč	Novotný Jakub	Casado Carolina		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D07	5	7.12.2014	13:00:00	FBK CONEP Vosy Praha	Houda Martin	Brejcha Jakub	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Athletics Praha Černý Most	ZŠ Zeleneč	Novotný Jakub	Fišer Daniel		3	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D08	5	7.12.2014	13:40:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	Athletics Praha Černý Most	ZŠ Zeleneč	Casado Carolina	Fišer Daniel		7	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05D09	5	7.12.2014	14:20:00	Sokol Rudná	Blažek Martin	Blažek Martin	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Athletics Praha Černý Most	ZŠ Zeleneč	Novotný Jakub	Casado Carolina		3	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05E01	5	7.12.2014	9:00:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Vudarčíková Tereza		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05E02	5	7.12.2014	9:40:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Vudarčíková Tereza		0	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05E03	5	7.12.2014	10:40:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Vudarčíková Tereza		3	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05E04	5	7.12.2014	11:20:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Vudarčíková Tereza		4	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05E05	5	7.12.2014	12:20:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Vudarčíková Tereza		12	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A05E06	5	7.12.2014	13:00:00	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Vudarčíková Tereza		12	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A01	6	17.1.2015	9:00:00	Technology Florbal MB	Tůma Aleš	Tůma Aleš	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	FBC Kladno bílí	SH BIOS Kladno	Rosický Ondřej	Keszi Jessica		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A02	6	17.1.2015	9:40:00	FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	FBC Kladno bílí	Kalla Václav		FBC Kladno bílí	SH BIOS Kladno	Rosický Ondřej	Machů Jakub		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A03	6	17.1.2015	10:20:00	AC Sparta Praha RED	Kodalík Michal	Eisenkolb Michal	Technology Florbal MB	Tůma Aleš	Tůma Aleš	FBC Kladno bílí	SH BIOS Kladno	Machů Jakub	Keszi Jessica		3	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A04	6	17.1.2015	11:00:00	Tatran Střešovice Red	Janda Petr	Janda Petr	FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	FBC Kladno bílí	SH BIOS Kladno	Rosický Ondřej	Keszi Jessica		6	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A05	6	17.1.2015	11:40:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	AC Sparta Praha RED	Kodalík Michal	Eisenkolb Michal	FBC Kladno bílí	SH BIOS Kladno	Rosický Ondřej	Machů Jakub		3	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A06	6	17.1.2015	12:20:00	FBC Kladno bílí	Kalla Václav		Tatran Střešovice Red	Janda Petr	Janda Petr	FBC Kladno bílí	SH BIOS Kladno	Machů Jakub	Keszi Jessica		0	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A07	6	17.1.2015	13:00:00	Technology Florbal MB	Tůma Aleš	Tůma Aleš	Tatran Střešovice Red	Janda Petr	Janda Petr	FBC Kladno bílí	SH BIOS Kladno	Rosický Ondřej	Keszi Jessica		6	5	p
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A08	6	17.1.2015	13:40:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	FBC Kladno bílí	SH BIOS Kladno	Rosický Ondřej	Machů Jakub		1	11	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06A09	6	17.1.2015	14:20:00	AC Sparta Praha RED	Kodalík Michal	Eisenkolb Michal	FBC Kladno bílí	Kalla Václav		FBC Kladno bílí	SH BIOS Kladno	Machů Jakub	Keszi Jessica		1	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B01	6	17.1.2015	9:00:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	Florbalová akademie MB		Pužman Jndřich	Sokol Rudná	SH Králův Dvůr	Michálek Marek	Sunkovský Kryštof		6	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B02	6	17.1.2015	9:40:00	FbC Panthers	Tůma Jan	Tůma Jan	Sokol Rudná	Blažek Martin	Blažek Martin	Sokol Rudná	SH Králův Dvůr	Krob Daniel	Sunkovský Kryštof		12	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B03	6	17.1.2015	10:20:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	Sokol Rudná	SH Králův Dvůr	Michálek Marek	Krob Daniel		6	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B04	6	17.1.2015	11:00:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	FbC Panthers	Tůma Jan	Tůma Jan	Sokol Rudná	SH Králův Dvůr	Michálek Marek	Sunkovský Kryštof		4	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B05	6	17.1.2015	11:40:00	Florbalová akademie MB		Pužman Jndřich	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	Sokol Rudná	SH Králův Dvůr	Krob Daniel	Sunkovský Kryštof		5	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B06	6	17.1.2015	12:20:00	Sokol Rudná	Blažek Martin	Blažek Martin	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	Sokol Rudná	SH Králův Dvůr	Michálek Marek	Krob Daniel		4	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B07	6	17.1.2015	13:00:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	FbC Panthers	Tůma Jan	Tůma Jan	Sokol Rudná	SH Králův Dvůr	Michálek Marek	Sunkovský Kryštof		8	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B08	6	17.1.2015	13:40:00	Florbalová akademie MB		Pužman Jndřich	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	Sokol Rudná	SH Králův Dvůr	Krob Daniel	Sunkovský Kryštof		7	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06B09	6	17.1.2015	14:20:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	Sokol Rudná	Blažek Martin	Blažek Martin	Sokol Rudná	SH Králův Dvůr	Michálek Marek	Krob Daniel		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C01	6	17.1.2015	9:00:00	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	BLACK ANGELS 2005	Sportcentrum Letňany	Zavadil Václav	Bednář Vít		10	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C02	6	17.1.2015	9:40:00	Tatran Střešovice Black	Janoušek Zdeněk	Janoušek Zdeněk	BLACK ANGELS 2005	Pošta Matěj	Sláma Jan	BLACK ANGELS 2005	Sportcentrum Letňany	Čáp Jakub	Zavadil Václav		1	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C03	6	17.1.2015	10:20:00	AC Sparta Praha BLUE	Thompson Oliver James		Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	BLACK ANGELS 2005	Sportcentrum Letňany	Bednář Vít	Čáp Jakub		2	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C04	6	17.1.2015	11:00:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	Tatran Střešovice Black	Janoušek Zdeněk	Janoušek Zdeněk	BLACK ANGELS 2005	Sportcentrum Letňany	Zavadil Václav	Bednář Vít		6	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C05	6	17.1.2015	11:40:00	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	AC Sparta Praha BLUE	Thompson Oliver James		BLACK ANGELS 2005	Sportcentrum Letňany	Čáp Jakub	Zavadil Václav		2	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C06	6	17.1.2015	12:20:00	BLACK ANGELS 2005	Pošta Matěj	Sláma Jan	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	BLACK ANGELS 2005	Sportcentrum Letňany	Čáp Jakub	Bednář Vít		1	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C07	6	17.1.2015	13:00:00	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	BLACK ANGELS 2005	Sportcentrum Letňany	Bednář Vít	Zavadil Václav		4	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C08	6	17.1.2015	13:40:00	AC Sparta Praha BLUE	Thompson Oliver James		BLACK ANGELS 2005	Pošta Matěj	Sláma Jan	BLACK ANGELS 2005	Sportcentrum Letňany	Čáp Jakub	Zavadil Václav		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06C09	6	17.1.2015	14:20:00	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Tatran Střešovice Black	Janoušek Zdeněk	Janoušek Zdeněk	BLACK ANGELS 2005	Sportcentrum Letňany	Čáp Jakub	Bednář Vít		2	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D01	6	18.1.2015	9:00:00	FBK CONEP Vosy Praha	Polidarová Marie	Brejcha Jakub	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	AC Sparta Praha YELLOW	X3M Arena Barrandov	Novotný Jakub	Fišer Daniel		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D02	6	18.1.2015	9:40:00	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	AC Sparta Praha YELLOW	X3M Arena Barrandov	Čáp Jakub	Fišer Daniel		5	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D03	6	18.1.2015	10:20:00	FbŠ Bohemians	Dubský Pavel	Krátký Daniel	FBK CONEP Vosy Praha	Polidarová Marie	Brejcha Jakub	AC Sparta Praha YELLOW	X3M Arena Barrandov	Novotný Jakub	Čáp Jakub		2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D04	6	18.1.2015	11:00:00	FBC Start98 Kunratice B	Pálenský Nikola		T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	AC Sparta Praha YELLOW	X3M Arena Barrandov	Novotný Jakub	Fišer Daniel		9	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D05	6	18.1.2015	11:40:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	FbŠ Bohemians	Dubský Pavel	Krátký Daniel	AC Sparta Praha YELLOW	X3M Arena Barrandov	Čáp Jakub	Fišer Daniel		0	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D06	6	18.1.2015	12:20:00	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	FBC Start98 Kunratice B	Pálenský Nikola		AC Sparta Praha YELLOW	X3M Arena Barrandov	Novotný Jakub	Čáp Jakub		2	12	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D07	6	18.1.2015	13:00:00	FBK CONEP Vosy Praha	Polidarová Marie	Brejcha Jakub	FBC Start98 Kunratice B	Pálenský Nikola		AC Sparta Praha YELLOW	X3M Arena Barrandov	Novotný Jakub	Fišer Daniel		6	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D08	6	18.1.2015	13:40:00	FbŠ Bohemians	Dubský Pavel	Krátký Daniel	T.B.C. Králův Dvůr	Křeček Martin	Křeček Martin	AC Sparta Praha YELLOW	X3M Arena Barrandov	Čáp Jakub	Fišer Daniel		2	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06D09	6	18.1.2015	14:20:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	AC Sparta Praha YELLOW	X3M Arena Barrandov	Novotný Jakub	Čáp Jakub		5	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06E01	6	18.1.2015	9:00:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Přibil Daniel		1	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06E02	6	18.1.2015	9:40:00	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Přibil Daniel		6	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06E03	6	18.1.2015	10:40:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Přibil Daniel		3	8	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06E04	6	18.1.2015	11:20:00	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Přibil Daniel		3	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06E05	6	18.1.2015	12:20:00	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Přibil Daniel		8	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A06E06	6	18.1.2015	13:00:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FBC Kutná Hora	Blahník Martin	Šesták Milan	FBC Kutná Hora	SH BIOS Kutná Hora	Blažejová Kristýna	Přibil Daniel		4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A01	7	21.3.2015	9:00:00	FBC Start98 Kunratice	Pálenský Nikola		FbC Panthers	Tůma Jan	Tůma Jan	TJ Sokol Královské Vinohrady	ZŠ Vachkova	Hrubý Dominik	Recht Lukáš		5	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A02	7	21.3.2015	9:40:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	TJ Sokol Královské Vinohrady	ZŠ Vachkova	Přibyl Jan	Recht Lukáš		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A03	7	21.3.2015	10:20:00	Technology Florbal MB	Šebek David	Křenek Radim	FBC Start98 Kunratice	Pálenský Nikola		TJ Sokol Královské Vinohrady	ZŠ Vachkova	Hrubý Dominik	Přibyl Jan		5	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A04	7	21.3.2015	11:00:00	Tatran Střešovice Red	Janda Petr	Janoušek Zdeněk	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	TJ Sokol Královské Vinohrady	ZŠ Vachkova	Hrubý Dominik	Recht Lukáš		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A05	7	21.3.2015	11:40:00	FbC Panthers	Tůma Jan	Tůma Jan	Technology Florbal MB	Šebek David	Křenek Radim	TJ Sokol Královské Vinohrady	ZŠ Vachkova	Přibyl Jan	Recht Lukáš		0	10	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A06	7	21.3.2015	12:20:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	Tatran Střešovice Red	Janda Petr	Janoušek Zdeněk	TJ Sokol Královské Vinohrady	ZŠ Vachkova	Hrubý Dominik	Přibyl Jan		5	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A07	7	21.3.2015	13:00:00	Technology Florbal MB	Šebek David	Křenek Radim	TJ Sokol Královské Vinohrady	Šťastná Lucie	Němeček Josef	TJ Sokol Královské Vinohrady	ZŠ Vachkova	Přibyl Jan	Recht Lukáš		6	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A08	7	21.3.2015	13:40:00	FBC Start98 Kunratice	Pálenský Nikola		Tatran Střešovice Red	Janda Petr	Janoušek Zdeněk	TJ Sokol Královské Vinohrady	ZŠ Vachkova	Přibyl Jan	Hrubý Dominik		6	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07A09	7	21.3.2015	14:20:00	FbC Panthers	Tůma Jan	Tůma Jan	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	TJ Sokol Královské Vinohrady	ZŠ Vachkova	Hrubý Dominik	Recht Lukáš		2	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B01	7	21.3.2015	9:00:00	Florbalová akademie MB		Pužman Jndřich	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	AC Sparta Praha RED	X3M Arena Barrandov	Jílek Karel	Casado Carolina		3	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B02	7	21.3.2015	9:40:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	AC Sparta Praha RED	Kodalík Michal	Eisenkolb Michal	AC Sparta Praha RED	X3M Arena Barrandov	Trejbal Patrik	Jílek Karel		2	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B03	7	21.3.2015	10:20:00	FBC Kladno bílí	Kalla Václav		Florbalová akademie MB		Pužman Jndřich	AC Sparta Praha RED	X3M Arena Barrandov	Casado Carolina	Trejbal Patrik		5	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B04	7	21.3.2015	11:00:00	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	AC Sparta Praha RED	X3M Arena Barrandov	Casado Carolina	Jílek Karel		6	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B05	7	21.3.2015	11:40:00	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	FBC Kladno bílí	Kalla Václav		AC Sparta Praha RED	X3M Arena Barrandov	Trejbal Patrik	Jílek Karel		2	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B06	7	21.3.2015	12:20:00	AC Sparta Praha RED	Kodalík Michal	Eisenkolb Michal	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	AC Sparta Praha RED	X3M Arena Barrandov	Casado Carolina	Trejbal Patrik		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B07	7	21.3.2015	13:00:00	FBC Kladno bílí	Kalla Václav		AC Sparta Praha RED	Kodalík Michal	Eisenkolb Michal	AC Sparta Praha RED	X3M Arena Barrandov	Trejbal Patrik	Jílek Karel		2	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B08	7	21.3.2015	13:40:00	Viking group TJ Sokol Kobylisy	Vondrák Petr	Vondrák Petr	FBK Fat Pipe Vosy Praha	Houda Martin	Brejcha Jakub	AC Sparta Praha RED	X3M Arena Barrandov	Trejbal Patrik	Casado Carolina		6	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07B09	7	21.3.2015	14:20:00	Florbalová akademie MB		Pužman Jndřich	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	AC Sparta Praha RED	X3M Arena Barrandov	Casado Carolina	Jílek Karel		4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C01	7	21.3.2015	9:00:00	FBK CONEP Vosy Praha	Polidarová Marie	Fořtová Karolína	FBC Start98 Kunratice B	Flek Václav	Flek Václav	BLACK ANGELS 2005	Sportcentrum Letňany	Paleček Jan	Hejtík Filip		0	12	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C02	7	21.3.2015	9:40:00	FbŠ Bohemians	Krátký Daniel	Falta Jiří	BLACK ANGELS 2005	Raušová Martina	Pošta Matěj	BLACK ANGELS 2005	Sportcentrum Letňany	Jindra Martin	Hejtík Filip		1	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C03	7	21.3.2015	10:20:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	FBK CONEP Vosy Praha	Polidarová Marie	Fořtová Karolína	BLACK ANGELS 2005	Sportcentrum Letňany	Paleček Jan	Jindra Martin		12	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C04	7	21.3.2015	11:00:00	AC Sparta Praha BLUE	Thompson Oliver James		FbŠ Bohemians	Krátký Daniel	Falta Jiří	BLACK ANGELS 2005	Sportcentrum Letňany	Paleček Jan	Hejtík Filip		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C05	7	21.3.2015	11:40:00	FBC Start98 Kunratice B	Flek Václav	Flek Václav	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	BLACK ANGELS 2005	Sportcentrum Letňany	Jindra Martin	Hejtík Filip		3	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C06	7	21.3.2015	12:20:00	BLACK ANGELS 2005	Raušová Martina	Pošta Matěj	AC Sparta Praha BLUE	Thompson Oliver James		BLACK ANGELS 2005	Sportcentrum Letňany	Paleček Jan	Jindra Martin		5	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C07	7	21.3.2015	13:00:00	FBC Start98 Kunratice B	Flek Václav	Flek Václav	BLACK ANGELS 2005	Raušová Martina	Pošta Matěj	BLACK ANGELS 2005	Sportcentrum Letňany	Jindra Martin	Hejtík Filip		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C08	7	21.3.2015	13:40:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	AC Sparta Praha BLUE	Thompson Oliver James		BLACK ANGELS 2005	Sportcentrum Letňany	Jindra Martin	Paleček Jan		6	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07C09	7	21.3.2015	14:20:00	FBK CONEP Vosy Praha	Polidarová Marie	Fořtová Karolína	FbŠ Bohemians	Krátký Daniel	Falta Jiří	BLACK ANGELS 2005	Sportcentrum Letňany	Paleček Jan	Hejtík Filip		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D01	7	22.3.2015	9:00:00	T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	Tatran Střešovice Black	Unihoc Aréna Praha	Rosický Ondřej	Keszi Jessica		7	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D02	7	22.3.2015	9:40:00	AC Sparta Praha BLACK	Thompson Oliver James		Tatran Střešovice Black	Skála Vojtěch	Janoušek Zdeněk	Tatran Střešovice Black	Unihoc Aréna Praha	Staněk Martin	Keszi Jessica		2	9	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D03	7	22.3.2015	10:20:00	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	Tatran Střešovice Black	Unihoc Aréna Praha	Rosický Ondřej	Staněk Martin		2	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D04	7	22.3.2015	11:00:00	Sokol Rudná	Blažek Martin	Blažek Martin	AC Sparta Praha BLACK	Thompson Oliver James		Tatran Střešovice Black	Unihoc Aréna Praha	Rosický Ondřej	Keszi Jessica		4	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D05	7	22.3.2015	11:40:00	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Tatran Střešovice Black	Unihoc Aréna Praha	Staněk Martin	Keszi Jessica		3	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D06	7	22.3.2015	12:20:00	Tatran Střešovice Black	Skála Vojtěch	Janoušek Zdeněk	Sokol Rudná	Blažek Martin	Blažek Martin	Tatran Střešovice Black	Unihoc Aréna Praha	Rosický Ondřej	Staněk Martin		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D07	7	22.3.2015	13:00:00	T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	Tatran Střešovice Black	Skála Vojtěch	Janoušek Zdeněk	Tatran Střešovice Black	Unihoc Aréna Praha	Staněk Martin	Keszi Jessica		1	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D08	7	22.3.2015	13:40:00	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Sokol Rudná	Blažek Martin	Blažek Martin	Tatran Střešovice Black	Unihoc Aréna Praha	Staněk Martin	Rosický Ondřej		7	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07D09	7	22.3.2015	14:20:00	Athletics Praha Prosek	Jambor Vladimír	Jambor Vladimír	AC Sparta Praha BLACK	Thompson Oliver James		Tatran Střešovice Black	Unihoc Aréna Praha	Rosický Ondřej	Keszi Jessica		11	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07E01	7	22.3.2015	9:00:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Neužil Ondřej	Procházka Tomáš		0	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07E02	7	22.3.2015	9:40:00	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	FBC Kutná Hora	Netolický Pavel	Šesták Milan	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Neužil Ondřej	Procházka Tomáš		1	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07E03	7	22.3.2015	10:35:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	FBC Kutná Hora	Netolický Pavel	Šesták Milan	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Neužil Ondřej	Procházka Tomáš		1	8	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07E04	7	22.3.2015	11:15:00	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Neužil Ondřej	Procházka Tomáš		5	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07E05	7	22.3.2015	12:10:00	AC Sparta Praha YELLOW	Eisenkolb Michal	Eisenkolb Michal	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Neužil Ondřej	Procházka Tomáš		6	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A07E06	7	22.3.2015	12:50:00	FBC Kutná Hora	Netolický Pavel	Šesták Milan	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Viking TJ Sokol Kobylisy B	TJ Sokol Kobylisy	Neužil Ondřej	Procházka Tomáš		2	9	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A01	8	11.4.2015	9:00:00	Tatran Střešovice Red	Cepková Michaela	Cepková Michaela	FBC Kladno bílí	Kalla Václav		BLACK ANGELS 2004	Sportcentrum Letňany	Zavadil Václav	Staněk Martin		0	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A02	8	11.4.2015	9:40:00	FbC Panthers	Tůma Jan	Tůma Jan	BLACK ANGELS 2004	Kocourek Jiří		BLACK ANGELS 2004	Sportcentrum Letňany	Casado Carolina	Staněk Martin		2	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A03	8	11.4.2015	10:20:00	Technology Florbal MB	Šebek David	Křenek Radim	Tatran Střešovice Red	Cepková Michaela	Cepková Michaela	BLACK ANGELS 2004	Sportcentrum Letňany	Zavadil Václav	Casado Carolina		8	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A04	8	11.4.2015	11:00:00	FBC Start98 Kunratice		Malhocký Jakub Josef	FbC Panthers	Tůma Jan	Tůma Jan	BLACK ANGELS 2004	Sportcentrum Letňany	Zavadil Václav	Staněk Martin		4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A05	8	11.4.2015	11:40:00	FBC Kladno bílí	Kalla Václav		Technology Florbal MB	Šebek David	Křenek Radim	BLACK ANGELS 2004	Sportcentrum Letňany	Casado Carolina	Staněk Martin		6	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A06	8	11.4.2015	12:20:00	BLACK ANGELS 2004	Kocourek Jiří		FBC Start98 Kunratice		Malhocký Jakub Josef	BLACK ANGELS 2004	Sportcentrum Letňany	Zavadil Václav	Casado Carolina		7	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A07	8	11.4.2015	13:00:00	FBC Kladno bílí	Kalla Václav		BLACK ANGELS 2004	Kocourek Jiří		BLACK ANGELS 2004	Sportcentrum Letňany	Zavadil Václav	Staněk Martin		5	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A08	8	11.4.2015	13:40:00	Technology Florbal MB	Šebek David	Křenek Radim	FBC Start98 Kunratice		Malhocký Jakub Josef	BLACK ANGELS 2004	Sportcentrum Letňany	Casado Carolina	Staněk Martin		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08A09	8	11.4.2015	14:20:00	Tatran Střešovice Red	Cepková Michaela	Cepková Michaela	FbC Panthers	Tůma Jan	Tůma Jan	BLACK ANGELS 2004	Sportcentrum Letňany	Zavadil Václav	Casado Carolina		3	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B01	8	11.4.2015	9:00:00	AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	FBC Start98 Kunratice B	Pálenský Nikola		Florbalová akademie MB	SH Čakovice	Braniš Matěj	Špalek Ondřej		10	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B02	8	11.4.2015	9:40:00	FBK Fat Pipe Vosy Praha	Horáček Václav	Horáček Václav	Florbalová akademie MB		Pužman Jndřich	Florbalová akademie MB	SH Čakovice	Kubík Michal	Špalek Ondřej		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B03	8	11.4.2015	10:20:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	Florbalová akademie MB	SH Čakovice	Braniš Matěj	Kubík Michal		0	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B04	8	11.4.2015	11:00:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	FBK Fat Pipe Vosy Praha	Horáček Václav	Horáček Václav	Florbalová akademie MB	SH Čakovice	Braniš Matěj	Špalek Ondřej		2	10	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B05	8	11.4.2015	11:40:00	FBC Start98 Kunratice B	Pálenský Nikola		TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	Florbalová akademie MB	SH Čakovice	Kubík Michal	Špalek Ondřej		4	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B06	8	11.4.2015	12:20:00	Florbalová akademie MB		Pužman Jndřich	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	Florbalová akademie MB	SH Čakovice	Braniš Matěj	Kubík Michal		5	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B07	8	11.4.2015	13:00:00	AC Sparta Praha RED	Eisenkolb Michal	Eisenkolb Michal	FBK Fat Pipe Vosy Praha	Horáček Václav	Horáček Václav	Florbalová akademie MB	SH Čakovice	Braniš Matěj	Špalek Ondřej		3	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B08	8	11.4.2015	13:40:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	Florbalová akademie MB	SH Čakovice	Kubík Michal	Špalek Ondřej		5	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08B09	8	11.4.2015	14:20:00	FBC Start98 Kunratice B	Pálenský Nikola		Florbalová akademie MB		Pužman Jndřich	Florbalová akademie MB	SH Čakovice	Braniš Matěj	Kubík Michal		3	11	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C01	8	11.4.2015	9:00:00	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	FBK CONEP Vosy Praha	SH Eagles Praha	Fišer Daniel	Novotný Jakub		4	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C02	8	11.4.2015	9:40:00	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	FBK CONEP Vosy Praha	Fořtová Karolína	Fořtová Karolína	FBK CONEP Vosy Praha	SH Eagles Praha	Jindra Martin	Novotný Jakub		20	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C03	8	11.4.2015	10:20:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	FBK CONEP Vosy Praha	SH Eagles Praha	Fišer Daniel	Jindra Martin		7	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C04	8	11.4.2015	11:00:00	Tatran Střešovice Black	Janoušek Zdeněk	Janoušek Zdeněk	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	FBK CONEP Vosy Praha	SH Eagles Praha	Fišer Daniel	Novotný Jakub		0	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C05	8	11.4.2015	11:40:00	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	FBK CONEP Vosy Praha	SH Eagles Praha	Jindra Martin	Novotný Jakub		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C06	8	11.4.2015	12:20:00	FBK CONEP Vosy Praha	Fořtová Karolína	Fořtová Karolína	Tatran Střešovice Black	Janoušek Zdeněk	Janoušek Zdeněk	FBK CONEP Vosy Praha	SH Eagles Praha	Fišer Daniel	Jindra Martin		0	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C07	8	11.4.2015	13:00:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	FBK CONEP Vosy Praha	SH Eagles Praha	Fišer Daniel	Novotný Jakub		2	13	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C08	8	11.4.2015	13:40:00	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	Tatran Střešovice Black	Janoušek Zdeněk	Janoušek Zdeněk	FBK CONEP Vosy Praha	SH Eagles Praha	Jindra Martin	Novotný Jakub		9	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08C09	8	11.4.2015	14:20:00	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	FBK CONEP Vosy Praha	Fořtová Karolína	Fořtová Karolína	FBK CONEP Vosy Praha	SH Eagles Praha	Fišer Daniel	Jindra Martin		13	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D01	8	12.4.2015	9:00:00	Sokol Rudná	Blažek Martin	Blažek Martin	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	T.B.C. Králův Dvůr	SH Králův Dvůr	Nejedlo Daniel	Michálek Marek		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D02	8	12.4.2015	9:40:00	Athletics Praha Prosek	Červená Nikola	Jambor Vladimír	T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	T.B.C. Králův Dvůr	SH Králův Dvůr	Staněk Martin	Michálek Marek		3	8	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D03	8	12.4.2015	10:20:00	FbŠ Bohemians	Krátký Daniel	Krátký Daniel	Sokol Rudná	Blažek Martin	Blažek Martin	T.B.C. Králův Dvůr	SH Králův Dvůr	Nejedlo Daniel	Staněk Martin		3	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D04	8	12.4.2015	11:00:00	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	Athletics Praha Prosek	Červená Nikola	Jambor Vladimír	T.B.C. Králův Dvůr	SH Králův Dvůr	Nejedlo Daniel	Michálek Marek		8	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D05	8	12.4.2015	11:40:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FbŠ Bohemians	Krátký Daniel	Krátký Daniel	T.B.C. Králův Dvůr	SH Králův Dvůr	Staněk Martin	Michálek Marek		3	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D06	8	12.4.2015	12:20:00	T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	T.B.C. Králův Dvůr	SH Králův Dvůr	Nejedlo Daniel	Staněk Martin		1	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D07	8	12.4.2015	13:00:00	FbŠ Bohemians	Krátký Daniel	Krátký Daniel	Athletics Praha Černý Most	Čížek Adam	Janeba Roman	T.B.C. Králův Dvůr	SH Králův Dvůr	Staněk Martin	Michálek Marek		10	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D08	8	12.4.2015	13:40:00	Sokol Rudná	Blažek Martin	Blažek Martin	T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	T.B.C. Králův Dvůr	SH Králův Dvůr	Staněk Martin	Nejedlo Daniel		2	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08D09	8	12.4.2015	14:20:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Athletics Praha Prosek	Červená Nikola	Jambor Vladimír	T.B.C. Králův Dvůr	SH Králův Dvůr	Nejedlo Daniel	Michálek Marek		4	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08E01	8	12.4.2015	9:00:00	AC Sparta Praha YELLOW	Svatoš Ondřej		TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Špalek Ondřej	Braniš Matěj		4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08E02	8	12.4.2015	9:40:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	FBC Kutná Hora	Blahník Martin	Šesták Milan	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Kubík Michal	Braniš Matěj		5	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08E03	8	12.4.2015	10:40:00	AC Sparta Praha YELLOW	Svatoš Ondřej		FBC Kutná Hora	Blahník Martin	Šesták Milan	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Špalek Ondřej	Kubík Michal		6	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08E04	8	12.4.2015	11:20:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Špalek Ondřej	Braniš Matěj		11	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08E05	8	12.4.2015	12:20:00	AC Sparta Praha BLACK	Kárník Miloš	Kárník Miloš	AC Sparta Praha YELLOW	Svatoš Ondřej		TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Kubík Michal	Braniš Matěj		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A08E06	8	12.4.2015	13:00:00	FBC Kutná Hora	Blahník Martin	Šesták Milan	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	TEMPISH Orka Čelákovice C	SH U Učiliště Čelákovice	Špalek Ondřej	Kubík Michal		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A01	9	2.5.2015	9:00:00	FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	AC Sparta Praha RED	Marvánek Jan	Eisenkolb Michal	FBK Fat Pipe Vosy Praha	SH Eagles Praha	Strnad Jan	Zavadil Václav		0	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A02	9	2.5.2015	9:40:00	FbC Panthers	Tůma Jan	Tůma Jan	FBK Fat Pipe Vosy Praha	Brejcha Jakub	Brejcha Jakub	FBK Fat Pipe Vosy Praha	SH Eagles Praha	Recht Lukáš	Zavadil Václav		5	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A03	9	2.5.2015	10:20:00	FBC Kladno bílí			FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	FBK Fat Pipe Vosy Praha	SH Eagles Praha	Strnad Jan	Recht Lukáš		6	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A04	9	2.5.2015	11:00:00	Technology Florbal MB	Tůma Aleš	Tůma Aleš	FbC Panthers	Tůma Jan	Tůma Jan	FBK Fat Pipe Vosy Praha	SH Eagles Praha	Strnad Jan	Zavadil Václav		1	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A05	9	2.5.2015	11:40:00	AC Sparta Praha RED	Marvánek Jan	Eisenkolb Michal	FBC Kladno bílí			FBK Fat Pipe Vosy Praha	SH Eagles Praha	Recht Lukáš	Zavadil Václav		1	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A06	9	2.5.2015	12:20:00	FBK Fat Pipe Vosy Praha	Brejcha Jakub	Brejcha Jakub	Technology Florbal MB	Tůma Aleš	Tůma Aleš	FBK Fat Pipe Vosy Praha	SH Eagles Praha	Strnad Jan	Recht Lukáš		6	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A07	9	2.5.2015	13:00:00	FBC Kladno bílí			FbC Panthers	Tůma Jan	Tůma Jan	FBK Fat Pipe Vosy Praha	SH Eagles Praha	Strnad Jan	Zavadil Václav		8	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A08	9	2.5.2015	13:40:00	AC Sparta Praha RED	Marvánek Jan	Eisenkolb Michal	FBK Fat Pipe Vosy Praha	Brejcha Jakub	Brejcha Jakub	FBK Fat Pipe Vosy Praha	SH Eagles Praha	Recht Lukáš	Zavadil Václav		3	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09A09	9	2.5.2015	14:20:00	FBC Start98 Kunratice	Malhocký Jakub Josef	Malhocký Jakub Josef	Technology Florbal MB	Tůma Aleš	Tůma Aleš	FBK Fat Pipe Vosy Praha	SH Eagles Praha	Strnad Jan	Recht Lukáš		4	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B01	9	2.5.2015	9:00:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	AC Sparta Praha BLUE	Aréna Sparta	Müllern Daniel	Trejbal Patrik		0	13	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B02	9	2.5.2015	9:40:00	Florbalová akademie MB		Pužman Jndřich	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	AC Sparta Praha BLUE	Aréna Sparta	Trejbal Patrik	Müllern Daniel		0	7	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B03	9	2.5.2015	10:20:00	Tatran Střešovice Red	Skála Vojtěch	Skála Vojtěch	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	AC Sparta Praha BLUE	Aréna Sparta	Müllern Daniel	Trejbal Patrik		10	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B04	9	2.5.2015	11:00:00	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	Florbalová akademie MB		Pužman Jndřich	AC Sparta Praha BLUE	Aréna Sparta	Müllern Daniel	Trejbal Patrik		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B05	9	2.5.2015	11:40:00	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	Tatran Střešovice Red	Skála Vojtěch	Skála Vojtěch	AC Sparta Praha BLUE	Aréna Sparta	Trejbal Patrik	Müllern Daniel		3	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B06	9	2.5.2015	12:20:00	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	AC Sparta Praha BLUE	Aréna Sparta	Müllern Daniel	Trejbal Patrik		2	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B07	9	2.5.2015	13:00:00	BLACK ANGELS 2005	Pošta Matěj	Raušová Martina	TEMPISH Orka Čelákovice	Mikšovský Martin	Rubeš Stanislav	AC Sparta Praha BLUE	Aréna Sparta	Müllern Daniel	Trejbal Patrik		4	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B08	9	2.5.2015	13:40:00	Tatran Střešovice Red	Skála Vojtěch	Skála Vojtěch	AC Sparta Praha BLUE	Thompson Oliver James	Kárník Miloš	AC Sparta Praha BLUE	Aréna Sparta	Trejbal Patrik	Müllern Daniel		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09B09	9	2.5.2015	14:20:00	TJ Sokol Královské Vinohrady	Šťastná Lucie	Šťastná Lucie	Florbalová akademie MB		Pužman Jndřich	AC Sparta Praha BLUE	Aréna Sparta	Müllern Daniel	Trejbal Patrik		7	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C01	9	1.5.2015	9:00:00	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	FbŠ Bohemians	Dubský Pavel	Falta Jiří	FBC Start98 Kunratice B	TJ JM Chodov	Recht Lukáš	Líska Jakub		2	6	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C02	9	1.5.2015	9:40:00	Tatran Střešovice Black	Skála Vojtěch	Janoušek Zdeněk	FBC Start98 Kunratice B	Pálenský Nikola		FBC Start98 Kunratice B	TJ JM Chodov	Recht Lukáš	Strnad Jan		3	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C03	9	1.5.2015	10:20:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	FBC Start98 Kunratice B	TJ JM Chodov	Strnad Jan	Líska Jakub		6	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C04	9	1.5.2015	11:00:00	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	Tatran Střešovice Black	Skála Vojtěch	Janoušek Zdeněk	FBC Start98 Kunratice B	TJ JM Chodov	Recht Lukáš	Líska Jakub		2	8	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C05	9	1.5.2015	11:40:00	FbŠ Bohemians	Dubský Pavel	Falta Jiří	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	FBC Start98 Kunratice B	TJ JM Chodov	Recht Lukáš	Strnad Jan		1	10	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C06	9	1.5.2015	12:20:00	FBC Start98 Kunratice B	Pálenský Nikola		DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	FBC Start98 Kunratice B	TJ JM Chodov	Strnad Jan	Líska Jakub		7	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C07	9	1.5.2015	13:00:00	BLACK ANGELS 2004	Kocourek Jiří	Hejda Tomáš	FBC Start98 Kunratice B	Pálenský Nikola		FBC Start98 Kunratice B	TJ JM Chodov	Recht Lukáš	Strnad Jan		4	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C08	9	1.5.2015	13:40:00	FbŠ Bohemians	Dubský Pavel	Falta Jiří	Tatran Střešovice Black	Skála Vojtěch	Janoušek Zdeněk	FBC Start98 Kunratice B	TJ JM Chodov	Recht Lukáš	Líska Jakub		5	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09C09	9	1.5.2015	14:20:00	Viking group TJ Sokol Kobylisy	Neužil Martin	Vondrák Petr	DDM Horní Počernice ORKA B	Kočí Jaroslav	Kočí Jaroslav	FBC Start98 Kunratice B	TJ JM Chodov	Strnad Jan	Líska Jakub		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D01	9	3.5.2015	9:00:00	T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	AC Sparta Praha YELLOW	Aréna Sparta	Strnad Jan	Zavadil Václav		7	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D02	9	3.5.2015	9:40:00	Sokol Rudná	Blažek Martin	Blažek Martin	AC Sparta Praha YELLOW	Eisenkolb Michal	Marvánek Jan	AC Sparta Praha YELLOW	Aréna Sparta	Hlaváček Ondřej	Zavadil Václav		6	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D03	9	3.5.2015	10:20:00	FBK CONEP Vosy Praha			T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	AC Sparta Praha YELLOW	Aréna Sparta	Strnad Jan	Hlaváček Ondřej		8	1	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D04	9	3.5.2015	11:00:00	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	Sokol Rudná	Blažek Martin	Blažek Martin	AC Sparta Praha YELLOW	Aréna Sparta	Strnad Jan	Zavadil Václav		1	0	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D05	9	3.5.2015	11:40:00	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	FBK CONEP Vosy Praha			AC Sparta Praha YELLOW	Aréna Sparta	Hlaváček Ondřej	Zavadil Václav		1	5	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D06	9	3.5.2015	12:20:00	AC Sparta Praha YELLOW	Eisenkolb Michal	Marvánek Jan	Athletics Praha Černý Most	Janeba Roman	Janeba Roman	AC Sparta Praha YELLOW	Aréna Sparta	Strnad Jan	Hlaváček Ondřej		4	4	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D07	9	3.5.2015	13:00:00	FBK CONEP Vosy Praha			Athletics Praha Černý Most	Janeba Roman	Janeba Roman	AC Sparta Praha YELLOW	Aréna Sparta	Hlaváček Ondřej	Zavadil Václav		7	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D08	9	3.5.2015	13:40:00	T.B.C. Králův Dvůr	Tót Dušan	Křeček Martin	Sokol Rudná	Blažek Martin	Blažek Martin	AC Sparta Praha YELLOW	Aréna Sparta	Strnad Jan	Zavadil Václav		6	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09D09	9	3.5.2015	14:20:00	AC Sparta Praha BLACK	Thompson Oliver James	Kárník Miloš	AC Sparta Praha YELLOW	Eisenkolb Michal	Marvánek Jan	AC Sparta Praha YELLOW	Aréna Sparta	Strnad Jan	Hlaváček Ondřej		7	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09E01	9	3.5.2015	9:00:00	FBC Kutná Hora	Blahník Martin	Šesták Milan	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Athletics Praha Prosek	Sportcentrum Letňany	Müllern Daniel	Hejtík Filip		2	9	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09E02	9	3.5.2015	9:40:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Athletics Praha Prosek	Sportcentrum Letňany	Müllern Daniel	Hejtík Filip		3	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09E03	9	3.5.2015	10:40:00	FBC Kutná Hora	Blahník Martin	Šesták Milan	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Athletics Praha Prosek	Sportcentrum Letňany	Müllern Daniel	Hejtík Filip		6	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09E04	9	3.5.2015	11:20:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Athletics Praha Prosek	Sportcentrum Letňany	Müllern Daniel	Hejtík Filip		4	2	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09E05	9	3.5.2015	12:20:00	Viking TJ Sokol Kobylisy B	Zahradník Tomáš	Zahradník Tomáš	FBC Kutná Hora	Blahník Martin	Šesták Milan	Athletics Praha Prosek	Sportcentrum Letňany	Müllern Daniel	Hejtík Filip		4	3	
+PHaSC	Soutěž elévů - skupina 3	3XE12014/2015-A09E06	9	3.5.2015	13:00:00	TEMPISH Orka Čelákovice C	Vopálka Petr	Dragounová Zuzana	Athletics Praha Prosek	Gronwaldt Dan	Gronwaldt Dan	Athletics Praha Prosek	Sportcentrum Letňany	Müllern Daniel	Hejtík Filip		1	8	

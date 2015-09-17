@@ -1,6 +1,5 @@
 ﻿namespace CfbuSystemAnalyze
 {
-	using System;
 	using System.Collections.Generic;
 	using System.IO;
 	using System.Linq;
@@ -22,29 +21,25 @@
 
 				string line;
 				var teams = new Dictionary<string, Team>();
+				var roundBasketStatistics = new Dictionary<int, Dictionary<int, List<Match>>>();
+				var basketRoundStatistics = new Dictionary<int, Dictionary<int, List<Match>>>();
 
 				while ((line = file.ReadLine()) != null)
 				{
-					var teamInputData = new TeamInputData(line);
+					var teamMatchInputData = new TeamMatchInputData(line);
 
-					if (!teams.ContainsKey(teamInputData.FirstTeam))
-					{
-						teams.Add(teamInputData.FirstTeam, new Team(teamInputData.FirstTeam));
-					}
+					SetTeamsValues(teams, teamMatchInputData);
 
-					if (!teams.ContainsKey(teamInputData.SecondTeam))
-					{
-						teams.Add(teamInputData.SecondTeam, new Team(teamInputData.SecondTeam));
-					}
+					var match = new Match(
+						teamMatchInputData.FirstTeam,
+						teamMatchInputData.SecondTeam,
+						teamMatchInputData.FirstTeamGoals,
+						teamMatchInputData.SecondTeamGoals,
+						teamMatchInputData.GoalsStatus
+					);
 
-					if (!teams.ContainsKey(teamInputData.Organiser))
-					{
-						teams.Add(teamInputData.Organiser, new Team(teamInputData.Organiser));
-					}
-
-					teams[teamInputData.FirstTeam].AddRoundData(teamInputData.Round, teamInputData.Basket, teamInputData.SecondTeam);
-					teams[teamInputData.SecondTeam].AddRoundData(teamInputData.Round, teamInputData.Basket, teamInputData.FirstTeam);
-					teams[teamInputData.Organiser].AddOrganiser(teamInputData.Round, teamInputData.Basket);
+					SetRounBasketStatiscsValue(roundBasketStatistics, teamMatchInputData, match);
+					SetBasketRoundStatisticsValue(basketRoundStatistics, teamMatchInputData, match);
 				}
 
 				// zmeny v kosich
@@ -93,7 +88,113 @@
 					}
 				}
 
+				// vystup po kolech v prumerny rozdil
+				using (var roundBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketAvarageDiff.txt", fileName)))
+				{
+					// kola
+					foreach (var round in roundBasketStatistics)
+					{
+						roundBasketFile.Write("\t{0}", round.Key);
+					}
+					roundBasketFile.WriteLine();
+
+					// radek je kos a pak prumery
+					foreach (var basket in basketRoundStatistics)
+					{
+						roundBasketFile.Write(basket.Key);
+
+						foreach (var round in basket.Value)
+						{
+							roundBasketFile.Write("\t{0}", round.Value.Average(t => t.DiffScore));
+						}
+						roundBasketFile.WriteLine();
+					}
+				}
+
+				// vystup po kolech v maximalni rozdil rozdil
+				using (var roundBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketMaxDiff.txt", fileName)))
+				{
+					// kola
+					foreach (var round in roundBasketStatistics)
+					{
+						roundBasketFile.Write("\t{0}", round.Key);
+					}
+					roundBasketFile.WriteLine();
+
+					// radek je kos a pak prumery
+					foreach (var basket in basketRoundStatistics)
+					{
+						roundBasketFile.Write(basket.Key);
+
+						foreach (var round in basket.Value)
+						{
+							roundBasketFile.Write("\t{0}", round.Value.Max(t => t.DiffScore));
+						}
+						roundBasketFile.WriteLine();
+					}
+				}
 			}
+		}
+
+		private static void SetBasketRoundStatisticsValue(Dictionary<int, Dictionary<int, List<Match>>> basketRoundStatistics,
+			TeamMatchInputData teamMatchInputData, Match match)
+		{
+			{
+				if (!basketRoundStatistics.ContainsKey(teamMatchInputData.Basket))
+				{
+					basketRoundStatistics.Add(teamMatchInputData.Basket, new Dictionary<int, List<Match>>());
+				}
+
+				if (!basketRoundStatistics[teamMatchInputData.Basket].ContainsKey(teamMatchInputData.Round))
+				{
+					basketRoundStatistics[teamMatchInputData.Basket].Add(teamMatchInputData.Round, new List<Match>());
+				}
+
+				basketRoundStatistics[teamMatchInputData.Basket][teamMatchInputData.Round].Add(match);
+			}
+		}
+
+		private static void SetRounBasketStatiscsValue(Dictionary<int, Dictionary<int, List<Match>>> roundBasketStatistics, TeamMatchInputData teamMatchInputData,
+			Match match)
+		{
+			if (!roundBasketStatistics.ContainsKey(teamMatchInputData.Round))
+			{
+				roundBasketStatistics.Add(teamMatchInputData.Round, new Dictionary<int, List<Match>>());
+			}
+
+			if (!roundBasketStatistics[teamMatchInputData.Round].ContainsKey(teamMatchInputData.Basket))
+			{
+				roundBasketStatistics[teamMatchInputData.Round].Add(teamMatchInputData.Basket, new List<Match>());
+			}
+
+			roundBasketStatistics[teamMatchInputData.Round][teamMatchInputData.Basket].Add(match);
+		}
+
+		private static void SetTeamsValues(
+			IDictionary<string, Team> teams,
+			TeamMatchInputData teamMatchInputData
+		)
+		{
+			if (!teams.ContainsKey(teamMatchInputData.FirstTeam))
+			{
+				teams.Add(teamMatchInputData.FirstTeam, new Team(teamMatchInputData.FirstTeam));
+			}
+
+			if (!teams.ContainsKey(teamMatchInputData.SecondTeam))
+			{
+				teams.Add(teamMatchInputData.SecondTeam, new Team(teamMatchInputData.SecondTeam));
+			}
+
+			if (!teams.ContainsKey(teamMatchInputData.Organiser))
+			{
+				teams.Add(teamMatchInputData.Organiser, new Team(teamMatchInputData.Organiser));
+			}
+
+			teams[teamMatchInputData.FirstTeam].AddRoundData(teamMatchInputData.Round, teamMatchInputData.Basket,
+				teamMatchInputData.SecondTeam);
+			teams[teamMatchInputData.SecondTeam].AddRoundData(teamMatchInputData.Round, teamMatchInputData.Basket,
+				teamMatchInputData.FirstTeam);
+			teams[teamMatchInputData.Organiser].AddOrganiser(teamMatchInputData.Round, teamMatchInputData.Basket);
 		}
 	}
 }
