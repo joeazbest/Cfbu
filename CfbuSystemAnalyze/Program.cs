@@ -24,6 +24,8 @@
 				var roundBasketStatistics = new Dictionary<int, Dictionary<int, List<Match>>>();
 				var basketRoundStatistics = new Dictionary<int, Dictionary<int, List<Match>>>();
 
+				var tournaments = new Dictionary<RoundBasket, Tournament>();
+
 				while ((line = file.ReadLine()) != null)
 				{
 					var teamMatchInputData = new TeamMatchInputData(line);
