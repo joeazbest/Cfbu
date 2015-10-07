@@ -17,9 +17,11 @@
 			this.Matches.Add(match);
 		}
 
-		public IEnumerable<Team> GetTournametTeams()
+		public IEnumerable<string> GetTournametTeams()
 		{
-			var teams = 
+			var homeTeams = this.Matches.Select(t => t.HomeTeam);
+			var foreignTeams = this.Matches.Select(t => t.ForeignTeam);
+			return homeTeams.Union(foreignTeams).Distinct();
 		} 
 
 	}

@@ -1,6 +1,7 @@
 ﻿namespace CfbuSystemAnalyze
 {
 	using System.Collections.Generic;
+	using System.Globalization;
 	using System.Linq;
 
 	internal class Team
@@ -84,7 +85,7 @@
 				}
 				else
 				{
-					output.Add(round.Value.Basket.ToString());
+					output.Add(round.Value.Basket.ToString(CultureInfo.InvariantCulture));
 				}
 			}
 

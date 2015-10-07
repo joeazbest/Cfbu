@@ -6,7 +6,7 @@
 
 	internal class Program
 	{
-		private static void Main(string[] args)
+		private static void Main()
 		{
 			var inputFiles = new List<string>
 			{
@@ -21,16 +21,11 @@
 
 				string line;
 				var teams = new Dictionary<string, Team>();
-				var roundBasketStatistics = new Dictionary<int, Dictionary<int, List<Match>>>();
-				var basketRoundStatistics = new Dictionary<int, Dictionary<int, List<Match>>>();
-
 				var tournaments = new Dictionary<RoundBasket, Tournament>();
 
 				while ((line = file.ReadLine()) != null)
 				{
 					var teamMatchInputData = new TeamMatchInputData(line);
-
-					SetTeamsValues(teams, teamMatchInputData);
 
 					var match = new Match(
 						teamMatchInputData.FirstTeam,
@@ -40,8 +35,14 @@
 						teamMatchInputData.GoalsStatus
 					);
 
-					SetRounBasketStatiscsValue(roundBasketStatistics, teamMatchInputData, match);
-					SetBasketRoundStatisticsValue(basketRoundStatistics, teamMatchInputData, match);
+					var roundBasket = new RoundBasket(teamMatchInputData.Round, teamMatchInputData.Basket);
+					if (!tournaments.ContainsKey(roundBasket))
+					{
+						tournaments.Add(roundBasket, new Tournament());
+					}
+					tournaments[roundBasket].AddMatch(match);
+
+					SetTeamsValues(teams, teamMatchInputData);
 				}
 
 				// zmeny v kosich
@@ -93,21 +94,23 @@
 				// vystup po kolech v prumerny rozdil
 				using (var roundBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketAvarageDiff.txt", fileName)))
 				{
-					// kola
-					foreach (var round in roundBasketStatistics)
+					var maxRount = tournaments.Max(t => t.Key.Round);
+					var maxBasket = tournaments.Max(t => t.Key.Basket);
+
+					for (var round = 1; round <= maxRount; round++)
 					{
-						roundBasketFile.Write("\t{0}", round.Key);
+						roundBasketFile.Write("\t{0}", round);
 					}
 					roundBasketFile.WriteLine();
 
-					// radek je kos a pak prumery
-					foreach (var basket in basketRoundStatistics)
+					for (var basket = 1; basket <= maxBasket; basket++)
 					{
-						roundBasketFile.Write(basket.Key);
+						roundBasketFile.Write(basket);
+						var allRoundForOneBasket = tournaments.Where(t => t.Key.Basket == basket);
 
-						foreach (var round in basket.Value)
+						foreach (var tournament in allRoundForOneBasket)
 						{
-							roundBasketFile.Write("\t{0}", round.Value.Average(t => t.DiffScore));
+							roundBasketFile.Write("\t{0}", tournament.Value.Matches.Average(t => t.DiffScore));
 						}
 						roundBasketFile.WriteLine();
 					}
@@ -116,60 +119,49 @@
 				// vystup po kolech v maximalni rozdil rozdil
 				using (var roundBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketMaxDiff.txt", fileName)))
 				{
-					// kola
-					foreach (var round in roundBasketStatistics)
+					var maxRount = tournaments.Max(t => t.Key.Round);
+					var maxBasket = tournaments.Max(t => t.Key.Basket);
+
+					for (var round = 1; round <= maxRount; round++)
 					{
-						roundBasketFile.Write("\t{0}", round.Key);
+						roundBasketFile.Write("\t{0}", round);
 					}
 					roundBasketFile.WriteLine();
 
-					// radek je kos a pak prumery
-					foreach (var basket in basketRoundStatistics)
+					for (var basket = 1; basket <= maxBasket; basket++)
 					{
-						roundBasketFile.Write(basket.Key);
+						roundBasketFile.Write(basket);
+						var allRoundForOneBasket = tournaments.Where(t => t.Key.Basket == basket);
 
-						foreach (var round in basket.Value)
+						foreach (var tournament in allRoundForOneBasket)
 						{
-							roundBasketFile.Write("\t{0}", round.Value.Max(t => t.DiffScore));
+							roundBasketFile.Write("\t{0}", tournament.Value.Matches.Max(t => t.DiffScore));
 						}
 						roundBasketFile.WriteLine();
 					}
 				}
-			}
-		}
 
-		private static void SetBasketRoundStatisticsValue(Dictionary<int, Dictionary<int, List<Match>>> basketRoundStatistics,
-			TeamMatchInputData teamMatchInputData, Match match)
-		{
-			{
-				if (!basketRoundStatistics.ContainsKey(teamMatchInputData.Basket))
+				using (var totalDiffScoreMatches = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-totalDiffScoreMatches.txt", fileName)))
 				{
-					basketRoundStatistics.Add(teamMatchInputData.Basket, new Dictionary<int, List<Match>>());
+					var output = new Dictionary<int, int>();	// prvni cislo je hodnota rozdilu a druhe kolikrat nastala
+					foreach (var tournament in tournaments)
+					{
+						foreach (var match in tournament.Value.Matches)
+						{
+							if (!output.ContainsKey(match.DiffScore))
+							{
+								output.Add(match.DiffScore, 0);
+							}
+							output[match.DiffScore]++;
+						}
+					}
+
+					for (var diff = 0; diff <= output.Keys.Max(); diff++)
+					{
+						totalDiffScoreMatches.WriteLine("{0}\t{1}", diff, output.ContainsKey(diff) ? output[diff] : 0);
+					}
 				}
-
-				if (!basketRoundStatistics[teamMatchInputData.Basket].ContainsKey(teamMatchInputData.Round))
-				{
-					basketRoundStatistics[teamMatchInputData.Basket].Add(teamMatchInputData.Round, new List<Match>());
-				}
-
-				basketRoundStatistics[teamMatchInputData.Basket][teamMatchInputData.Round].Add(match);
 			}
-		}
-
-		private static void SetRounBasketStatiscsValue(Dictionary<int, Dictionary<int, List<Match>>> roundBasketStatistics, TeamMatchInputData teamMatchInputData,
-			Match match)
-		{
-			if (!roundBasketStatistics.ContainsKey(teamMatchInputData.Round))
-			{
-				roundBasketStatistics.Add(teamMatchInputData.Round, new Dictionary<int, List<Match>>());
-			}
-
-			if (!roundBasketStatistics[teamMatchInputData.Round].ContainsKey(teamMatchInputData.Basket))
-			{
-				roundBasketStatistics[teamMatchInputData.Round].Add(teamMatchInputData.Basket, new List<Match>());
-			}
-
-			roundBasketStatistics[teamMatchInputData.Round][teamMatchInputData.Basket].Add(match);
 		}
 
 		private static void SetTeamsValues(
