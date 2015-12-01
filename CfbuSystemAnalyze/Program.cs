@@ -32,7 +32,8 @@
 						teamMatchInputData.SecondTeam,
 						teamMatchInputData.FirstTeamGoals,
 						teamMatchInputData.SecondTeamGoals,
-						teamMatchInputData.GoalsStatus
+						teamMatchInputData.GoalsStatus,
+						teamMatchInputData.Organiser
 					);
 
 					var roundBasket = new RoundBasket(teamMatchInputData.Round, teamMatchInputData.Basket);
@@ -46,120 +47,256 @@
 				}
 
 				// zmeny v kosich
-				using (var outputBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-Basket.txt", fileName)))
-				{
-					foreach (var team in teams.Values)
-					{
-						outputBasketFile.WriteLine("{0}\t{1}", team.Name, string.Join("\t", team.Rounds.Select(t => t.Value.Basket)));
-					}
-				}
+				WriteBaskedChange(fileName, teams);
 
 				// zmeny v kosich a poradatelstvi
-				using (var outputBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-BasketOrganiser.txt", fileName)))
-				{
-					foreach (var team in teams.Values)
-					{
-						outputBasketFile.WriteLine(
-							"{0}\t{1}",
-							team.Name,
-							string.Join("\t", team.BasketOrganiser())
-						);
-					}
-				}
+				WriteBasketOrganiser(fileName, teams);
 
 				// krizova tabulka kdo s kym kolikrat hral
-				using (var outputCrossPlayFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-CrossPlay.txt", fileName)))
-				{
-					var allTeams = teams.OrderBy(t => t.Value.BasketSum).Select(t => t.Key).ToArray();
-					outputCrossPlayFile.WriteLine("\t{0}", string.Join("\t", allTeams));
+				WrieCrossTable(fileName, teams);
 
-					foreach (var t1 in allTeams)
-					{
-						var rivals = teams[t1].GetRivals();
-						outputCrossPlayFile.Write(t1);
-
-						foreach (var t2 in allTeams)
-						{
-							var value = 0;
-							if (rivals.ContainsKey(t2))
-							{
-								value = rivals[t2];
-							}
-							outputCrossPlayFile.Write("\t{0}", value);
-						}
-						outputCrossPlayFile.WriteLine();
-					}
-				}
-
-				// vystup po kolech v prumerny rozdil
-				using (var roundBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketAvarageDiff.txt", fileName)))
-				{
-					var maxRount = tournaments.Max(t => t.Key.Round);
-					var maxBasket = tournaments.Max(t => t.Key.Basket);
-
-					for (var round = 1; round <= maxRount; round++)
-					{
-						roundBasketFile.Write("\t{0}", round);
-					}
-					roundBasketFile.WriteLine();
-
-					for (var basket = 1; basket <= maxBasket; basket++)
-					{
-						roundBasketFile.Write(basket);
-						var allRoundForOneBasket = tournaments.Where(t => t.Key.Basket == basket);
-
-						foreach (var tournament in allRoundForOneBasket)
-						{
-							roundBasketFile.Write("\t{0}", tournament.Value.Matches.Average(t => t.DiffScore));
-						}
-						roundBasketFile.WriteLine();
-					}
-				}
+				// vystup po kolech v prumerny rozdil - dva vystupy, jednou pro excel a podruhy pro LaTeX
+				WriteAvarageDiff(fileName, tournaments);
 
 				// vystup po kolech v maximalni rozdil rozdil
-				using (var roundBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketMaxDiff.txt", fileName)))
-				{
-					var maxRount = tournaments.Max(t => t.Key.Round);
-					var maxBasket = tournaments.Max(t => t.Key.Basket);
+				WrieMaxDiff(fileName, tournaments);
 
-					for (var round = 1; round <= maxRount; round++)
+				// vystup kolik kterych uktkani skoncilo jakym vysledkem
+				WriteSumMatchDiff(fileName, tournaments);
+
+				// poradatelstvi a jeho zmeny
+				using (
+					StreamWriter organizationFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-Organiser.txt", fileName)),
+						organizationEntropy = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-OrganiserEntropy.txt", fileName))
+					)
+				{
+					var organisation = new Dictionary<RoundBasket, Organization>();
+
+					foreach (var tournament in tournaments)
 					{
-						roundBasketFile.Write("\t{0}", round);
+						var tournametOrganiser = tournament.Value.GetTournamentOrganiser();
+
+						organisation.Add(
+							tournament.Key,
+							new Organization(
+								tournametOrganiser,
+								teams[tournametOrganiser].Rounds[1].Basket,
+								teams[tournametOrganiser].Rounds[tournament.Key.Round].Basket,
+								tournament.Key.Round == 1 ? (int?)null : teams[tournametOrganiser].Rounds[tournament.Key.Round - 1].Basket
+							)
+						);
 					}
-					roundBasketFile.WriteLine();
+
+					var maxBasket = tournaments.Max(t => t.Key.Basket);
+					var maxRound = tournaments.Max(t => t.Key.Round);
 
 					for (var basket = 1; basket <= maxBasket; basket++)
 					{
-						roundBasketFile.Write(basket);
-						var allRoundForOneBasket = tournaments.Where(t => t.Key.Basket == basket);
-
-						foreach (var tournament in allRoundForOneBasket)
+						var basketLocal = basket;
+						var allRoundOrganization = organisation.Where(t => t.Key.Basket == basketLocal);
+						foreach (var tournament in allRoundOrganization.OrderBy(t=>t.Key.Round))
 						{
-							roundBasketFile.Write("\t{0}", tournament.Value.Matches.Max(t => t.DiffScore));
+							organizationFile.Write(
+								"{0} - Porada {1}, Hraje {2}, HralMinule {3}, mel poradat {4}\t",
+								tournament.Value.CurrentOrganiserName,
+								tournament.Key.Basket,
+								tournament.Value.CurrentBasketPlay,
+								tournament.Value.PreviousBasketPlay,
+								tournament.Value.DrawBasketOrganisation
+							);
 						}
-						roundBasketFile.WriteLine();
+						organizationFile.WriteLine();
+					}
+
+					for (var round = 1; round <= maxRound; round++)
+					{
+						organizationEntropy.WriteLine(
+							"{0}\t{1}",
+							round,
+							organisation.Where(t => t.Key.Round == round).Sum(t => t.Value.Entropy)
+						);
+					}
+
+				}
+			}
+		}
+
+		private static void WriteSumMatchDiff(string fileName, Dictionary<RoundBasket, Tournament> tournaments)
+		{
+			using (
+				var totalDiffScoreMatches =
+					new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-totalDiffScoreMatches.txt", fileName)))
+			{
+				var output = new Dictionary<int, int>(); // prvni cislo je hodnota rozdilu a druhe kolikrat nastala
+				foreach (var tournament in tournaments)
+				{
+					foreach (var match in tournament.Value.Matches)
+					{
+						if (!output.ContainsKey(match.DiffScore))
+						{
+							output.Add(match.DiffScore, 0);
+						}
+						output[match.DiffScore]++;
 					}
 				}
 
-				using (var totalDiffScoreMatches = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-totalDiffScoreMatches.txt", fileName)))
+				for (var diff = 0; diff <= output.Keys.Max(); diff++)
 				{
-					var output = new Dictionary<int, int>();	// prvni cislo je hodnota rozdilu a druhe kolikrat nastala
-					foreach (var tournament in tournaments)
+					totalDiffScoreMatches.WriteLine("{0}\t{1}", diff, output.ContainsKey(diff) ? output[diff] : 0);
+				}
+			}
+		}
+
+		private static void WrieMaxDiff(string fileName, Dictionary<RoundBasket, Tournament> tournaments)
+		{
+			using (
+				StreamWriter roundBasketFileExcel =
+					new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketMaxDiff.txt", fileName)),
+					roundBasketFileLaTeX =
+						new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketMaxDiffLaTeX.txt", fileName))
+				)
+			{
+				var maxRount = tournaments.Max(t => t.Key.Round);
+				var maxBasket = tournaments.Max(t => t.Key.Basket);
+
+				roundBasketFileLaTeX.Write("Kolo");
+				for (var round = 1; round <= maxRount; round++)
+				{
+					roundBasketFileExcel.Write("\t{0}", round);
+					roundBasketFileLaTeX.Write(" & {0}", round);
+				}
+				roundBasketFileExcel.WriteLine();
+				roundBasketFileLaTeX.Write("\\\\");
+				roundBasketFileLaTeX.WriteLine();
+
+				for (var basket = 1; basket <= maxBasket; basket++)
+				{
+					roundBasketFileExcel.Write(basket);
+					roundBasketFileLaTeX.Write("Koš {0}", basket);
+
+					var basketLocal = basket;
+					var allRoundForOneBasket = tournaments.Where(t => t.Key.Basket == basketLocal);
+
+					foreach (var tournament in allRoundForOneBasket.OrderBy(t=> t.Key.Round))
 					{
-						foreach (var match in tournament.Value.Matches)
+						var maxDiff = tournament.Value.Matches.Max(t => t.DiffScore);
+
+						roundBasketFileExcel.Write("\t{0}", maxDiff);
+						if (maxDiff > 9)
 						{
-							if (!output.ContainsKey(match.DiffScore))
-							{
-								output.Add(match.DiffScore, 0);
-							}
-							output[match.DiffScore]++;
+							roundBasketFileLaTeX.Write(" & \\alert{{{0} }}", maxDiff);
+						}
+						else
+						{
+							roundBasketFileLaTeX.Write(" & {0}", maxDiff);
 						}
 					}
+					roundBasketFileExcel.WriteLine();
+					roundBasketFileLaTeX.Write("\\\\");
+					roundBasketFileLaTeX.WriteLine();
+				}
+			}
+		}
 
-					for (var diff = 0; diff <= output.Keys.Max(); diff++)
+		private static void WriteAvarageDiff(string fileName, Dictionary<RoundBasket, Tournament> tournaments)
+		{
+			using (
+				StreamWriter roundBasketFileExcel =
+					new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketAvarageDiff.txt", fileName)),
+					roundBasketFileLaTeX = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-RoundBasketAvarageDiffLaTeX.txt", fileName))
+				)
+			{
+				var maxRount = tournaments.Max(t => t.Key.Round);
+				var maxBasket = tournaments.Max(t => t.Key.Basket);
+
+				roundBasketFileLaTeX.Write("Kolo");
+				for (var round = 1; round <= maxRount; round++)
+				{
+					roundBasketFileExcel.Write("\t{0}", round);
+					roundBasketFileLaTeX.Write(" & {0}", round);
+				}
+				roundBasketFileExcel.WriteLine();
+				roundBasketFileLaTeX.Write("\\\\");
+				roundBasketFileLaTeX.WriteLine();
+
+				for (var basket = 1; basket <= maxBasket; basket++)
+				{
+					roundBasketFileExcel.Write(basket);
+					roundBasketFileLaTeX.Write("Koš {0}", basket);
+
+					var basketLocal = basket;
+					var allRoundForOneBasket = tournaments.Where(t => t.Key.Basket == basketLocal);
+
+					foreach (var tournament in allRoundForOneBasket.OrderBy(t => t.Key.Round))
 					{
-						totalDiffScoreMatches.WriteLine("{0}\t{1}", diff, output.ContainsKey(diff) ? output[diff] : 0);
+						var avarage = tournament.Value.Matches.Average(t => t.DiffScore);
+						roundBasketFileExcel.Write("\t{0}", avarage);
+						if (avarage > 5)
+						{
+							roundBasketFileLaTeX.Write(" & \\alert{{{0:F2} }}", avarage);
+						}
+						else
+						{
+							roundBasketFileLaTeX.Write(" & {0:F2}", avarage);
+						}
 					}
+					roundBasketFileExcel.WriteLine();
+					roundBasketFileLaTeX.Write("\\\\");
+					roundBasketFileLaTeX.WriteLine();
+				}
+			}
+		}
+
+		private static void WrieCrossTable(string fileName, Dictionary<string, Team> teams)
+		{
+			using (
+				var outputCrossPlayFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-CrossPlay.txt", fileName)))
+			{
+				var allTeams = teams.OrderBy(t => t.Value.BasketSum).Select(t => t.Key).ToArray();
+				outputCrossPlayFile.WriteLine("\t{0}", string.Join("\t", allTeams));
+
+				foreach (var t1 in allTeams)
+				{
+					var rivals = teams[t1].GetRivals();
+					outputCrossPlayFile.Write(t1);
+
+					foreach (var t2 in allTeams)
+					{
+						var value = 0;
+						if (rivals.ContainsKey(t2))
+						{
+							value = rivals[t2];
+						}
+						outputCrossPlayFile.Write("\t{0}", value);
+					}
+					outputCrossPlayFile.WriteLine();
+				}
+			}
+		}
+
+		private static void WriteBasketOrganiser(string fileName, Dictionary<string, Team> teams)
+		{
+			using (
+				var outputBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-BasketOrganiser.txt", fileName)))
+			{
+				foreach (var team in teams.Values)
+				{
+					outputBasketFile.WriteLine(
+						"{0}\t{1}",
+						team.Name,
+						string.Join("\t", team.BasketOrganiser())
+						);
+				}
+			}
+		}
+
+		private static void WriteBaskedChange(string fileName, Dictionary<string, Team> teams)
+		{
+			using (var outputBasketFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-Basket.txt", fileName)))
+			{
+				foreach (var team in teams.Values)
+				{
+					outputBasketFile.WriteLine("{0}\t{1}", team.Name, string.Join("\t", team.Rounds.Select(t => t.Value.Basket)));
 				}
 			}
 		}

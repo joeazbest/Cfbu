@@ -16,6 +16,7 @@
 			this.Name = name;
 			this.Rounds = new Dictionary<int, Round>();
 			this.Organiser = new Dictionary<int, int>();
+			this.Matches = new Dictionary<int, List<Match>>();		// todo
 		}
 
 		internal void AddRoundData(

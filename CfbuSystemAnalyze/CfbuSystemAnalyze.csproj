@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Organization.cs" />
     <Compile Include="RoundBasket.cs" />
     <Compile Include="Match.cs" />
     <Compile Include="Round.cs" />
