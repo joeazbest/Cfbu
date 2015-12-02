@@ -1,0 +1,29 @@
+	SH ZŠ Kunratice	ZŠ Vachkova	SH U Učiliště Čelákovice	Unihoc Aréna Praha	TJ Sokol Kobylisy	SH TJ Tatran Střešovice	TJ Radlice	X3M Arena Barrandov	Přetlaková SH Kladno	SH Králův Dvůr	SH BIOS Kutná Hora	SH BIOS Čelákovice	Sportcentrum Letňany	TJ Sokol Vinohrady	SH Gym. Dr. Pekaře Ml. Boleslav	ZŠ Zeleneč	SH BIOS Kladno	SH Čakovice	SH Eagles Praha	Aréna Sparta	TJ JM Chodov
+FBC Kladno bílí	2	0	0	0	0	1	0	1	1	0	0	0	1	1	0	0	1	0	1	0	0
+TJ Sokol Královské Vinohrady	1	1	0	0	2	0	0	1	0	1	0	0	0	1	0	0	0	1	0	1	0
+FBC Start98 Kunratice	2	1	0	0	0	1	0	0	1	0	0	0	1	1	0	0	1	0	1	0	0
+FBK Fat Pipe Vosy Praha	2	0	0	0	0	1	0	1	1	1	0	0	0	0	1	0	0	1	1	0	0
+Tatran Střešovice Red	2	1	0	0	1	1	0	0	0	0	0	0	1	1	0	0	1	0	0	1	0
+BLACK ANGELS 2004	2	0	0	0	0	1	0	0	1	0	0	0	3	0	1	0	0	0	0	0	1
+Florbalová akademie MB	0	1	0	0	2	0	0	2	0	1	0	0	0	0	1	0	0	1	0	1	0
+Sokol Rudná	0	1	0	1	0	0	1	0	0	3	0	0	1	0	0	1	0	0	0	1	0
+Technology Florbal MB	0	2	0	0	2	0	0	1	0	0	0	0	1	1	0	0	1	0	1	0	0
+AC Sparta Praha RED	0	1	0	0	0	1	0	2	1	0	0	0	0	1	0	0	1	1	1	0	0
+AC Sparta Praha BLUE	0	1	1	0	1	0	0	0	0	0	0	1	2	0	1	0	0	0	1	1	0
+Viking group TJ Sokol Kobylisy	0	1	0	0	2	0	0	1	0	0	0	2	1	0	0	0	0	0	1	0	1
+FBC Start98 Kunratice B	0	0	1	0	0	0	1	1	0	1	0	2	1	0	0	0	0	1	0	0	1
+FBK CONEP Vosy Praha	0	0	2	0	0	0	0	2	0	0	0	0	2	0	0	1	0	0	1	1	0
+TEMPISH Orka Čelákovice	0	1	2	0	0	0	1	0	0	0	0	1	0	0	1	0	1	1	0	1	0
+BLACK ANGELS 2005	0	0	1	0	1	0	0	1	1	0	0	1	2	0	0	0	0	0	1	1	0
+DDM Horní Počernice ORKA B	0	0	2	0	0	0	1	2	0	1	0	1	0	0	0	0	0	0	1	0	1
+FbC Panthers	1	1	1	0	1	0	1	0	0	1	0	0	1	0	1	0	0	0	1	0	0
+AC Sparta Praha YELLOW	0	0	1	1	1	0	0	2	0	1	0	0	1	0	0	1	0	0	0	1	0
+T.B.C. Králův Dvůr	0	0	0	2	0	0	0	2	0	2	0	1	0	0	0	1	0	0	0	1	0
+Tatran Střešovice Black	0	0	1	2	0	0	0	1	0	0	0	2	1	0	0	0	0	0	1	0	1
+AC Sparta Praha BLACK	0	0	1	2	0	0	0	2	0	0	2	0	1	0	0	0	0	0	0	1	0
+TEMPISH Orka Čelákovice C	0	0	2	1	1	0	0	0	0	0	3	0	2	0	0	0	0	0	0	0	0
+Athletics Praha Černý Most	0	0	1	2	0	0	1	0	0	1	0	0	2	0	0	1	0	0	0	1	0
+FBC Kutná Hora	0	0	2	0	2	0	0	0	0	0	3	0	2	0	0	0	0	0	0	0	0
+Athletics Praha Prosek	0	0	1	1	1	0	0	0	0	1	2	0	2	0	0	1	0	0	0	0	0
+Viking TJ Sokol Kobylisy B	0	0	1	0	2	0	0	0	0	2	2	0	2	0	0	0	0	0	0	0	0
+FbŠ Bohemians	0	0	0	0	1	0	0	2	0	2	0	1	2	0	0	0	0	0	0	0	1

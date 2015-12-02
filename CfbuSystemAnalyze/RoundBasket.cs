@@ -6,14 +6,17 @@
 	{
 		public int Round { get; private set; }
 		public int Basket { get; private set; }
+		public string SportHall { get; private set; }
 
 		public RoundBasket(
 			int round,
-			int basket
+			int basket,
+			string sportHall
 			)
 		{
 			this.Round = round;
 			this.Basket = basket;
+			this.SportHall = sportHall;
 		}
 
 		public bool Equals(RoundBasket other)

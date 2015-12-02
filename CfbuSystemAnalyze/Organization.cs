@@ -26,7 +26,7 @@
 		{
 			get
 			{
-				var diff = Math.Abs(this.DrawBasketOrganisation - (this.PreviousBasketPlay ?? this.DrawBasketOrganisation));
+				var diff = Math.Abs(this.DrawBasketOrganisation - this.CurrentBasketPlay);
 
 				return (int)Math.Pow(10, diff);
 			}

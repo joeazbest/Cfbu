@@ -3,6 +3,7 @@
 	using System.Collections.Generic;
 	using System.IO;
 	using System.Linq;
+	using System.Linq.Expressions;
 
 	internal class Program
 	{
@@ -36,7 +37,7 @@
 						teamMatchInputData.Organiser
 					);
 
-					var roundBasket = new RoundBasket(teamMatchInputData.Round, teamMatchInputData.Basket);
+					var roundBasket = new RoundBasket(teamMatchInputData.Round, teamMatchInputData.Basket, teamMatchInputData.SportHall);
 					if (!tournaments.ContainsKey(roundBasket))
 					{
 						tournaments.Add(roundBasket, new Tournament());
@@ -65,61 +66,119 @@
 				WriteSumMatchDiff(fileName, tournaments);
 
 				// poradatelstvi a jeho zmeny
+				WriteOrganization(fileName, tournaments, teams);
+
+				// haly
 				using (
-					StreamWriter organizationFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-Organiser.txt", fileName)),
-						organizationEntropy = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-OrganiserEntropy.txt", fileName))
-					)
+					var sportHallFile = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-SportHall.txt", fileName))
+				)
 				{
-					var organisation = new Dictionary<RoundBasket, Organization>();
+					var sportHalls = new HashSet<string>();
+					foreach (var tournament in tournaments)
+					{
+						sportHalls.Add(tournament.Key.SportHall);
+					}
+
+					var teamSportHalls = new Dictionary<string, Dictionary<string, int>>();	//string - naze tymu, string - hala, int - kolikrat
+					foreach (var team in teams)
+					{
+						teamSportHalls.Add(team.Key, new Dictionary<string, int>());
+						foreach (var sportHall in sportHalls)
+						{
+							teamSportHalls[team.Key].Add(sportHall, 0);
+						}
+					}
 
 					foreach (var tournament in tournaments)
 					{
-						var tournametOrganiser = tournament.Value.GetTournamentOrganiser();
-
-						organisation.Add(
-							tournament.Key,
-							new Organization(
-								tournametOrganiser,
-								teams[tournametOrganiser].Rounds[1].Basket,
-								teams[tournametOrganiser].Rounds[tournament.Key.Round].Basket,
-								tournament.Key.Round == 1 ? (int?)null : teams[tournametOrganiser].Rounds[tournament.Key.Round - 1].Basket
-							)
-						);
-					}
-
-					var maxBasket = tournaments.Max(t => t.Key.Basket);
-					var maxRound = tournaments.Max(t => t.Key.Round);
-
-					for (var basket = 1; basket <= maxBasket; basket++)
-					{
-						var basketLocal = basket;
-						var allRoundOrganization = organisation.Where(t => t.Key.Basket == basketLocal);
-						foreach (var tournament in allRoundOrganization.OrderBy(t=>t.Key.Round))
+						foreach (var team in tournament.Value.GetTournametTeams())
 						{
-							organizationFile.Write(
-								"{0} - Porada {1}, Hraje {2}, HralMinule {3}, mel poradat {4}\t",
-								tournament.Value.CurrentOrganiserName,
-								tournament.Key.Basket,
-								tournament.Value.CurrentBasketPlay,
-								tournament.Value.PreviousBasketPlay,
-								tournament.Value.DrawBasketOrganisation
-							);
+							teamSportHalls[team][tournament.Key.SportHall]++;
 						}
-						organizationFile.WriteLine();
 					}
 
-					for (var round = 1; round <= maxRound; round++)
+					foreach (var hall in teamSportHalls.First().Value)
 					{
-						organizationEntropy.WriteLine(
-							"{0}\t{1}",
-							round,
-							organisation.Where(t => t.Key.Round == round).Sum(t => t.Value.Entropy)
-						);
+						sportHallFile.Write("\t{0}", hall.Key);
+					}
+					sportHallFile.WriteLine();
+
+					foreach (var teamSportHall in teamSportHalls)
+					{
+						sportHallFile.Write(teamSportHall.Key);
+
+						foreach (var hall in teamSportHall.Value)
+						{
+							sportHallFile.Write("\t{0}", hall.Value);
+						}
+						sportHallFile.WriteLine();
 					}
 
 				}
 			}
 		}
+
+		private static void WriteOrganization(string fileName, Dictionary<RoundBasket, Tournament> tournaments, Dictionary<string, Team> teams)
+		{
+			using (
+				StreamWriter organizationFile =
+					new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-Organiser.txt", fileName)),
+					organizationEntropy = new StreamWriter(string.Format("..\\..\\CategoryTxtOuput\\{0}-OrganiserEntropy.txt", fileName))
+				)
+			{
+				var organisation = new Dictionary<RoundBasket, Organization>();
+
+				foreach (var tournament in tournaments)
+				{
+					var tournametOrganiser = tournament.Value.GetTournamentOrganiser();
+
+					organisation.Add(
+						tournament.Key,
+						new Organization(
+							tournametOrganiser,
+							teams[tournametOrganiser].Rounds[1].Basket,
+							teams[tournametOrganiser].Rounds[tournament.Key.Round].Basket,
+							tournament.Key.Round == 1 ? (int?) null : teams[tournametOrganiser].Rounds[tournament.Key.Round - 1].Basket
+							)
+						);
+				}
+
+				var maxBasket = tournaments.Max(t => t.Key.Basket);
+				var maxRound = tournaments.Max(t => t.Key.Round);
+
+				for (var basket = 1; basket <= maxBasket; basket++)
+				{
+					var basketLocal = basket;
+					var allRoundOrganization = organisation.Where(t => t.Key.Basket == basketLocal);
+					foreach (var tournament in allRoundOrganization.OrderBy(t => t.Key.Round))
+					{
+						organizationFile.Write(
+							"{0} -  Hraje {2} mel poradat {4}\t",
+							tournament.Value.CurrentOrganiserName,
+							tournament.Key.Basket,
+							tournament.Value.CurrentBasketPlay,
+							tournament.Value.PreviousBasketPlay,
+							tournament.Value.DrawBasketOrganisation
+							);
+					}
+					organizationFile.WriteLine();
+				}
+
+				var entropyMinimalize = new EntropyMinimalize(maxBasket);
+
+				for (var round = 1; round <= maxRound; round++)
+				{
+					organizationEntropy.WriteLine(
+						"{0}\t{1}\t{2}",
+						round,
+						organisation.Where(t => t.Key.Round == round).Sum(t => t.Value.Entropy),
+						entropyMinimalize.MinEntropy(
+							organisation.Where(t => t.Key.Round == round).Select(t => t.Value.CurrentBasketPlay).ToList())
+						);
+				}
+			}
+		}
+
 
 		private static void WriteSumMatchDiff(string fileName, Dictionary<RoundBasket, Tournament> tournaments)
 		{
